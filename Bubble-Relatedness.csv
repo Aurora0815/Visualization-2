@@ -1,0 +1,103 @@
+Continent ID,Continent,Country ID,Country,Trade Value ECI,HS6 ID,Trade Value,HS2,HS4,HS6,HS2 ID,HS4 ID,Relatedness,Distance,RCA,type
+af,Africa,afago,Angola,-1.2874 ,2100640,"4,442 ",Cereals,Rice,"Rice, broken",210,21006,0.0070 ,0.993004519,0.0015 ,Circle
+af,Africa,afbfa,Burkina Faso,-1.6711 ,2100640,"915,518 ",Cereals,Rice,"Rice, broken",210,21006,0.0241 ,0.975934763,0.8104 ,Circle
+af,Africa,afbwa,Botswana,-0.5776 ,2100640,"436,556 ",Cereals,Rice,"Rice, broken",210,21006,0.0382 ,0.961753787,0.6878 ,Circle
+af,Africa,afciv,Cote d'Ivoire,-1.1730 ,2100640,"741,317 ",Cereals,Rice,"Rice, broken",210,21006,0.0444 ,0.955589604,0.5072 ,Circle
+af,Africa,afcmr,Cameroon,-1.3717 ,2100640,"14,969 ",Cereals,Rice,"Rice, broken",210,21006,0.0346 ,0.965428584,0.0292 ,Circle
+af,Africa,afcod,Democratic Republic of the Congo,-1.4636 ,2100640,"1,431 ",Cereals,Rice,"Rice, broken",210,21006,0.0180 ,0.981963909,0.0005 ,Circle
+af,Africa,afcog,Republic of the Congo,-1.0900 ,2100640,"526,093 ",Cereals,Rice,"Rice, broken",210,21006,0.0257 ,0.974268862,0.4885 ,Circle
+af,Africa,afdza,Algeria,-1.1916 ,2100640,"99,354 ",Cereals,Rice,"Rice, broken",210,21006,0.0136 ,0.986419314,0.0380 ,Circle
+af,Africa,afegy,Egypt,-0.1664 ,2100640,"278,921 ",Cereals,Rice,"Rice, broken",210,21006,0.2718 ,0.728190864,0.0599 ,Circle
+af,Africa,afgha,Ghana,-1.3193 ,2100640,"5,124 ",Cereals,Rice,"Rice, broken",210,21006,0.0472 ,0.952831204,0.0028 ,Circle
+af,Africa,afken,Kenya,-0.4720 ,2100640,"180,277 ",Cereals,Rice,"Rice, broken",210,21006,0.2087 ,0.791265382,0.1993 ,Circle
+af,Africa,afmar,Morocco,-0.5040 ,2100640,"2,768 ",Cereals,Rice,"Rice, broken",210,21006,0.1833 ,0.816726449,0.0006 ,Circle
+af,Africa,afmdg,Madagascar,-1.2426 ,2100640,"2,008 ",Cereals,Rice,"Rice, broken",210,21006,0.1641 ,0.835915236,0.0059 ,Circle
+af,Africa,afmoz,Mozambique,-1.2425 ,2100640,"6,798,426 ",Cereals,Rice,"Rice, broken",210,21006,0.0892 ,0.910751767,9.1340 ,Circle
+af,Africa,afmrt,Mauritania,-1.2958 ,2100640,"650,027 ",Cereals,Rice,"Rice, broken",210,21006,0.0341 ,0.965910382,1.2674 ,Circle
+af,Africa,afnam,Namibia,-0.6633 ,2100640,"1,328 ",Cereals,Rice,"Rice, broken",210,21006,0.0707 ,0.929255675,0.0015 ,Circle
+af,Africa,afnga,Nigeria,-1.6484 ,2100640,"4,184 ",Cereals,Rice,"Rice, broken",210,21006,0.0412 ,0.958784629,0.0007 ,Circle
+af,Africa,afsdn,Sudan,-1.2878 ,2100640,35 ,Cereals,Rice,"Rice, broken",210,21006,0.0313 ,0.968729387,0.0001 ,Circle
+af,Africa,afsen,Senegal,-0.7036 ,2100640,"19,215,662 ",Cereals,Rice,"Rice, broken",210,21006,0.1412 ,0.85881746,34.1918 ,Circle
+af,Africa,aftgo,Togo,-0.8676 ,2100640,"163,745 ",Cereals,Rice,"Rice, broken",210,21006,0.0999 ,0.900081743,0.7135 ,Circle
+af,Africa,aftza,Tanzania,-0.6537 ,2100640,"3,640,534 ",Cereals,Rice,"Rice, broken",210,21006,0.1200 ,0.879980231,4.4413 ,Circle
+af,Africa,afuga,Uganda,-0.9699 ,2100640,"7,422,312 ",Cereals,Rice,"Rice, broken",210,21006,0.1292 ,0.870774951,9.1168 ,Circle
+af,Africa,afzaf,South Africa,0.0858 ,2100640,"18,506,260 ",Cereals,Rice,"Rice, broken",210,21006,0.2449 ,0.755054051,1.3135 ,Circle
+af,Africa,afzmb,Zambia,-0.7071 ,2100640,"140,718 ",Cereals,Rice,"Rice, broken",210,21006,0.0681 ,0.931931276,0.0926 ,Circle
+as,Asia,asare,United Arab Emirates,0.1573 ,2100640,"4,219,937 ",Cereals,Rice,"Rice, broken",210,21006,0.1576 ,0.842354066,0.1411 ,Circle
+as,Asia,asarm,Armenia,-0.3725 ,2100640,50 ,Cereals,Rice,"Rice, broken",210,21006,0.0822 ,0.917763026,0.0001 ,Circle
+as,Asia,asbgd,Bangladesh,-1.1915 ,2100640,"25,769 ",Cereals,Rice,"Rice, broken",210,21006,0.1518 ,0.848169295,0.0045 ,Circle
+as,Asia,aschn,China,0.9647 ,2100640,"28,459,375 ",Cereals,Rice,"Rice, broken",210,21006,0.4329 ,0.567145081,0.0775 ,Circle
+as,Asia,ashkg,Hong Kong,1.1077 ,2100640,"511,812 ",Cereals,Rice,"Rice, broken",210,21006,0.1964 ,0.803576003,0.0292 ,Circle
+as,Asia,asidn,Indonesia,-0.0932 ,2100640,"202,481 ",Cereals,Rice,"Rice, broken",210,21006,0.2718 ,0.72818394,0.0082 ,Circle
+as,Asia,asind,India,0.5563 ,2100640,"361,219,486 ",Cereals,Rice,"Rice, broken",210,21006,0.4646 ,0.535435613,9.1772 ,Circle
+as,Asia,asirn,Iran,-0.0949 ,2100640,"8,517 ",Cereals,Rice,"Rice, broken",210,21006,0.1250 ,0.874986055,0.0057 ,Circle
+as,Asia,asirq,Iraq,-0.6919 ,2100640,3 ,Cereals,Rice,"Rice, broken",210,21006,0.0072 ,0.992770681,0.0000 ,Circle
+as,Asia,asisr,Israel,1.1606 ,2100640,"48,297 ",Cereals,Rice,"Rice, broken",210,21006,0.1742 ,0.825818045,0.0069 ,Circle
+as,Asia,asjpn,Japan,2.1855 ,2100640,"2,926,984 ",Cereals,Rice,"Rice, broken",210,21006,0.1769 ,0.823136749,0.0339 ,Circle
+as,Asia,askaz,Kazakhstan,-0.2451 ,2100640,"16,166,718 ",Cereals,Rice,"Rice, broken",210,21006,0.0668 ,0.933224651,2.2928 ,Circle
+as,Asia,askgz,Kyrgyzstan,-0.2007 ,2100640,23 ,Cereals,Rice,"Rice, broken",210,21006,0.0873 ,0.912738655,0.0001 ,Circle
+as,Asia,askhm,Cambodia,-1.0200 ,2100640,"18,508,499 ",Cereals,Rice,"Rice, broken",210,21006,0.1835 ,0.816454111,4.6513 ,Circle
+as,Asia,askor,South Korea,1.8755 ,2100640,"642,847 ",Cereals,Rice,"Rice, broken",210,21006,0.1423 ,0.857670785,0.0087 ,Circle
+as,Asia,askwt,Kuwait,0.0594 ,2100640,834 ,Cereals,Rice,"Rice, broken",210,21006,0.0351 ,0.964885369,0.0001 ,Circle
+as,Asia,aslao,Laos,-1.0570 ,2100640,"7,632,507 ",Cereals,Rice,"Rice, broken",210,21006,0.0881 ,0.911945477,8.8108 ,Circle
+as,Asia,aslbn,Lebanon,0.2831 ,2100640,"3,279,802 ",Cereals,Rice,"Rice, broken",210,21006,0.2343 ,0.765691629,5.5828 ,Circle
+as,Asia,aslka,Sri Lanka,-0.5150 ,2100640,"232,603 ",Cereals,Rice,"Rice, broken",210,21006,0.2353 ,0.764728039,0.1484 ,Circle
+as,Asia,asmmr,Burma,-1.1757 ,2100640,"283,513,009 ",Cereals,Rice,"Rice, broken",210,21006,0.2285 ,0.771513385,105.3639 ,Circle
+as,Asia,asmng,Mongolia,-1.2362 ,2100640,"345,235 ",Cereals,Rice,"Rice, broken",210,21006,0.0260 ,0.973950483,0.2940 ,Circle
+as,Asia,asmys,Malaysia,1.0226 ,2100640,"24,562,478 ",Cereals,Rice,"Rice, broken",210,21006,0.1473 ,0.852717213,0.6652 ,Circle
+as,Asia,aspak,Pakistan,-0.7123 ,2100640,"336,877,099 ",Cereals,Rice,"Rice, broken",210,21006,0.3189 ,0.681115062,95.1400 ,Circle
+as,Asia,asphl,Philippines,0.5760 ,2100640,"3,634 ",Cereals,Rice,"Rice, broken",210,21006,0.1275 ,0.872496313,0.0003 ,Circle
+as,Asia,assau,Saudi Arabia,0.8587 ,2100640,"14,590 ",Cereals,Rice,"Rice, broken",210,21006,0.0717 ,0.928282153,0.0006 ,Circle
+as,Asia,assgp,Singapore,1.8380 ,2100640,"2,606,349 ",Cereals,Rice,"Rice, broken",210,21006,0.0992 ,0.900834368,0.0668 ,Circle
+as,Asia,astha,Thailand,0.9113 ,2100640,"331,144,095 ",Cereals,Rice,"Rice, broken",210,21006,0.2970 ,0.703003949,9.8291 ,Circle
+as,Asia,astur,Turkey,0.5804 ,2100640,"4,699,507 ",Cereals,Rice,"Rice, broken",210,21006,0.4114 ,0.588636685,0.1920 ,Circle
+as,Asia,asvnm,Vietnam,-0.0574 ,2100640,"390,615,801 ",Cereals,Rice,"Rice, broken",210,21006,0.3052 ,0.694798728,9.3831 ,Circle
+as,Asia,asxxb,Chinese Taipei,1.9738 ,2100640,"1,404,334 ",Cereals,Rice,"Rice, broken",210,21006,0.1523 ,0.847684273,0.0271 ,Circle
+eu,Europe,euaut,Austria,1.5192 ,2100640,"753,582 ",Cereals,Rice,"Rice, broken",210,21006,0.2543 ,0.745710206,0.0339 ,Circle
+eu,Europe,eubel,Belgium,1.3336 ,2100640,"68,095,586 ",Cereals,Rice,"Rice, broken",210,21006,0.3332 ,0.666819028,1.5901 ,Circle
+eu,Europe,eubgr,Bulgaria,0.5177 ,2100640,"677,829 ",Cereals,Rice,"Rice, broken",210,21006,0.3069 ,0.693073828,0.1474 ,Circle
+eu,Europe,euche,Switzerland,1.9887 ,2100640,"85,967 ",Cereals,Rice,"Rice, broken",210,21006,0.0998 ,0.900183903,0.0020 ,Circle
+eu,Europe,eucze,Czechia,1.5683 ,2100640,"86,193 ",Cereals,Rice,"Rice, broken",210,21006,0.1927 ,0.807264526,0.0033 ,Circle
+eu,Europe,eudeu,Germany,1.8806 ,2100640,"2,204,554 ",Cereals,Rice,"Rice, broken",210,21006,0.2882 ,0.711787581,0.0120 ,Circle
+eu,Europe,eudnk,Denmark,0.9680 ,2100640,"151,197 ",Cereals,Rice,"Rice, broken",210,21006,0.2674 ,0.732572172,0.0107 ,Circle
+eu,Europe,euesp,Spain,0.7618 ,2100640,"12,187,763 ",Cereals,Rice,"Rice, broken",210,21006,0.4346 ,0.56539995,0.2948 ,Circle
+eu,Europe,eufin,Finland,1.4696 ,2100640,"3,929 ",Cereals,Rice,"Rice, broken",210,21006,0.1450 ,0.855021333,0.0004 ,Circle
+eu,Europe,eufra,France,1.3422 ,2100640,"2,112,854 ",Cereals,Rice,"Rice, broken",210,21006,0.3391 ,0.660867873,0.0323 ,Circle
+eu,Europe,eugbr,United Kingdom,1.4246 ,2100640,"3,502,117 ",Cereals,Rice,"Rice, broken",210,21006,0.2716 ,0.728445241,0.0681 ,Circle
+eu,Europe,eugrc,Greece,0.2553 ,2100640,"4,716,707 ",Cereals,Rice,"Rice, broken",210,21006,0.2397 ,0.760272041,0.9499 ,Circle
+eu,Europe,euhrv,Croatia,0.7307 ,2100640,59 ,Cereals,Rice,"Rice, broken",210,21006,0.2329 ,0.767054905,0.0000 ,Circle
+eu,Europe,euhun,Hungary,1.3952 ,2100640,"6,948 ",Cereals,Rice,"Rice, broken",210,21006,0.1728 ,0.827244871,0.0004 ,Circle
+eu,Europe,euirl,Ireland,1.3410 ,2100640,"103,047 ",Cereals,Rice,"Rice, broken",210,21006,0.0703 ,0.929743355,0.0038 ,Circle
+eu,Europe,euita,Italy,1.2967 ,2100640,"18,550,687 ",Cereals,Rice,"Rice, broken",210,21006,0.4121 ,0.587871233,0.2783 ,Circle
+eu,Europe,eultu,Lithuania,0.8934 ,2100640,"274,515 ",Cereals,Rice,"Rice, broken",210,21006,0.2607 ,0.739338231,0.0594 ,Circle
+eu,Europe,eumda,Moldova,-0.1754 ,2100640,"138,522 ",Cereals,Rice,"Rice, broken",210,21006,0.1480 ,0.852029353,0.3324 ,Circle
+eu,Europe,eumkd,North Macedonia,-0.0088 ,2100640,"923,737 ",Cereals,Rice,"Rice, broken",210,21006,0.1252 ,0.874803288,0.9180 ,Circle
+eu,Europe,eunld,Netherlands,1.1316 ,2100640,"24,329,297 ",Cereals,Rice,"Rice, broken",210,21006,0.3153 ,0.684702732,0.3433 ,Circle
+eu,Europe,eunor,Norway,0.7096 ,2100640,"4,333 ",Cereals,Rice,"Rice, broken",210,21006,0.1045 ,0.895457001,0.0004 ,Circle
+eu,Europe,eupol,Poland,1.0283 ,2100640,"183,531 ",Cereals,Rice,"Rice, broken",210,21006,0.3261 ,0.673922853,0.0051 ,Circle
+eu,Europe,euprt,Portugal,0.4684 ,2100640,"6,939,836 ",Cereals,Rice,"Rice, broken",210,21006,0.3594 ,0.640555727,0.8048 ,Circle
+eu,Europe,eurou,Romania,1.0051 ,2100640,"59,098 ",Cereals,Rice,"Rice, broken",210,21006,0.2287 ,0.771290578,0.0058 ,Circle
+eu,Europe,eurus,Russia,0.4993 ,2100640,"5,379,993 ",Cereals,Rice,"Rice, broken",210,21006,0.1139 ,0.886085079,0.1175 ,Circle
+eu,Europe,eusrb,Serbia,0.6773 ,2100640,"20,017 ",Cereals,Rice,"Rice, broken",210,21006,0.2117 ,0.788264089,0.0070 ,Circle
+eu,Europe,eusvk,Slovakia,1.3111 ,2100640,"475,750 ",Cereals,Rice,"Rice, broken",210,21006,0.1573 ,0.842744798,0.0397 ,Circle
+eu,Europe,eusvn,Slovenia,1.4582 ,2100640,369 ,Cereals,Rice,"Rice, broken",210,21006,0.1871 ,0.812850531,0.0001 ,Circle
+eu,Europe,euswe,Sweden,1.5862 ,2100640,"290,473 ",Cereals,Rice,"Rice, broken",210,21006,0.1906 ,0.809437,0.0138 ,Circle
+eu,Europe,euukr,Ukraine,0.5008 ,2100640,"16,721 ",Cereals,Rice,"Rice, broken",210,21006,0.1530 ,0.846964685,0.0023 ,Circle
+na,North America,nacan,Canada,0.9304 ,2100640,"163,966 ",Cereals,Rice,"Rice, broken",210,21006,0.1782 ,0.821800663,0.0032 ,Circle
+na,North America,nacri,Costa Rica,0.1769 ,2100640,"3,794,879 ",Cereals,Rice,"Rice, broken",210,21006,0.1418 ,0.858236897,1.9567 ,Circle
+na,North America,nadom,Dominican Republic,-0.1309 ,2100640,"1,925,506 ",Cereals,Rice,"Rice, broken",210,21006,0.1750 ,0.82499315,1.2635 ,Circle
+na,North America,nahnd,Honduras,-0.7151 ,2100640,"2,721,798 ",Cereals,Rice,"Rice, broken",210,21006,0.1522 ,0.847849982,2.4371 ,Circle
+na,North America,najam,Jamaica,-0.3714 ,2100640,182 ,Cereals,Rice,"Rice, broken",210,21006,0.0820 ,0.918011285,0.0010 ,Circle
+na,North America,namex,Mexico,1.1473 ,2100640,"4,845,208 ",Cereals,Rice,"Rice, broken",210,21006,0.1448 ,0.855184772,0.0819 ,Circle
+na,North America,nanic,Nicaragua,-1.0994 ,2100640,"1,058,899 ",Cereals,Rice,"Rice, broken",210,21006,0.1337 ,0.866328859,1.3997 ,Circle
+na,North America,napan,Panama,-0.0080 ,2100640,"364,519 ",Cereals,Rice,"Rice, broken",210,21006,0.1363 ,0.863660833,0.6513 ,Circle
+na,North America,naslv,El Salvador,-0.1588 ,2100640,"26,864 ",Cereals,Rice,"Rice, broken",210,21006,0.2004 ,0.79960491,0.0365 ,Circle
+na,North America,nausa,United States,1.5560 ,2100640,"41,593,505 ",Cereals,Rice,"Rice, broken",210,21006,0.2645 ,0.735509513,0.2232 ,Circle
+oc,Oceania,ocaus,Australia,-0.3106 ,2100640,"406,386 ",Cereals,Rice,"Rice, broken",210,21006,0.0870 ,0.912980121,0.0117 ,Circle
+oc,Oceania,ocnzl,New Zealand,0.4486 ,2100640,"6,068 ",Cereals,Rice,"Rice, broken",210,21006,0.1257 ,0.874337377,0.0011 ,Circle
+sa,South America,saarg,Argentina,0.0871 ,2100640,"6,773,187 ",Cereals,Rice,"Rice, broken",210,21006,0.1214 ,0.878622175,0.8944 ,Circle
+sa,South America,sabra,Brazil,0.4390 ,2100640,"137,746,479 ",Cereals,Rice,"Rice, broken",210,21006,0.1721 ,0.827944197,4.6341 ,Circle
+sa,South America,sachl,Chile,-0.1990 ,2100640,"11,712 ",Cereals,Rice,"Rice, broken",210,21006,0.0842 ,0.915788927,0.0011 ,Circle
+sa,South America,saper,Peru,-0.6826 ,2100640,"210,853 ",Cereals,Rice,"Rice, broken",210,21006,0.1114 ,0.888595316,0.0375 ,Circle
+sa,South America,sapry,Paraguay,-0.4531 ,2100640,"20,878,336 ",Cereals,Rice,"Rice, broken",210,21006,0.0744 ,0.925594645,17.3875 ,Circle
+sa,South America,saury,Uruguay,0.0001 ,2100640,"27,935,875 ",Cereals,Rice,"Rice, broken",210,21006,0.0932 ,0.906806596,26.5512 ,Circle

@@ -1,0 +1,2015 @@
+Year,Continent ID,Continent,Country ID,Country,ISO 3,Trade Value,share
+2020,af,Africa,afago,Angola,ago,"4,626 ",1.73E-07
+2020,af,Africa,afbdi,Burundi,bdi,"2,654 ",9.91E-08
+2020,af,Africa,afben,Benin,ben,"160,529 ",5.99574E-06
+2020,af,Africa,afbfa,Burkina Faso,bfa,"2,643,216 ",9.87239E-05
+2020,af,Africa,afbwa,Botswana,bwa,"511,670 ",1.91108E-05
+2020,af,Africa,afciv,Cote d'Ivoire,civ,"1,712,332 ",6.39555E-05
+2020,af,Africa,afcmr,Cameroon,cmr,"18,527 ",6.92E-07
+2020,af,Africa,afcod,Democratic Republic of the Congo,cod,"44,178 ",1.65004E-06
+2020,af,Africa,afcog,Republic of the Congo,cog,"568,739 ",2.12424E-05
+2020,af,Africa,afcom,Comoros,com,"14,619 ",5.46E-07
+2020,af,Africa,afdza,Algeria,dza,"100,649 ",3.75923E-06
+2020,af,Africa,afegy,Egypt,egy,"1,189,587 ",4.4431E-05
+2020,af,Africa,aferi,Eritrea,eri,1 ,3.73E-11
+2020,af,Africa,afeth,Ethiopia,eth,47 ,1.76E-09
+2020,af,Africa,afgha,Ghana,gha,"219,892 ",8.21295E-06
+2020,af,Africa,afgin,Guinea,gin,"128,715 ",4.80749E-06
+2020,af,Africa,afgmb,Gambia,gmb,"48,688 ",1.81849E-06
+2020,af,Africa,afken,Kenya,ken,"303,629 ",1.13405E-05
+2020,af,Africa,aflso,Lesotho,lso,"22,868 ",8.54E-07
+2020,af,Africa,afmar,Morocco,mar,"448,515 ",1.6752E-05
+2020,af,Africa,afmdg,Madagascar,mdg,"18,180 ",6.79E-07
+2020,af,Africa,afmoz,Mozambique,moz,"22,072,951 ",0.000824423
+2020,af,Africa,afmrt,Mauritania,mrt,"650,027 ",2.42785E-05
+2020,af,Africa,afmus,Mauritius,mus,"15,426,608 ",0.000576183
+2020,af,Africa,afmwi,Malawi,mwi,"280,324 ",1.04701E-05
+2020,af,Africa,afnam,Namibia,nam,"283,188 ",1.0577E-05
+2020,af,Africa,afner,Niger,ner,"56,950 ",2.12708E-06
+2020,af,Africa,afnga,Nigeria,nga,"41,342 ",1.54412E-06
+2020,af,Africa,afrwa,Rwanda,rwa,"159,935 ",5.97356E-06
+2020,af,Africa,afsdn,Sudan,sdn,35 ,1.31E-09
+2020,af,Africa,afsen,Senegal,sen,"24,653,143 ",0.000920793
+2020,af,Africa,afsle,Sierra Leone,sle,"3,286 ",1.23E-07
+2020,af,Africa,afsom,Somalia,som,3 ,1.12E-10
+2020,af,Africa,afssd,South Sudan,ssd,"4,145 ",1.55E-07
+2020,af,Africa,afswz,Eswatini,swz,"14,794 ",5.53E-07
+2020,af,Africa,afsyc,Seychelles,syc,"26,298 ",9.82E-07
+2020,af,Africa,aftgo,Togo,tgo,"1,054,199 ",3.93742E-05
+2020,af,Africa,aftun,Tunisia,tun,14 ,5.23E-10
+2020,af,Africa,aftza,Tanzania,tza,"109,638,302 ",0.004094982
+2020,af,Africa,afuga,Uganda,uga,"18,233,950 ",0.000681037
+2020,af,Africa,afzaf,South Africa,zaf,"70,036,356 ",0.002615852
+2020,af,Africa,afzmb,Zambia,zmb,"1,160,520 ",4.33453E-05
+2020,as,Asia,asafg,Afghanistan,afg,"2,090 ",7.81E-08
+2020,as,Asia,asare,United Arab Emirates,are,"60,273,994 ",0.002251229
+2020,as,Asia,asarm,Armenia,arm,"3,129 ",1.17E-07
+2020,as,Asia,asaze,Azerbaijan,aze,"69,012 ",2.57759E-06
+2020,as,Asia,asbgd,Bangladesh,bgd,"14,652,043 ",0.000547253
+2020,as,Asia,asbhr,Bahrain,bhr,"4,712 ",1.76E-07
+2020,as,Asia,asbrn,Brunei,brn,"24,320 ",9.08E-07
+2020,as,Asia,asbtn,Bhutan,btn,621 ,2.32E-08
+2020,as,Asia,aschn,China,chn,"1,139,189,488 ",0.042548634
+2020,as,Asia,ascyp,Cyprus,cyp,"166,220 ",6.2083E-06
+2020,as,Asia,asgeo,Georgia,geo,"478,632 ",1.78769E-05
+2020,as,Asia,ashkg,Hong Kong,hkg,"13,309,347 ",0.000497103
+2020,as,Asia,asidn,Indonesia,idn,"1,571,670 ",5.87017E-05
+2020,as,Asia,asind,India,ind,"8,207,675,368 ",0.306556002
+2020,as,Asia,asirn,Iran,irn,"2,717,760 ",0.000101508
+2020,as,Asia,asirq,Iraq,irq,"123,549 ",4.61455E-06
+2020,as,Asia,asisr,Israel,isr,"32,807,381 ",0.001225353
+2020,as,Asia,asjor,Jordan,jor,"2,167,274 ",8.09475E-05
+2020,as,Asia,asjpn,Japan,jpn,"64,735,084 ",0.00241785
+2020,as,Asia,askaz,Kazakhstan,kaz,"31,914,211 ",0.001191993
+2020,as,Asia,askgz,Kyrgyzstan,kgz,"777,051 ",2.90228E-05
+2020,as,Asia,askhm,Cambodia,khm,"558,221,294 ",0.02084952
+2020,as,Asia,askor,South Korea,kor,"28,738,418 ",0.001073378
+2020,as,Asia,askwt,Kuwait,kwt,"349,174 ",1.30416E-05
+2020,as,Asia,aslao,Laos,lao,"70,903,440 ",0.002648238
+2020,as,Asia,aslbn,Lebanon,lbn,"18,111,934 ",0.000676479
+2020,as,Asia,aslka,Sri Lanka,lka,"8,412,251 ",0.000314197
+2020,as,Asia,asmac,Macau,mac,"4,270 ",1.59E-07
+2020,as,Asia,asmmr,Burma,mmr,"1,153,958,872 ",0.043100269
+2020,as,Asia,asmng,Mongolia,mng,"345,367 ",1.28994E-05
+2020,as,Asia,asmys,Malaysia,mys,"48,201,108 ",0.001800307
+2020,as,Asia,asnpl,Nepal,npl,"70,781 ",2.64366E-06
+2020,as,Asia,asomn,Oman,omn,"306,640 ",1.1453E-05
+2020,as,Asia,aspak,Pakistan,pak,"2,141,164,080 ",0.079972303
+2020,as,Asia,asphl,Philippines,phl,"888,963 ",3.32027E-05
+2020,as,Asia,aspse,Palestine,pse,"4,181,384 ",0.000156174
+2020,as,Asia,asqat,Qatar,qat,"61,276 ",2.28865E-06
+2020,as,Asia,assau,Saudi Arabia,sau,"5,081,951 ",0.00018981
+2020,as,Asia,assgp,Singapore,sgp,"79,629,200 ",0.002974144
+2020,as,Asia,assyr,Syria,syr,"11,489 ",4.29E-07
+2020,as,Asia,astha,Thailand,tha,"3,878,233,057 ",0.144851687
+2020,as,Asia,astjk,Tajikistan,tjk,"10,614 ",3.96E-07
+2020,as,Asia,astls,Timor-Leste,tls,"1,668 ",6.23E-08
+2020,as,Asia,astur,Turkey,tur,"119,662,401 ",0.004469381
+2020,as,Asia,asuzb,Uzbekistan,uzb,"812,976 ",3.03646E-05
+2020,as,Asia,asvnm,Vietnam,vnm,"2,741,178,616 ",0.102382796
+2020,as,Asia,asxxb,Chinese Taipei,,"114,924,513 ",0.004292421
+2020,as,Asia,asyem,Yemen,yem,"20,534 ",7.67E-07
+2020,eu,Europe,eualb,Albania,alb,66 ,2.47E-09
+2020,eu,Europe,euand,Andorra,and,"4,437 ",1.66E-07
+2020,eu,Europe,euaut,Austria,aut,"5,317,661 ",0.000198614
+2020,eu,Europe,eubel,Belgium,bel,"308,370,532 ",0.011517614
+2020,eu,Europe,eubgr,Bulgaria,bgr,"51,418,232 ",0.001920467
+2020,eu,Europe,eubih,Bosnia and Herzegovina,bih,"129,516 ",4.83741E-06
+2020,eu,Europe,eublr,Belarus,blr,"197,580 ",7.3796E-06
+2020,eu,Europe,euche,Switzerland,che,"7,875,470 ",0.000294148
+2020,eu,Europe,eucze,Czechia,cze,"22,163,018 ",0.000827787
+2020,eu,Europe,eudeu,Germany,deu,"76,425,412 ",0.002854483
+2020,eu,Europe,eudnk,Denmark,dnk,"10,649,667 ",0.000397764
+2020,eu,Europe,euesp,Spain,esp,"228,264,111 ",0.008525646
+2020,eu,Europe,euest,Estonia,est,"594,986 ",2.22227E-05
+2020,eu,Europe,eufin,Finland,fin,"526,760 ",1.96744E-05
+2020,eu,Europe,eufra,France,fra,"48,518,235 ",0.001812152
+2020,eu,Europe,eugbr,United Kingdom,gbr,"79,724,995 ",0.002977722
+2020,eu,Europe,eugib,Gibraltar,gib,119 ,4.44E-09
+2020,eu,Europe,eugrc,Greece,grc,"71,922,673 ",0.002686306
+2020,eu,Europe,euhrv,Croatia,hrv,"128,431 ",4.79689E-06
+2020,eu,Europe,euhun,Hungary,hun,"6,658,292 ",0.000248687
+2020,eu,Europe,euirl,Ireland,irl,"736,445 ",2.75062E-05
+2020,eu,Europe,euisl,Iceland,isl,"31,828 ",1.18877E-06
+2020,eu,Europe,euita,Italy,ita,"718,705,817 ",0.026843603
+2020,eu,Europe,eultu,Lithuania,ltu,"9,619,164 ",0.000359275
+2020,eu,Europe,eulux,Luxembourg,lux,"143,930 ",5.37577E-06
+2020,eu,Europe,eulva,Latvia,lva,"2,231,227 ",8.33361E-05
+2020,eu,Europe,eumda,Moldova,mda,"156,551 ",5.84717E-06
+2020,eu,Europe,eumkd,North Macedonia,mkd,"3,413,207 ",0.000127483
+2020,eu,Europe,eumlt,Malta,mlt,"214,377 ",8.00696E-06
+2020,eu,Europe,eumne,Montenegro,mne,"56,760 ",2.11998E-06
+2020,eu,Europe,eunld,Netherlands,nld,"217,849,435 ",0.008136659
+2020,eu,Europe,eunor,Norway,nor,"575,106 ",2.14802E-05
+2020,eu,Europe,eupol,Poland,pol,"46,201,610 ",0.001725626
+2020,eu,Europe,euprt,Portugal,prt,"59,486,723 ",0.002221824
+2020,eu,Europe,eurou,Romania,rou,"20,109,245 ",0.000751079
+2020,eu,Europe,eurus,Russia,rus,"67,822,571 ",0.002533167
+2020,eu,Europe,eusmr,San Marino,smr,10 ,3.73E-10
+2020,eu,Europe,eusrb,Serbia,srb,"471,029 ",1.75929E-05
+2020,eu,Europe,eusvk,Slovakia,svk,"3,100,762 ",0.000115813
+2020,eu,Europe,eusvn,Slovenia,svn,"2,912,185 ",0.00010877
+2020,eu,Europe,euswe,Sweden,swe,"2,211,050 ",8.25825E-05
+2020,eu,Europe,euukr,Ukraine,ukr,"4,291,449 ",0.000160285
+2020,na,North America,naabw,Aruba,abw,567 ,2.12E-08
+2020,na,North America,naatg,Antigua and Barbuda,atg,"1,631,734 ",6.09451E-05
+2020,na,North America,nablz,Belize,blz,"49,491 ",1.84848E-06
+2020,na,North America,nabmu,Bermuda,bmu,165 ,6.16E-09
+2020,na,North America,nabrb,Barbados,brb,"14,021 ",5.24E-07
+2020,na,North America,nacan,Canada,can,"17,865,274 ",0.000667267
+2020,na,North America,nacri,Costa Rica,cri,"4,581,310 ",0.000171112
+2020,na,North America,nacuw,Curaçao,cuw,125 ,4.67E-09
+2020,na,North America,nadom,Dominican Republic,dom,"2,033,284 ",7.5943E-05
+2020,na,North America,nagrd,Grenada,grd,"124,033 ",4.63262E-06
+2020,na,North America,nagtm,Guatemala,gtm,"644,957 ",2.40891E-05
+2020,na,North America,nahnd,Honduras,hnd,"2,821,668 ",0.000105389
+2020,na,North America,nahti,Haiti,hti,"113,061 ",4.22282E-06
+2020,na,North America,najam,Jamaica,jam,"7,484 ",2.80E-07
+2020,na,North America,nalca,Saint Lucia,lca,"28,686 ",1.07142E-06
+2020,na,North America,namex,Mexico,mex,"12,688,191 ",0.000473903
+2020,na,North America,nanic,Nicaragua,nic,"1,803,569 ",6.73632E-05
+2020,na,North America,napan,Panama,pan,"620,906 ",2.31908E-05
+2020,na,North America,naslv,El Salvador,slv,"1,606,279 ",5.99944E-05
+2020,na,North America,naspm,Saint Pierre and Miquelon,spm,"9,415 ",3.52E-07
+2020,na,North America,natto,Trinidad and Tobago,tto,"259,292 ",9.68453E-06
+2020,na,North America,nausa,United States,usa,"1,916,882,632 ",0.071595409
+2020,na,North America,navct,Saint Vincent and the Grenadines,vct,46 ,1.72E-09
+2020,na,North America,navgb,British Virgin Islands,vgb,"218,828 ",8.17321E-06
+2020,oc,Oceania,ocaus,Australia,aus,"70,260,776 ",0.002624234
+2020,oc,Oceania,ocfji,Fiji,fji,"2,299,138 ",8.58726E-05
+2020,oc,Oceania,ocniu,Niue,niu,918 ,3.43E-08
+2020,oc,Oceania,ocnzl,New Zealand,nzl,"270,002 ",1.00846E-05
+2020,oc,Oceania,ocpcn,Pitcairn Islands,pcn,"113,342 ",4.23331E-06
+2020,oc,Oceania,ocpng,Papua New Guinea,png,175 ,6.54E-09
+2020,oc,Oceania,octkl,Tokelau,tkl,12 ,4.48E-10
+2020,oc,Oceania,ocvut,Vanuatu,vut,"205,783 ",7.68598E-06
+2020,sa,South America,saarg,Argentina,arg,"170,233,412 ",0.006358204
+2020,sa,South America,sabol,Bolivia,bol,"52,952 ",1.97775E-06
+2020,sa,South America,sabra,Brazil,bra,"523,746,276 ",0.01956188
+2020,sa,South America,sachl,Chile,chl,"227,992 ",8.51548E-06
+2020,sa,South America,sacol,Colombia,col,"1,791,360 ",6.69071E-05
+2020,sa,South America,saecu,Ecuador,ecu,"32,824,530 ",0.001225994
+2020,sa,South America,saguy,Guyana,guy,"269,572,112 ",0.010068496
+2020,sa,South America,saper,Peru,per,"30,431,876 ",0.001136628
+2020,sa,South America,sapry,Paraguay,pry,"300,596,007 ",0.011227236
+2020,sa,South America,sasur,Suriname,sur,"34,619,862 ",0.001293049
+2020,sa,South America,saury,Uruguay,ury,"475,227,847 ",0.017749721
+2020,sa,South America,saven,Venezuela,ven,"3,002 ",1.12E-07
+2019,af,Africa,afago,Angola,ago,"1,001,907 ",3.96548E-05
+2019,af,Africa,afbdi,Burundi,bdi,"2,873 ",1.14E-07
+2019,af,Africa,afben,Benin,ben,"423,411 ",1.67583E-05
+2019,af,Africa,afbfa,Burkina Faso,bfa,"1,997,675 ",7.90667E-05
+2019,af,Africa,afbwa,Botswana,bwa,"504,140 ",1.99535E-05
+2019,af,Africa,afciv,Cote d'Ivoire,civ,"8,532,449 ",0.000337709
+2019,af,Africa,afcmr,Cameroon,cmr,"469,291 ",1.85742E-05
+2019,af,Africa,afcod,Democratic Republic of the Congo,cod,"215,001 ",8.5096E-06
+2019,af,Africa,afcog,Republic of the Congo,cog,"469,094 ",1.85664E-05
+2019,af,Africa,afcom,Comoros,com,"23,979 ",9.49E-07
+2019,af,Africa,afdza,Algeria,dza,"72,389 ",2.86511E-06
+2019,af,Africa,afegy,Egypt,egy,"2,208,410 ",8.74074E-05
+2019,af,Africa,afeth,Ethiopia,eth,"69,924 ",2.76755E-06
+2019,af,Africa,afgab,Gabon,gab,140 ,5.54E-09
+2019,af,Africa,afgha,Ghana,gha,"314,937 ",1.2465E-05
+2019,af,Africa,afgin,Guinea,gin,"1,976 ",7.82E-08
+2019,af,Africa,afgnb,Guinea-Bissau,gnb,313 ,1.24E-08
+2019,af,Africa,afgnq,Equatorial Guinea,gnq,"99,763 ",3.94855E-06
+2019,af,Africa,afken,Kenya,ken,"265,371 ",1.05032E-05
+2019,af,Africa,aflbr,Liberia,lbr,"231,613 ",9.16709E-06
+2019,af,Africa,aflby,Libya,lby,"3,010,222 ",0.000119143
+2019,af,Africa,aflso,Lesotho,lso,"43,585 ",1.72507E-06
+2019,af,Africa,afmar,Morocco,mar,"562,864 ",2.22778E-05
+2019,af,Africa,afmdg,Madagascar,mdg,"26,875 ",1.06369E-06
+2019,af,Africa,afmli,Mali,mli,"17,422 ",6.90E-07
+2019,af,Africa,afmoz,Mozambique,moz,"14,220,422 ",0.000562835
+2019,af,Africa,afmrt,Mauritania,mrt,"2,492 ",9.86E-08
+2019,af,Africa,afmus,Mauritius,mus,"6,396,194 ",0.000253157
+2019,af,Africa,afmwi,Malawi,mwi,"156,952 ",6.21206E-06
+2019,af,Africa,afnam,Namibia,nam,"81,994 ",3.24527E-06
+2019,af,Africa,afner,Niger,ner,"4,888,802 ",0.000193496
+2019,af,Africa,afnga,Nigeria,nga,"229,675 ",9.09039E-06
+2019,af,Africa,afrwa,Rwanda,rwa,"31,438,634 ",0.001244321
+2019,af,Africa,afsdn,Sudan,sdn,"173,543 ",6.86872E-06
+2019,af,Africa,afsen,Senegal,sen,"50,866,937 ",0.00201328
+2019,af,Africa,afsom,Somalia,som,"7,984 ",3.16E-07
+2019,af,Africa,afssd,South Sudan,ssd,"1,223 ",4.84E-08
+2019,af,Africa,afswz,Eswatini,swz,"17,216 ",6.81E-07
+2019,af,Africa,afsyc,Seychelles,syc,15 ,5.94E-10
+2019,af,Africa,aftcd,Chad,tcd,138 ,5.46E-09
+2019,af,Africa,aftgo,Togo,tgo,"1,686,763 ",6.6761E-05
+2019,af,Africa,aftun,Tunisia,tun,132 ,5.22E-09
+2019,af,Africa,aftza,Tanzania,tza,"40,740,005 ",0.001612463
+2019,af,Africa,afuga,Uganda,uga,"25,532,786 ",0.001010571
+2019,af,Africa,afzaf,South Africa,zaf,"64,351,823 ",0.002547003
+2019,af,Africa,afzmb,Zambia,zmb,"1,333,691 ",5.27866E-05
+2019,af,Africa,afzwe,Zimbabwe,zwe,"2,269 ",8.98E-08
+2019,as,Asia,asafg,Afghanistan,afg,"92,716 ",3.66964E-06
+2019,as,Asia,asare,United Arab Emirates,are,"99,155,340 ",0.003924504
+2019,as,Asia,asarm,Armenia,arm,3 ,1.19E-10
+2019,as,Asia,asaze,Azerbaijan,aze,"25,079 ",9.93E-07
+2019,as,Asia,asbgd,Bangladesh,bgd,"9,963,022 ",0.00039433
+2019,as,Asia,asbhr,Bahrain,bhr,"885,226 ",3.50367E-05
+2019,as,Asia,asbrn,Brunei,brn,"521,666 ",2.06472E-05
+2019,as,Asia,asbtn,Bhutan,btn,"11,457 ",4.53E-07
+2019,as,Asia,aschn,China,chn,"1,149,329,526 ",0.045489713
+2019,as,Asia,ascyp,Cyprus,cyp,"107,270 ",4.24568E-06
+2019,as,Asia,asgeo,Georgia,geo,"294,715 ",1.16646E-05
+2019,as,Asia,ashkg,Hong Kong,hkg,"18,808,647 ",0.000744434
+2019,as,Asia,asidn,Indonesia,idn,"1,587,463 ",6.28308E-05
+2019,as,Asia,asind,India,ind,"7,010,926,240 ",0.277487888
+2019,as,Asia,asirn,Iran,irn,"1,651,216 ",6.53541E-05
+2019,as,Asia,asirq,Iraq,irq,"70,751 ",2.80028E-06
+2019,as,Asia,asisr,Israel,isr,"35,899,035 ",0.00142086
+2019,as,Asia,asjor,Jordan,jor,"2,658,887 ",0.000105237
+2019,as,Asia,asjpn,Japan,jpn,"74,946,811 ",0.002966346
+2019,as,Asia,askaz,Kazakhstan,kaz,"24,793,008 ",0.000981291
+2019,as,Asia,askgz,Kyrgyzstan,kgz,"440,106 ",1.74191E-05
+2019,as,Asia,askhm,Cambodia,khm,"481,195,734 ",0.019045413
+2019,as,Asia,askor,South Korea,kor,"30,053,870 ",0.001189513
+2019,as,Asia,askwt,Kuwait,kwt,"391,229 ",1.54846E-05
+2019,as,Asia,aslao,Laos,lao,"46,334,229 ",0.001833879
+2019,as,Asia,aslbn,Lebanon,lbn,"6,567,976 ",0.000259956
+2019,as,Asia,aslka,Sri Lanka,lka,"5,129,320 ",0.000203015
+2019,as,Asia,asmac,Macau,mac,"199,294 ",7.88793E-06
+2019,as,Asia,asmdv,Maldives,mdv,"11,166 ",4.42E-07
+2019,as,Asia,asmmr,Burma,mmr,"1,097,191,674 ",0.043426131
+2019,as,Asia,asmng,Mongolia,mng,"49,213 ",1.94782E-06
+2019,as,Asia,asmys,Malaysia,mys,"13,432,409 ",0.000531646
+2019,as,Asia,asnpl,Nepal,npl,"123,323 ",4.88104E-06
+2019,as,Asia,asomn,Oman,omn,"42,819 ",1.69475E-06
+2019,as,Asia,aspak,Pakistan,pak,"2,396,881,151 ",0.094866993
+2019,as,Asia,asphl,Philippines,phl,"768,961 ",3.0435E-05
+2019,as,Asia,asprk,North Korea,prk,"13,111,808 ",0.000518957
+2019,as,Asia,aspse,Palestine,pse,"3,730,058 ",0.000147633
+2019,as,Asia,asqat,Qatar,qat,"32,037 ",1.268E-06
+2019,as,Asia,assau,Saudi Arabia,sau,"390,223 ",1.54448E-05
+2019,as,Asia,assgp,Singapore,sgp,"53,749,549 ",0.002127372
+2019,as,Asia,assyr,Syria,syr,"34,716 ",1.37404E-06
+2019,as,Asia,astha,Thailand,tha,"4,421,707,467 ",0.175008298
+2019,as,Asia,astjk,Tajikistan,tjk,"128,079 ",5.06928E-06
+2019,as,Asia,astkm,Turkmenistan,tkm,45 ,1.78E-09
+2019,as,Asia,astls,Timor-Leste,tls,"1,882 ",7.45E-08
+2019,as,Asia,astur,Turkey,tur,"109,471,435 ",0.004332808
+2019,as,Asia,asuzb,Uzbekistan,uzb,"96,737 ",3.82879E-06
+2019,as,Asia,asvnm,Vietnam,vnm,"2,465,803,577 ",0.097594897
+2019,as,Asia,asxxb,Chinese Taipei,,"51,220,111 ",0.002027259
+2019,eu,Europe,euaut,Austria,aut,"5,607,221 ",0.00022193
+2019,eu,Europe,eubel,Belgium,bel,"210,930,406 ",0.008348488
+2019,eu,Europe,eubgr,Bulgaria,bgr,"38,169,130 ",0.001510709
+2019,eu,Europe,eubih,Bosnia and Herzegovina,bih,"35,907 ",1.42118E-06
+2019,eu,Europe,eublr,Belarus,blr,"91,515 ",3.6221E-06
+2019,eu,Europe,euche,Switzerland,che,"8,056,279 ",0.000318862
+2019,eu,Europe,eucze,Czechia,cze,"21,556,284 ",0.000853184
+2019,eu,Europe,eudeu,Germany,deu,"72,404,455 ",0.002865721
+2019,eu,Europe,eudnk,Denmark,dnk,"10,946,298 ",0.000433247
+2019,eu,Europe,euesp,Spain,esp,"205,678,957 ",0.008140639
+2019,eu,Europe,euest,Estonia,est,"563,651 ",2.23089E-05
+2019,eu,Europe,eufin,Finland,fin,"846,776 ",3.35148E-05
+2019,eu,Europe,eufra,France,fra,"49,109,712 ",0.00194373
+2019,eu,Europe,eugbr,United Kingdom,gbr,"62,892,483 ",0.002489243
+2019,eu,Europe,eugrc,Greece,grc,"64,592,172 ",0.002556516
+2019,eu,Europe,euhrv,Croatia,hrv,"410,698 ",1.62552E-05
+2019,eu,Europe,euhun,Hungary,hun,"6,097,671 ",0.000241342
+2019,eu,Europe,euirl,Ireland,irl,"1,569,322 ",6.21127E-05
+2019,eu,Europe,euisl,Iceland,isl,"4,079 ",1.61E-07
+2019,eu,Europe,euita,Italy,ita,"617,172,483 ",0.024427284
+2019,eu,Europe,eultu,Lithuania,ltu,"5,333,232 ",0.000211086
+2019,eu,Europe,eulux,Luxembourg,lux,"181,827 ",7.19659E-06
+2019,eu,Europe,eulva,Latvia,lva,"2,147,092 ",8.49805E-05
+2019,eu,Europe,eumda,Moldova,mda,"2,404 ",9.51E-08
+2019,eu,Europe,eumkd,North Macedonia,mkd,"3,375,863 ",0.000133614
+2019,eu,Europe,eumlt,Malta,mlt,"135,488 ",5.36253E-06
+2019,eu,Europe,eumne,Montenegro,mne,"15,657 ",6.20E-07
+2019,eu,Europe,eunld,Netherlands,nld,"195,147,222 ",0.0077238
+2019,eu,Europe,eunor,Norway,nor,"336,444 ",1.33162E-05
+2019,eu,Europe,eupol,Poland,pol,"38,655,812 ",0.001529972
+2019,eu,Europe,euprt,Portugal,prt,"59,485,745 ",0.002354407
+2019,eu,Europe,eurou,Romania,rou,"20,380,633 ",0.000806652
+2019,eu,Europe,eurus,Russia,rus,"78,415,328 ",0.003103628
+2019,eu,Europe,eusrb,Serbia,srb,"457,361 ",1.81021E-05
+2019,eu,Europe,eusvk,Slovakia,svk,"4,021,034 ",0.00015915
+2019,eu,Europe,eusvn,Slovenia,svn,"3,535,207 ",0.000139921
+2019,eu,Europe,euswe,Sweden,swe,"1,909,642 ",7.55824E-05
+2019,eu,Europe,euukr,Ukraine,ukr,"4,545,171 ",0.000179895
+2019,na,North America,naatg,Antigua and Barbuda,atg,"4,595,157 ",0.000181873
+2019,na,North America,nabhs,Bahamas,bhs,384 ,1.52E-08
+2019,na,North America,nablz,Belize,blz,"401,267 ",1.58819E-05
+2019,na,North America,nabmu,Bermuda,bmu,"1,700 ",6.73E-08
+2019,na,North America,nabrb,Barbados,brb,"36,300 ",1.43673E-06
+2019,na,North America,nacan,Canada,can,"15,978,379 ",0.000632414
+2019,na,North America,nacri,Costa Rica,cri,"3,974,152 ",0.000157294
+2019,na,North America,nadom,Dominican Republic,dom,"8,447,231 ",0.000334336
+2019,na,North America,nagtm,Guatemala,gtm,"363,323 ",1.43801E-05
+2019,na,North America,nahnd,Honduras,hnd,"2,100,019 ",8.31174E-05
+2019,na,North America,nahti,Haiti,hti,"143,102 ",5.66388E-06
+2019,na,North America,najam,Jamaica,jam,"7,070 ",2.80E-07
+2019,na,North America,nakna,Saint Kitts and Nevis,kna,"41,375 ",1.6376E-06
+2019,na,North America,nalca,Saint Lucia,lca,258 ,1.02E-08
+2019,na,North America,namaf,Saint Martin,maf,"2,598 ",1.03E-07
+2019,na,North America,namex,Mexico,mex,"5,951,393 ",0.000235552
+2019,na,North America,nanic,Nicaragua,nic,"1,667,139 ",6.59843E-05
+2019,na,North America,napan,Panama,pan,"122,383 ",4.84384E-06
+2019,na,North America,naslv,El Salvador,slv,"2,017,260 ",7.98418E-05
+2019,na,North America,natto,Trinidad and Tobago,tto,"244,980 ",9.69615E-06
+2019,na,North America,nausa,United States,usa,"1,916,071,483 ",0.07583686
+2019,na,North America,navct,Saint Vincent and the Grenadines,vct,"583,711 ",2.31029E-05
+2019,na,North America,navgb,British Virgin Islands,vgb,"192,654 ",7.62512E-06
+2019,oc,Oceania,ocasm,American Samoa,asm,192 ,7.60E-09
+2019,oc,Oceania,ocaus,Australia,aus,"127,952,774 ",0.005064287
+2019,oc,Oceania,ocfji,Fiji,fji,"513,695 ",2.03317E-05
+2019,oc,Oceania,ocnzl,New Zealand,nzl,"214,044 ",8.47172E-06
+2019,oc,Oceania,ocpng,Papua New Guinea,png,41 ,1.62E-09
+2019,oc,Oceania,ocpyf,French Polynesia,pyf,"219,908 ",8.70382E-06
+2019,oc,Oceania,ocwsm,Samoa,wsm,"39,089 ",1.54712E-06
+2019,sa,South America,saarg,Argentina,arg,"178,657,183 ",0.007071135
+2019,sa,South America,sabol,Bolivia,bol,"46,379 ",1.83565E-06
+2019,sa,South America,sabra,Brazil,bra,"371,932,473 ",0.014720845
+2019,sa,South America,sachl,Chile,chl,"4,495,609 ",0.000177933
+2019,sa,South America,sacol,Colombia,col,"15,646 ",6.19E-07
+2019,sa,South America,saecu,Ecuador,ecu,"18,300,602 ",0.000724326
+2019,sa,South America,saguy,Guyana,guy,"261,137,542 ",0.010335654
+2019,sa,South America,saper,Peru,per,"20,993,257 ",0.000830899
+2019,sa,South America,sapry,Paraguay,pry,"229,748,262 ",0.009093286
+2019,sa,South America,sasur,Suriname,sur,"35,260,250 ",0.001395578
+2019,sa,South America,saury,Uruguay,ury,"365,693,952 ",0.014473928
+2019,sa,South America,saven,Venezuela,ven,"7,377 ",2.92E-07
+2018,af,Africa,afago,Angola,ago,"606,063 ",2.25435E-05
+2018,af,Africa,afbdi,Burundi,bdi,"14,585 ",5.43E-07
+2018,af,Africa,afben,Benin,ben,"480,131 ",1.78592E-05
+2018,af,Africa,afbfa,Burkina Faso,bfa,"1,928,655 ",7.17393E-05
+2018,af,Africa,afbwa,Botswana,bwa,"383,174 ",1.42528E-05
+2018,af,Africa,afciv,Cote d'Ivoire,civ,"5,105,536 ",0.000189908
+2018,af,Africa,afcmr,Cameroon,cmr,"13,138,860 ",0.00048872
+2018,af,Africa,afcod,Democratic Republic of the Congo,cod,"91,512 ",3.40393E-06
+2018,af,Africa,afcog,Republic of the Congo,cog,"339,511 ",1.26286E-05
+2018,af,Africa,afcom,Comoros,com,"90,722 ",3.37455E-06
+2018,af,Africa,afcpv,Cape Verde,cpv,11 ,4.09E-10
+2018,af,Africa,afdza,Algeria,dza,"35,865 ",1.33405E-06
+2018,af,Africa,afegy,Egypt,egy,"3,408,356 ",0.000126779
+2018,af,Africa,afeth,Ethiopia,eth,"42,050 ",1.56412E-06
+2018,af,Africa,afgab,Gabon,gab,"48,239 ",1.79432E-06
+2018,af,Africa,afgha,Ghana,gha,"84,376 ",3.1385E-06
+2018,af,Africa,afgin,Guinea,gin,"78,383 ",2.91558E-06
+2018,af,Africa,afgmb,Gambia,gmb,"20,575 ",7.65E-07
+2018,af,Africa,afken,Kenya,ken,"2,099,938 ",7.81105E-05
+2018,af,Africa,aflbr,Liberia,lbr,"294,428 ",1.09517E-05
+2018,af,Africa,aflby,Libya,lby,"26,526 ",9.87E-07
+2018,af,Africa,aflso,Lesotho,lso,"30,684 ",1.14134E-06
+2018,af,Africa,afmar,Morocco,mar,"329,547 ",1.2258E-05
+2018,af,Africa,afmdg,Madagascar,mdg,"37,697 ",1.4022E-06
+2018,af,Africa,afmli,Mali,mli,"277,971 ",1.03396E-05
+2018,af,Africa,afmoz,Mozambique,moz,"12,205,154 ",0.00045399
+2018,af,Africa,afmus,Mauritius,mus,"13,653,668 ",0.000507869
+2018,af,Africa,afmwi,Malawi,mwi,"139,823 ",5.20093E-06
+2018,af,Africa,afnam,Namibia,nam,"1,058,433 ",3.93701E-05
+2018,af,Africa,afner,Niger,ner,"220,613,569 ",0.008206065
+2018,af,Africa,afnga,Nigeria,nga,"2,177,091 ",8.09803E-05
+2018,af,Africa,afrwa,Rwanda,rwa,"30,767,083 ",0.001144429
+2018,af,Africa,afsdn,Sudan,sdn,"1,824,421 ",6.78622E-05
+2018,af,Africa,afsen,Senegal,sen,"44,748,278 ",0.001664482
+2018,af,Africa,afsle,Sierra Leone,sle,"3,188 ",1.19E-07
+2018,af,Africa,afsom,Somalia,som,580 ,2.16E-08
+2018,af,Africa,afswz,Eswatini,swz,"8,195,429 ",0.000304842
+2018,af,Africa,aftgo,Togo,tgo,"8,935,704 ",0.000332377
+2018,af,Africa,aftun,Tunisia,tun,"1,884,386 ",7.00927E-05
+2018,af,Africa,aftza,Tanzania,tza,"38,363,167 ",0.001426978
+2018,af,Africa,afuga,Uganda,uga,"26,809,503 ",0.000997221
+2018,af,Africa,afzaf,South Africa,zaf,"71,342,981 ",0.002653713
+2018,af,Africa,afzmb,Zambia,zmb,"1,205,504 ",4.48406E-05
+2018,af,Africa,afzwe,Zimbabwe,zwe,14 ,5.21E-10
+2018,as,Asia,asafg,Afghanistan,afg,"14,570 ",5.42E-07
+2018,as,Asia,asare,United Arab Emirates,are,"237,713,355 ",0.008842118
+2018,as,Asia,asaze,Azerbaijan,aze,"8,085 ",3.01E-07
+2018,as,Asia,asbgd,Bangladesh,bgd,"8,945,457 ",0.00033274
+2018,as,Asia,asbhr,Bahrain,bhr,"491,795 ",1.82931E-05
+2018,as,Asia,asbrn,Brunei,brn,"1,798,702 ",6.69055E-05
+2018,as,Asia,asbtn,Bhutan,btn,"8,629 ",3.21E-07
+2018,as,Asia,ascck,Cocos (Keeling) Islands,cck,"65,994 ",2.45475E-06
+2018,as,Asia,aschn,China,chn,"963,141,497 ",0.035825545
+2018,as,Asia,ascyp,Cyprus,cyp,"184,104 ",6.84803E-06
+2018,as,Asia,asgeo,Georgia,geo,"283,487 ",1.05447E-05
+2018,as,Asia,ashkg,Hong Kong,hkg,"33,273,353 ",0.001237654
+2018,as,Asia,asidn,Indonesia,idn,"3,525,010 ",0.000131118
+2018,as,Asia,asind,India,ind,"7,605,403,204 ",0.282894791
+2018,as,Asia,asiot,British Indian Ocean Territory,iot,"11,009 ",4.09E-07
+2018,as,Asia,asirn,Iran,irn,"3,374,405 ",0.000125516
+2018,as,Asia,asirq,Iraq,irq,"40,693 ",1.51364E-06
+2018,as,Asia,asisr,Israel,isr,"33,520,851 ",0.00124686
+2018,as,Asia,asjor,Jordan,jor,"1,756,937 ",6.5352E-05
+2018,as,Asia,asjpn,Japan,jpn,"66,641,688 ",0.002478841
+2018,as,Asia,askaz,Kazakhstan,kaz,"31,551,942 ",0.001173624
+2018,as,Asia,askgz,Kyrgyzstan,kgz,"337,566 ",1.25563E-05
+2018,as,Asia,askhm,Cambodia,khm,"413,063,672 ",0.015364545
+2018,as,Asia,askor,South Korea,kor,"59,056,483 ",0.002196698
+2018,as,Asia,askwt,Kuwait,kwt,"884,181 ",3.28885E-05
+2018,as,Asia,aslao,Laos,lao,"60,285,839 ",0.002242425
+2018,as,Asia,aslbn,Lebanon,lbn,"3,351,996 ",0.000124683
+2018,as,Asia,aslka,Sri Lanka,lka,"4,708,988 ",0.000175158
+2018,as,Asia,asmac,Macau,mac,"151,526 ",5.63625E-06
+2018,as,Asia,asmmr,Burma,mmr,"594,063,303 ",0.022097108
+2018,as,Asia,asmng,Mongolia,mng,"527,052 ",1.96045E-05
+2018,as,Asia,asmys,Malaysia,mys,"19,314,780 ",0.000718443
+2018,as,Asia,asnpl,Nepal,npl,"67,406 ",2.50727E-06
+2018,as,Asia,asomn,Oman,omn,"3,526,305 ",0.000131166
+2018,as,Asia,aspak,Pakistan,pak,"2,111,389,654 ",0.078536419
+2018,as,Asia,asphl,Philippines,phl,"650,922 ",2.42121E-05
+2018,as,Asia,asprk,North Korea,prk,"135,169 ",5.02782E-06
+2018,as,Asia,aspse,Palestine,pse,"3,671,984 ",0.000136585
+2018,as,Asia,asqat,Qatar,qat,"150,895 ",5.61277E-06
+2018,as,Asia,assau,Saudi Arabia,sau,"10,698,297 ",0.00039794
+2018,as,Asia,assgp,Singapore,sgp,"60,909,452 ",0.002265622
+2018,as,Asia,assyr,Syria,syr,"5,050 ",1.88E-07
+2018,as,Asia,astha,Thailand,tha,"5,854,483,240 ",0.217766602
+2018,as,Asia,astjk,Tajikistan,tjk,"42,877 ",1.59488E-06
+2018,as,Asia,astls,Timor-Leste,tls,"101,591 ",3.77884E-06
+2018,as,Asia,astur,Turkey,tur,"128,794,418 ",0.004790709
+2018,as,Asia,asuzb,Uzbekistan,uzb,"171,122 ",6.36515E-06
+2018,as,Asia,asvnm,Vietnam,vnm,"2,661,805,032 ",0.099009975
+2018,as,Asia,asxxb,Chinese Taipei,,"36,239,594 ",0.001347988
+2018,eu,Europe,eualb,Albania,alb,"17,045 ",6.34E-07
+2018,eu,Europe,euand,Andorra,and,129 ,4.80E-09
+2018,eu,Europe,euaut,Austria,aut,"4,489,509 ",0.000166994
+2018,eu,Europe,eubel,Belgium,bel,"243,998,928 ",0.009075919
+2018,eu,Europe,eubgr,Bulgaria,bgr,"31,382,821 ",0.001167333
+2018,eu,Europe,eubih,Bosnia and Herzegovina,bih,"103,211 ",3.83909E-06
+2018,eu,Europe,eublr,Belarus,blr,"56,295 ",2.09398E-06
+2018,eu,Europe,euche,Switzerland,che,"5,697,470 ",0.000211926
+2018,eu,Europe,eucze,Czechia,cze,"21,278,989 ",0.000791505
+2018,eu,Europe,eudeu,Germany,deu,"87,285,478 ",0.003246719
+2018,eu,Europe,eudnk,Denmark,dnk,"11,520,636 ",0.000428528
+2018,eu,Europe,euesp,Spain,esp,"195,141,132 ",0.007258578
+2018,eu,Europe,euest,Estonia,est,"2,315,020 ",8.61108E-05
+2018,eu,Europe,eufin,Finland,fin,"1,111,942 ",4.13604E-05
+2018,eu,Europe,eufra,France,fra,"52,560,388 ",0.001955065
+2018,eu,Europe,eugbr,United Kingdom,gbr,"60,530,166 ",0.002251514
+2018,eu,Europe,eugib,Gibraltar,gib,"2,194 ",8.16E-08
+2018,eu,Europe,eugrc,Greece,grc,"65,136,648 ",0.002422859
+2018,eu,Europe,euhrv,Croatia,hrv,"263,224 ",9.79103E-06
+2018,eu,Europe,euhun,Hungary,hun,"5,697,412 ",0.000211924
+2018,eu,Europe,euirl,Ireland,irl,"1,423,236 ",5.29395E-05
+2018,eu,Europe,euisl,Iceland,isl,"11,262 ",4.19E-07
+2018,eu,Europe,euita,Italy,ita,"625,902,603 ",0.02328142
+2018,eu,Europe,eultu,Lithuania,ltu,"4,374,122 ",0.000162702
+2018,eu,Europe,eulux,Luxembourg,lux,"172,910 ",6.43166E-06
+2018,eu,Europe,eulva,Latvia,lva,"1,624,610 ",6.04299E-05
+2018,eu,Europe,eumda,Moldova,mda,"6,520 ",2.43E-07
+2018,eu,Europe,eumkd,North Macedonia,mkd,"3,745,563 ",0.000139322
+2018,eu,Europe,eumlt,Malta,mlt,"173,401 ",6.44992E-06
+2018,eu,Europe,eumne,Montenegro,mne,"4,249 ",1.58E-07
+2018,eu,Europe,eunld,Netherlands,nld,"182,564,566 ",0.006790773
+2018,eu,Europe,eunor,Norway,nor,"994,301 ",3.69846E-05
+2018,eu,Europe,eupol,Poland,pol,"34,813,089 ",0.001294927
+2018,eu,Europe,euprt,Portugal,prt,"62,114,985 ",0.002310463
+2018,eu,Europe,eurou,Romania,rou,"14,467,604 ",0.000538145
+2018,eu,Europe,eurus,Russia,rus,"69,736,804 ",0.002593969
+2018,eu,Europe,eusmr,San Marino,smr,40 ,1.49E-09
+2018,eu,Europe,eusrb,Serbia,srb,"437,581 ",1.62765E-05
+2018,eu,Europe,eusvk,Slovakia,svk,"2,421,595 ",9.0075E-05
+2018,eu,Europe,eusvn,Slovenia,svn,"3,994,632 ",0.000148587
+2018,eu,Europe,euswe,Sweden,swe,"3,201,633 ",0.00011909
+2018,eu,Europe,euukr,Ukraine,ukr,"2,875,799 ",0.00010697
+2018,na,North America,nabhs,Bahamas,bhs,"1,116 ",4.15E-08
+2018,na,North America,nablz,Belize,blz,"269,823 ",1.00365E-05
+2018,na,North America,nabmu,Bermuda,bmu,"1,005 ",3.74E-08
+2018,na,North America,nabrb,Barbados,brb,"8,978 ",3.34E-07
+2018,na,North America,nacan,Canada,can,"16,140,769 ",0.000600381
+2018,na,North America,nacri,Costa Rica,cri,"2,485,216 ",9.24415E-05
+2018,na,North America,nacub,Cuba,cub,129 ,4.80E-09
+2018,na,North America,nadma,Dominica,dma,"2,748 ",1.02E-07
+2018,na,North America,nadom,Dominican Republic,dom,"6,248,277 ",0.000232414
+2018,na,North America,nagrd,Grenada,grd,"139,908 ",5.2041E-06
+2018,na,North America,nagtm,Guatemala,gtm,"621,930 ",2.31337E-05
+2018,na,North America,nahnd,Honduras,hnd,"2,061,946 ",7.66973E-05
+2018,na,North America,nahti,Haiti,hti,"140,730 ",5.23467E-06
+2018,na,North America,najam,Jamaica,jam,"31,149 ",1.15864E-06
+2018,na,North America,nalca,Saint Lucia,lca,472 ,1.76E-08
+2018,na,North America,namaf,Saint Martin,maf,"9,447 ",3.51E-07
+2018,na,North America,namex,Mexico,mex,"1,443,490 ",5.36929E-05
+2018,na,North America,nanic,Nicaragua,nic,"3,094,070 ",0.000115089
+2018,na,North America,napan,Panama,pan,"46,171 ",1.7174E-06
+2018,na,North America,naslv,El Salvador,slv,"1,131,917 ",4.21034E-05
+2018,na,North America,natto,Trinidad and Tobago,tto,"259,042 ",9.63547E-06
+2018,na,North America,nausa,United States,usa,"1,743,624,011 ",0.064856805
+2018,na,North America,navct,Saint Vincent and the Grenadines,vct,"1,620,204 ",6.0266E-05
+2018,na,North America,navgb,British Virgin Islands,vgb,"129,467 ",4.81573E-06
+2018,oc,Oceania,ocaus,Australia,aus,"216,585,154 ",0.008056221
+2018,oc,Oceania,ocfji,Fiji,fji,"484,156 ",1.80089E-05
+2018,oc,Oceania,ocgum,Guam,gum,"8,635 ",3.21E-07
+2018,oc,Oceania,ocmhl,Marshall Islands,mhl,508 ,1.89E-08
+2018,oc,Oceania,ocnzl,New Zealand,nzl,"548,819 ",2.04142E-05
+2018,oc,Oceania,ocpyf,French Polynesia,pyf,654 ,2.43E-08
+2018,oc,Oceania,octkl,Tokelau,tkl,"119,654 ",4.45072E-06
+2018,oc,Oceania,ocvut,Vanuatu,vut,26 ,9.67E-10
+2018,oc,Oceania,ocwsm,Samoa,wsm,"53,385 ",1.98574E-06
+2018,sa,South America,saarg,Argentina,arg,"164,802,117 ",0.006130071
+2018,sa,South America,sabol,Bolivia,bol,"618,930 ",2.30221E-05
+2018,sa,South America,sabra,Brazil,bra,"471,229,002 ",0.017528095
+2018,sa,South America,sachl,Chile,chl,"6,385,307 ",0.000237511
+2018,sa,South America,sacol,Colombia,col,"1,596,288 ",5.93764E-05
+2018,sa,South America,saecu,Ecuador,ecu,"18,468,728 ",0.000686973
+2018,sa,South America,saflk,Falkland Islands,flk,193 ,7.18E-09
+2018,sa,South America,saguy,Guyana,guy,"235,354,682 ",0.008754383
+2018,sa,South America,saper,Peru,per,"449,183 ",1.67081E-05
+2018,sa,South America,sapry,Paraguay,pry,"222,098,334 ",0.008261293
+2018,sa,South America,sasur,Suriname,sur,"31,736,889 ",0.001180503
+2018,sa,South America,saury,Uruguay,ury,"397,147,792 ",0.014772529
+2018,sa,South America,saven,Venezuela,ven,"96,085 ",3.57403E-06
+2017,af,Africa,afago,Angola,ago,"110,538 ",4.42997E-06
+2017,af,Africa,afbdi,Burundi,bdi,88 ,3.53E-09
+2017,af,Africa,afben,Benin,ben,"199,143 ",7.98095E-06
+2017,af,Africa,afbfa,Burkina Faso,bfa,"3,739,432 ",0.000149863
+2017,af,Africa,afbwa,Botswana,bwa,"871,312 ",3.49191E-05
+2017,af,Africa,afciv,Cote d'Ivoire,civ,"8,763,280 ",0.000351201
+2017,af,Africa,afcmr,Cameroon,cmr,"7,891,212 ",0.000316252
+2017,af,Africa,afcod,Democratic Republic of the Congo,cod,"14,490 ",5.81E-07
+2017,af,Africa,afcog,Republic of the Congo,cog,"13,880 ",5.56E-07
+2017,af,Africa,afcom,Comoros,com,5 ,2.00E-10
+2017,af,Africa,afcpv,Cape Verde,cpv,"12,168 ",4.88E-07
+2017,af,Africa,afdza,Algeria,dza,"33,232 ",1.33182E-06
+2017,af,Africa,afegy,Egypt,egy,"5,469,243 ",0.000219188
+2017,af,Africa,afeth,Ethiopia,eth,"28,553 ",1.1443E-06
+2017,af,Africa,afgab,Gabon,gab,"21,118 ",8.46E-07
+2017,af,Africa,afgha,Ghana,gha,"130,200 ",5.21796E-06
+2017,af,Africa,afgin,Guinea,gin,"97,484 ",3.90682E-06
+2017,af,Africa,afgmb,Gambia,gmb,"4,374 ",1.75E-07
+2017,af,Africa,afgnq,Equatorial Guinea,gnq,51 ,2.04E-09
+2017,af,Africa,afken,Kenya,ken,"403,411 ",1.61673E-05
+2017,af,Africa,aflbr,Liberia,lbr,"11,159 ",4.47E-07
+2017,af,Africa,aflby,Libya,lby,"299,860 ",1.20173E-05
+2017,af,Africa,aflso,Lesotho,lso,"32,386 ",1.29792E-06
+2017,af,Africa,afmar,Morocco,mar,"89,883 ",3.60219E-06
+2017,af,Africa,afmdg,Madagascar,mdg,"211,470 ",8.47497E-06
+2017,af,Africa,afmli,Mali,mli,"24,632 ",9.87E-07
+2017,af,Africa,afmoz,Mozambique,moz,"1,669,942 ",6.69254E-05
+2017,af,Africa,afmrt,Mauritania,mrt,244 ,9.78E-09
+2017,af,Africa,afmus,Mauritius,mus,"10,001,472 ",0.000400824
+2017,af,Africa,afmwi,Malawi,mwi,"200,675 ",8.04235E-06
+2017,af,Africa,afnam,Namibia,nam,"1,110,194 ",4.44927E-05
+2017,af,Africa,afner,Niger,ner,"324,276,194 ",0.012995847
+2017,af,Africa,afnga,Nigeria,nga,"1,444,409 ",5.78868E-05
+2017,af,Africa,afrwa,Rwanda,rwa,"19,164,083 ",0.000768029
+2017,af,Africa,afsen,Senegal,sen,"31,470,904 ",0.001261243
+2017,af,Africa,afsle,Sierra Leone,sle,"17,958 ",7.20E-07
+2017,af,Africa,afswz,Eswatini,swz,"131,287 ",5.26152E-06
+2017,af,Africa,afsyc,Seychelles,syc,"5,312 ",2.13E-07
+2017,af,Africa,aftgo,Togo,tgo,"440,046 ",1.76355E-05
+2017,af,Africa,aftun,Tunisia,tun,"256,762 ",1.02901E-05
+2017,af,Africa,aftza,Tanzania,tza,"18,469,037 ",0.000740174
+2017,af,Africa,afuga,Uganda,uga,"26,452,063 ",0.001060105
+2017,af,Africa,afzaf,South Africa,zaf,"64,818,601 ",0.002597701
+2017,af,Africa,afzmb,Zambia,zmb,"1,533,291 ",6.14489E-05
+2017,af,Africa,afzwe,Zimbabwe,zwe,"529,780 ",2.12317E-05
+2017,as,Asia,asafg,Afghanistan,afg,"16,709 ",6.70E-07
+2017,as,Asia,asare,United Arab Emirates,are,"281,069,816 ",0.011264287
+2017,as,Asia,asarm,Armenia,arm,107 ,4.29E-09
+2017,as,Asia,asaze,Azerbaijan,aze,"14,378 ",5.76E-07
+2017,as,Asia,asbgd,Bangladesh,bgd,"7,430,170 ",0.000297775
+2017,as,Asia,asbhr,Bahrain,bhr,"345,741 ",1.38561E-05
+2017,as,Asia,asbrn,Brunei,brn,"41,867 ",1.67788E-06
+2017,as,Asia,asbtn,Bhutan,btn,"6,211 ",2.49E-07
+2017,as,Asia,aschn,China,chn,"676,700,069 ",0.027119753
+2017,as,Asia,ascyp,Cyprus,cyp,"128,569 ",5.15259E-06
+2017,as,Asia,asgeo,Georgia,geo,"69,901 ",2.80139E-06
+2017,as,Asia,ashkg,Hong Kong,hkg,"38,762,350 ",0.001553458
+2017,as,Asia,asidn,Indonesia,idn,"6,941,629 ",0.000278196
+2017,as,Asia,asind,India,ind,"7,421,766,048 ",0.297438221
+2017,as,Asia,asiot,British Indian Ocean Territory,iot,"69,395 ",2.78111E-06
+2017,as,Asia,asirn,Iran,irn,"1,113,951 ",4.46432E-05
+2017,as,Asia,asirq,Iraq,irq,"170,980 ",6.85228E-06
+2017,as,Asia,asisr,Israel,isr,"30,068,871 ",0.001205054
+2017,as,Asia,asjor,Jordan,jor,"2,134,901 ",8.55593E-05
+2017,as,Asia,asjpn,Japan,jpn,"47,775,678 ",0.001914681
+2017,as,Asia,askaz,Kazakhstan,kaz,"29,472,882 ",0.001181169
+2017,as,Asia,askgz,Kyrgyzstan,kgz,"150,094 ",6.01524E-06
+2017,as,Asia,askhm,Cambodia,khm,"357,435,025 ",0.014324736
+2017,as,Asia,askor,South Korea,kor,"6,744,601 ",0.0002703
+2017,as,Asia,askwt,Kuwait,kwt,"1,116,488 ",4.47449E-05
+2017,as,Asia,aslao,Laos,lao,"57,755,477 ",0.002314636
+2017,as,Asia,aslbn,Lebanon,lbn,"15,506,334 ",0.000621439
+2017,as,Asia,aslka,Sri Lanka,lka,"5,303,448 ",0.000212544
+2017,as,Asia,asmac,Macau,mac,"857,697 ",3.43735E-05
+2017,as,Asia,asmdv,Maldives,mdv,2 ,8.02E-11
+2017,as,Asia,asmmr,Burma,mmr,"616,711,913 ",0.024715639
+2017,as,Asia,asmng,Mongolia,mng,"362,640 ",1.45333E-05
+2017,as,Asia,asmys,Malaysia,mys,"6,643,466 ",0.000266247
+2017,as,Asia,asnpl,Nepal,npl,"10,191 ",4.08E-07
+2017,as,Asia,asomn,Oman,omn,"2,604,018 ",0.00010436
+2017,as,Asia,aspak,Pakistan,pak,"1,751,752,017 ",0.070204046
+2017,as,Asia,asphl,Philippines,phl,"1,101,336 ",4.41377E-05
+2017,as,Asia,asprk,North Korea,prk,"16,863 ",6.76E-07
+2017,as,Asia,aspse,Palestine,pse,"3,109,410 ",0.000124614
+2017,as,Asia,asqat,Qatar,qat,"118,114 ",4.73359E-06
+2017,as,Asia,assau,Saudi Arabia,sau,"15,949,592 ",0.000639203
+2017,as,Asia,assgp,Singapore,sgp,"56,441,366 ",0.002261971
+2017,as,Asia,assyr,Syria,syr,"131,994 ",5.28985E-06
+2017,as,Asia,astha,Thailand,tha,"5,313,874,706 ",0.212961366
+2017,as,Asia,astjk,Tajikistan,tjk,"4,142,821 ",0.00016603
+2017,as,Asia,astls,Timor-Leste,tls,"7,202 ",2.89E-07
+2017,as,Asia,astur,Turkey,tur,"149,877,699 ",0.00600657
+2017,as,Asia,asuzb,Uzbekistan,uzb,"33,573 ",1.34549E-06
+2017,as,Asia,asvnm,Vietnam,vnm,"2,428,543,930 ",0.09732748
+2017,as,Asia,asxxb,Chinese Taipei,,"18,007,664 ",0.000721684
+2017,eu,Europe,eualb,Albania,alb,"84,011 ",3.36686E-06
+2017,eu,Europe,euand,Andorra,and,"3,650 ",1.46E-07
+2017,eu,Europe,euaut,Austria,aut,"5,087,534 ",0.00020389
+2017,eu,Europe,eubel,Belgium,bel,"187,095,000 ",0.007498108
+2017,eu,Europe,eubgr,Bulgaria,bgr,"27,944,851 ",0.001119931
+2017,eu,Europe,eubih,Bosnia and Herzegovina,bih,"78,288 ",3.13751E-06
+2017,eu,Europe,eublr,Belarus,blr,"55,900 ",2.24027E-06
+2017,eu,Europe,euche,Switzerland,che,"34,786,814 ",0.001394133
+2017,eu,Europe,eucze,Czechia,cze,"18,598,990 ",0.000745382
+2017,eu,Europe,eudeu,Germany,deu,"100,368,592 ",0.004022419
+2017,eu,Europe,eudnk,Denmark,dnk,"12,364,460 ",0.000495524
+2017,eu,Europe,euesp,Spain,esp,"187,250,208 ",0.007504328
+2017,eu,Europe,euest,Estonia,est,"350,512 ",1.40473E-05
+2017,eu,Europe,eufin,Finland,fin,"488,117 ",1.9562E-05
+2017,eu,Europe,eufra,France,fra,"58,759,395 ",0.002354869
+2017,eu,Europe,eugbr,United Kingdom,gbr,"61,917,678 ",0.002481442
+2017,eu,Europe,eugib,Gibraltar,gib,"3,834 ",1.54E-07
+2017,eu,Europe,eugrc,Greece,grc,"79,603,811 ",0.00319024
+2017,eu,Europe,euhrv,Croatia,hrv,"90,736 ",3.63638E-06
+2017,eu,Europe,euhun,Hungary,hun,"4,396,189 ",0.000176184
+2017,eu,Europe,euirl,Ireland,irl,"877,235 ",3.51565E-05
+2017,eu,Europe,euisl,Iceland,isl,"6,468 ",2.59E-07
+2017,eu,Europe,euita,Italy,ita,"605,777,441 ",0.024277424
+2017,eu,Europe,eultu,Lithuania,ltu,"3,699,923 ",0.00014828
+2017,eu,Europe,eulux,Luxembourg,lux,"151,547 ",6.07347E-06
+2017,eu,Europe,eulva,Latvia,lva,"1,332,074 ",5.33848E-05
+2017,eu,Europe,eumda,Moldova,mda,235 ,9.42E-09
+2017,eu,Europe,eumkd,North Macedonia,mkd,"1,653,327 ",6.62595E-05
+2017,eu,Europe,eumlt,Malta,mlt,"179,717 ",7.20242E-06
+2017,eu,Europe,eumne,Montenegro,mne,370 ,1.48E-08
+2017,eu,Europe,eunld,Netherlands,nld,"132,695,659 ",0.005317974
+2017,eu,Europe,eunor,Norway,nor,"667,228 ",2.67401E-05
+2017,eu,Europe,eupol,Poland,pol,"32,951,892 ",0.001320596
+2017,eu,Europe,euprt,Portugal,prt,"46,087,117 ",0.001847009
+2017,eu,Europe,eurou,Romania,rou,"9,000,602 ",0.000360712
+2017,eu,Europe,eurus,Russia,rus,"82,992,736 ",0.003326056
+2017,eu,Europe,eusrb,Serbia,srb,"349,747 ",1.40166E-05
+2017,eu,Europe,eusvk,Slovakia,svk,"1,943,819 ",7.79014E-05
+2017,eu,Europe,eusvn,Slovenia,svn,"4,413,652 ",0.000176884
+2017,eu,Europe,euswe,Sweden,swe,"3,045,666 ",0.00012206
+2017,eu,Europe,euukr,Ukraine,ukr,"1,172,766 ",4.70003E-05
+2017,na,North America,naabw,Aruba,abw,282 ,1.13E-08
+2017,na,North America,naatg,Antigua and Barbuda,atg,"2,551,742 ",0.000102265
+2017,na,North America,nabhs,Bahamas,bhs,261 ,1.05E-08
+2017,na,North America,nablm,Saint Barthélemy,blm,"32,074 ",1.28541E-06
+2017,na,North America,nablz,Belize,blz,"96,981 ",3.88666E-06
+2017,na,North America,nabmu,Bermuda,bmu,"1,172 ",4.70E-08
+2017,na,North America,nabrb,Barbados,brb,"9,716 ",3.89E-07
+2017,na,North America,nacan,Canada,can,"9,125,944 ",0.000365736
+2017,na,North America,nacri,Costa Rica,cri,"3,267,517 ",0.000130951
+2017,na,North America,nacuw,Curaçao,cuw,212 ,8.50E-09
+2017,na,North America,nacym,Cayman Islands,cym,267 ,1.07E-08
+2017,na,North America,nadom,Dominican Republic,dom,"5,387,611 ",0.000215916
+2017,na,North America,nagrd,Grenada,grd,"134,179 ",5.37742E-06
+2017,na,North America,nagtm,Guatemala,gtm,"496,961 ",1.99164E-05
+2017,na,North America,nahnd,Honduras,hnd,"2,548,573 ",0.000102138
+2017,na,North America,nahti,Haiti,hti,"238,116 ",9.54285E-06
+2017,na,North America,najam,Jamaica,jam,"37,712 ",1.51136E-06
+2017,na,North America,nalca,Saint Lucia,lca,518 ,2.08E-08
+2017,na,North America,namaf,Saint Martin,maf,"1,272 ",5.10E-08
+2017,na,North America,namex,Mexico,mex,"5,990,731 ",0.000240087
+2017,na,North America,nanic,Nicaragua,nic,"2,443,938 ",9.79444E-05
+2017,na,North America,napan,Panama,pan,"5,252,740 ",0.000210511
+2017,na,North America,naslv,El Salvador,slv,"1,111,178 ",4.45321E-05
+2017,na,North America,natca,Turks and Caicos Islands,tca,"335,205 ",1.34338E-05
+2017,na,North America,natto,Trinidad and Tobago,tto,"149,486 ",5.99087E-06
+2017,na,North America,nausa,United States,usa,"1,793,447,403 ",0.07187505
+2017,na,North America,navct,Saint Vincent and the Grenadines,vct,"2,653,627 ",0.000106348
+2017,na,North America,navgb,British Virgin Islands,vgb,"68,809 ",2.75762E-06
+2017,oc,Oceania,ocaus,Australia,aus,"126,748,038 ",0.005079615
+2017,oc,Oceania,occok,Cook Islands,cok,4 ,1.60E-10
+2017,oc,Oceania,ocfji,Fiji,fji,"404,584 ",1.62143E-05
+2017,oc,Oceania,ocgum,Guam,gum,"1,556 ",6.24E-08
+2017,oc,Oceania,ocnzl,New Zealand,nzl,"434,504 ",1.74134E-05
+2017,oc,Oceania,ocpng,Papua New Guinea,png,106 ,4.25E-09
+2017,oc,Oceania,ocslb,Solomon Islands,slb,"549,296 ",2.20138E-05
+2017,oc,Oceania,octkl,Tokelau,tkl,"12,904 ",5.17E-07
+2017,oc,Oceania,ocwsm,Samoa,wsm,"25,714 ",1.03053E-06
+2017,sa,South America,saarg,Argentina,arg,"180,051,257 ",0.00721582
+2017,sa,South America,sabol,Bolivia,bol,"107,024 ",4.28914E-06
+2017,sa,South America,sabra,Brazil,bra,"264,867,212 ",0.010614944
+2017,sa,South America,sachl,Chile,chl,"2,005,842 ",8.03871E-05
+2017,sa,South America,sacol,Colombia,col,"143,363 ",5.74548E-06
+2017,sa,South America,saecu,Ecuador,ecu,"352,520 ",1.41278E-05
+2017,sa,South America,saguy,Guyana,guy,"256,150,588 ",0.010265613
+2017,sa,South America,saper,Peru,per,"254,216 ",1.01881E-05
+2017,sa,South America,sapry,Paraguay,pry,"195,082,428 ",0.007818216
+2017,sa,South America,sasur,Suriname,sur,"26,190,339 ",0.001049616
+2017,sa,South America,saury,Uruguay,ury,"466,185,228 ",0.018683061
+2017,sa,South America,saven,Venezuela,ven,"140,899 ",5.64674E-06
+2016,af,Africa,afago,Angola,ago,"982,365 ",4.59152E-05
+2016,af,Africa,afbdi,Burundi,bdi,743 ,3.47E-08
+2016,af,Africa,afben,Benin,ben,"156,926 ",7.33463E-06
+2016,af,Africa,afbfa,Burkina Faso,bfa,"746,405 ",3.48865E-05
+2016,af,Africa,afbwa,Botswana,bwa,"781,153 ",3.65106E-05
+2016,af,Africa,afcaf,Central African Republic,caf,52 ,2.43E-09
+2016,af,Africa,afciv,Cote d'Ivoire,civ,"10,064,032 ",0.000470387
+2016,af,Africa,afcmr,Cameroon,cmr,"6,603,355 ",0.000308637
+2016,af,Africa,afcod,Democratic Republic of the Congo,cod,"312,435 ",1.4603E-05
+2016,af,Africa,afcog,Republic of the Congo,cog,"379,565 ",1.77406E-05
+2016,af,Africa,afdza,Algeria,dza,"25,834 ",1.20747E-06
+2016,af,Africa,afegy,Egypt,egy,"34,596,351 ",0.001617013
+2016,af,Africa,afeth,Ethiopia,eth,"2,602 ",1.22E-07
+2016,af,Africa,afgab,Gabon,gab,"27,590 ",1.28954E-06
+2016,af,Africa,afgha,Ghana,gha,"75,202 ",3.5149E-06
+2016,af,Africa,afgin,Guinea,gin,"173,908 ",8.12836E-06
+2016,af,Africa,afgmb,Gambia,gmb,454 ,2.12E-08
+2016,af,Africa,afgnb,Guinea-Bissau,gnb,271 ,1.27E-08
+2016,af,Africa,afgnq,Equatorial Guinea,gnq,45 ,2.10E-09
+2016,af,Africa,afken,Kenya,ken,"428,434 ",2.00248E-05
+2016,af,Africa,aflbr,Liberia,lbr,489 ,2.29E-08
+2016,af,Africa,aflby,Libya,lby,"270,554 ",1.26455E-05
+2016,af,Africa,aflso,Lesotho,lso,"63,251 ",2.95631E-06
+2016,af,Africa,afmar,Morocco,mar,"2,104,079 ",9.83434E-05
+2016,af,Africa,afmdg,Madagascar,mdg,"337,252 ",1.5763E-05
+2016,af,Africa,afmli,Mali,mli,"38,776 ",1.81237E-06
+2016,af,Africa,afmoz,Mozambique,moz,"702,232 ",3.28219E-05
+2016,af,Africa,afmus,Mauritius,mus,"4,318,163 ",0.000201828
+2016,af,Africa,afmwi,Malawi,mwi,"127,312 ",5.95049E-06
+2016,af,Africa,afnam,Namibia,nam,"5,002,009 ",0.000233791
+2016,af,Africa,afner,Niger,ner,"134,834,560 ",0.006302087
+2016,af,Africa,afnga,Nigeria,nga,"27,781 ",1.29847E-06
+2016,af,Africa,afrwa,Rwanda,rwa,"11,029,387 ",0.000515507
+2016,af,Africa,afsen,Senegal,sen,"46,089,705 ",0.002154205
+2016,af,Africa,afsle,Sierra Leone,sle,"6,312 ",2.95E-07
+2016,af,Africa,afsom,Somalia,som,"1,678 ",7.84E-08
+2016,af,Africa,afstp,Sao Tome and Principe,stp,"1,122 ",5.24E-08
+2016,af,Africa,afswz,Eswatini,swz,"19,298 ",9.02E-07
+2016,af,Africa,aftcd,Chad,tcd,"1,350 ",6.31E-08
+2016,af,Africa,aftgo,Togo,tgo,"113,074 ",5.28501E-06
+2016,af,Africa,aftun,Tunisia,tun,"342,906 ",1.60272E-05
+2016,af,Africa,aftza,Tanzania,tza,"19,163,556 ",0.000895693
+2016,af,Africa,afuga,Uganda,uga,"19,756,282 ",0.000923397
+2016,af,Africa,afzaf,South Africa,zaf,"77,105,414 ",0.003603861
+2016,af,Africa,afzmb,Zambia,zmb,"1,450,015 ",6.77728E-05
+2016,af,Africa,afzwe,Zimbabwe,zwe,"342,686 ",1.60169E-05
+2016,as,Asia,asafg,Afghanistan,afg,"56,896 ",2.65929E-06
+2016,as,Asia,asare,United Arab Emirates,are,"381,865,079 ",0.017848147
+2016,as,Asia,asaze,Azerbaijan,aze,"42,022 ",1.96408E-06
+2016,as,Asia,asbgd,Bangladesh,bgd,"10,312,115 ",0.000481982
+2016,as,Asia,asbhr,Bahrain,bhr,"847,680 ",3.96201E-05
+2016,as,Asia,asbrn,Brunei,brn,"66,886 ",3.12621E-06
+2016,as,Asia,asbtn,Bhutan,btn,655 ,3.06E-08
+2016,as,Asia,aschn,China,chn,"411,738,608 ",0.019244418
+2016,as,Asia,ascyp,Cyprus,cyp,"139,439 ",6.5173E-06
+2016,as,Asia,asgeo,Georgia,geo,"100,043 ",4.67595E-06
+2016,as,Asia,ashkg,Hong Kong,hkg,"32,857,060 ",0.001535719
+2016,as,Asia,asidn,Indonesia,idn,"3,195,908 ",0.000149375
+2016,as,Asia,asind,India,ind,"5,761,987,478 ",0.269311872
+2016,as,Asia,asirn,Iran,irn,"738,175 ",3.45019E-05
+2016,as,Asia,asirq,Iraq,irq,"2,709 ",1.27E-07
+2016,as,Asia,asisr,Israel,isr,"34,958,171 ",0.001633924
+2016,as,Asia,asjor,Jordan,jor,"2,383,025 ",0.000111381
+2016,as,Asia,asjpn,Japan,jpn,"47,620,127 ",0.002225736
+2016,as,Asia,askaz,Kazakhstan,kaz,"16,378,412 ",0.000765517
+2016,as,Asia,askgz,Kyrgyzstan,kgz,"148,844 ",6.95688E-06
+2016,as,Asia,askhm,Cambodia,khm,"337,582,145 ",0.015778389
+2016,as,Asia,askor,South Korea,kor,"5,238,254 ",0.000244833
+2016,as,Asia,askwt,Kuwait,kwt,"2,025,946 ",9.46915E-05
+2016,as,Asia,aslao,Laos,lao,"56,642,891 ",0.002647455
+2016,as,Asia,aslbn,Lebanon,lbn,"3,585,278 ",0.000167574
+2016,as,Asia,aslka,Sri Lanka,lka,"4,821,680 ",0.000225362
+2016,as,Asia,asmac,Macau,mac,"142,022 ",6.63802E-06
+2016,as,Asia,asmdv,Maldives,mdv,"123,202 ",5.75839E-06
+2016,as,Asia,asmmr,Burma,mmr,"210,728,244 ",0.009849313
+2016,as,Asia,asmng,Mongolia,mng,"282,266 ",1.31929E-05
+2016,as,Asia,asmys,Malaysia,mys,"17,522,393 ",0.000818986
+2016,as,Asia,asnpl,Nepal,npl,"220,468 ",1.03045E-05
+2016,as,Asia,asomn,Oman,omn,"7,619,536 ",0.000356133
+2016,as,Asia,aspak,Pakistan,pak,"1,844,534,862 ",0.086212464
+2016,as,Asia,asphl,Philippines,phl,"655,219 ",3.06245E-05
+2016,as,Asia,asprk,North Korea,prk,"13,951 ",6.52E-07
+2016,as,Asia,aspse,Palestine,pse,"2,412,753 ",0.000112771
+2016,as,Asia,asqat,Qatar,qat,"125,786 ",5.87916E-06
+2016,as,Asia,assau,Saudi Arabia,sau,"9,776,285 ",0.000456938
+2016,as,Asia,assgp,Singapore,sgp,"41,637,821 ",0.001946127
+2016,as,Asia,assyr,Syria,syr,"7,735 ",3.62E-07
+2016,as,Asia,astha,Thailand,tha,"4,542,820,272 ",0.212328721
+2016,as,Asia,astjk,Tajikistan,tjk,"3,032,754 ",0.000141749
+2016,as,Asia,astur,Turkey,tur,"159,264,799 ",0.007443942
+2016,as,Asia,asuzb,Uzbekistan,uzb,"25,737 ",1.20293E-06
+2016,as,Asia,asvnm,Vietnam,vnm,"1,979,389,369 ",0.092515483
+2016,as,Asia,asxxb,Chinese Taipei,,"52,793,691 ",0.002467546
+2016,as,Asia,asyem,Yemen,yem,151 ,7.06E-09
+2016,eu,Europe,eualb,Albania,alb,"54,734 ",2.55823E-06
+2016,eu,Europe,euand,Andorra,and,408 ,1.91E-08
+2016,eu,Europe,euaut,Austria,aut,"4,888,139 ",0.000228469
+2016,eu,Europe,eubel,Belgium,bel,"170,253,474 ",0.007957546
+2016,eu,Europe,eubgr,Bulgaria,bgr,"25,941,676 ",0.001212499
+2016,eu,Europe,eubih,Bosnia and Herzegovina,bih,"376,893 ",1.76158E-05
+2016,eu,Europe,eublr,Belarus,blr,"72,865 ",3.40567E-06
+2016,eu,Europe,euche,Switzerland,che,"5,369,661 ",0.000250975
+2016,eu,Europe,eucze,Czechia,cze,"17,272,796 ",0.00080732
+2016,eu,Europe,eudeu,Germany,deu,"98,591,515 ",0.004608109
+2016,eu,Europe,eudnk,Denmark,dnk,"10,607,765 ",0.000495801
+2016,eu,Europe,euesp,Spain,esp,"188,314,270 ",0.008801697
+2016,eu,Europe,euest,Estonia,est,"381,834 ",1.78467E-05
+2016,eu,Europe,eufin,Finland,fin,"390,409 ",1.82475E-05
+2016,eu,Europe,eufra,France,fra,"58,428,779 ",0.002730926
+2016,eu,Europe,eugbr,United Kingdom,gbr,"60,330,194 ",0.002819797
+2016,eu,Europe,eugrc,Greece,grc,"62,968,102 ",0.002943092
+2016,eu,Europe,euhrv,Croatia,hrv,"153,444 ",7.17188E-06
+2016,eu,Europe,euhun,Hungary,hun,"3,561,846 ",0.000166479
+2016,eu,Europe,euirl,Ireland,irl,"597,107 ",2.79084E-05
+2016,eu,Europe,euisl,Iceland,isl,"1,925 ",9.00E-08
+2016,eu,Europe,euita,Italy,ita,"571,888,367 ",0.026729723
+2016,eu,Europe,eultu,Lithuania,ltu,"4,082,741 ",0.000190825
+2016,eu,Europe,eulux,Luxembourg,lux,"151,070 ",7.06092E-06
+2016,eu,Europe,eulva,Latvia,lva,"1,431,134 ",6.68904E-05
+2016,eu,Europe,eumda,Moldova,mda,568 ,2.65E-08
+2016,eu,Europe,eumkd,North Macedonia,mkd,"3,847,688 ",0.000179839
+2016,eu,Europe,eumlt,Malta,mlt,"260,476 ",1.21745E-05
+2016,eu,Europe,eumne,Montenegro,mne,882 ,4.12E-08
+2016,eu,Europe,eunld,Netherlands,nld,"158,421,944 ",0.007404548
+2016,eu,Europe,eunor,Norway,nor,"574,660 ",2.68593E-05
+2016,eu,Europe,eupol,Poland,pol,"27,697,930 ",0.001294585
+2016,eu,Europe,euprt,Portugal,prt,"47,866,497 ",0.002237252
+2016,eu,Europe,eurou,Romania,rou,"14,228,784 ",0.000665045
+2016,eu,Europe,eurus,Russia,rus,"82,609,583 ",0.003861123
+2016,eu,Europe,eusrb,Serbia,srb,"264,938 ",1.2383E-05
+2016,eu,Europe,eusvk,Slovakia,svk,"2,119,921 ",9.90838E-05
+2016,eu,Europe,eusvn,Slovenia,svn,"2,972,436 ",0.00013893
+2016,eu,Europe,euswe,Sweden,swe,"2,533,204 ",0.0001184
+2016,eu,Europe,euukr,Ukraine,ukr,"617,443 ",2.88589E-05
+2016,na,North America,naabw,Aruba,abw,"535,157 ",2.50129E-05
+2016,na,North America,naatg,Antigua and Barbuda,atg,"6,823,350 ",0.000318919
+2016,na,North America,nabhs,Bahamas,bhs,"1,141 ",5.33E-08
+2016,na,North America,nablz,Belize,blz,"63,937 ",2.98838E-06
+2016,na,North America,nabmu,Bermuda,bmu,573 ,2.68E-08
+2016,na,North America,nabrb,Barbados,brb,"5,238 ",2.45E-07
+2016,na,North America,nacan,Canada,can,"7,493,870 ",0.000350259
+2016,na,North America,nacri,Costa Rica,cri,"2,971,532 ",0.000138888
+2016,na,North America,nacuw,Curaçao,cuw,"25,982 ",1.21438E-06
+2016,na,North America,nadom,Dominican Republic,dom,"3,947,410 ",0.0001845
+2016,na,North America,nagrd,Grenada,grd,"161,558 ",7.55112E-06
+2016,na,North America,nagrl,Greenland,grl,87 ,4.07E-09
+2016,na,North America,nagtm,Guatemala,gtm,"897,647 ",4.19555E-05
+2016,na,North America,nahnd,Honduras,hnd,"1,710,812 ",7.99623E-05
+2016,na,North America,nahti,Haiti,hti,"133,032 ",6.21784E-06
+2016,na,North America,najam,Jamaica,jam,"140,783 ",6.58011E-06
+2016,na,North America,nakna,Saint Kitts and Nevis,kna,"2,470 ",1.15E-07
+2016,na,North America,nalca,Saint Lucia,lca,"2,225 ",1.04E-07
+2016,na,North America,namaf,Saint Martin,maf,94 ,4.39E-09
+2016,na,North America,namex,Mexico,mex,"2,074,759 ",9.6973E-05
+2016,na,North America,nanic,Nicaragua,nic,"3,812,438 ",0.000178191
+2016,na,North America,napan,Panama,pan,"568,725 ",2.65819E-05
+2016,na,North America,naslv,El Salvador,slv,"7,862,359 ",0.000367482
+2016,na,North America,natca,Turks and Caicos Islands,tca,"7,539,219 ",0.000352379
+2016,na,North America,natto,Trinidad and Tobago,tto,"36,289 ",1.69613E-06
+2016,na,North America,nausa,United States,usa,"1,821,673,790 ",0.085143951
+2016,na,North America,navct,Saint Vincent and the Grenadines,vct,"2,772,099 ",0.000129566
+2016,oc,Oceania,ocasm,American Samoa,asm,"1,137 ",5.31E-08
+2016,oc,Oceania,ocaus,Australia,aus,"157,251,280 ",0.007349831
+2016,oc,Oceania,ocfji,Fiji,fji,"480,489 ",2.24578E-05
+2016,oc,Oceania,ocgum,Guam,gum,"5,327 ",2.49E-07
+2016,oc,Oceania,ocmhl,Marshall Islands,mhl,"158,192 ",7.3938E-06
+2016,oc,Oceania,ocncl,New Caledonia,ncl,"2,850 ",1.33E-07
+2016,oc,Oceania,ocnzl,New Zealand,nzl,"267,254 ",1.24913E-05
+2016,oc,Oceania,ocpng,Papua New Guinea,png,"424,334 ",1.98331E-05
+2016,oc,Oceania,ocpyf,French Polynesia,pyf,"11,032 ",5.16E-07
+2016,oc,Oceania,ocslb,Solomon Islands,slb,"10,024 ",4.69E-07
+2016,oc,Oceania,octon,Tonga,ton,37 ,1.73E-09
+2016,sa,South America,saarg,Argentina,arg,"213,343,066 ",0.009971528
+2016,sa,South America,sabol,Bolivia,bol,"131,720 ",6.15651E-06
+2016,sa,South America,sabra,Brazil,bra,"278,449,215 ",0.013014551
+2016,sa,South America,sachl,Chile,chl,"1,150,673 ",5.37818E-05
+2016,sa,South America,sacol,Colombia,col,"9,550 ",4.46E-07
+2016,sa,South America,saecu,Ecuador,ecu,"234,225 ",1.09475E-05
+2016,sa,South America,saguy,Guyana,guy,"204,491,206 ",0.009557798
+2016,sa,South America,saper,Peru,per,"6,025,766 ",0.000281641
+2016,sa,South America,sapry,Paraguay,pry,"198,608,162 ",0.009282828
+2016,sa,South America,sasur,Suriname,sur,"30,221,973 ",0.001412557
+2016,sa,South America,saury,Uruguay,ury,"435,466,751 ",0.020353457
+2016,sa,South America,saven,Venezuela,ven,"21,939 ",1.02542E-06
+2015,af,Africa,afago,Angola,ago,"17,398,996 ",0.000731495
+2015,af,Africa,afbdi,Burundi,bdi,"9,011 ",3.79E-07
+2015,af,Africa,afben,Benin,ben,"275,859 ",1.15978E-05
+2015,af,Africa,afbfa,Burkina Faso,bfa,"4,810,839 ",0.000202259
+2015,af,Africa,afbwa,Botswana,bwa,"477,588 ",2.00789E-05
+2015,af,Africa,afcaf,Central African Republic,caf,"256,296 ",1.07753E-05
+2015,af,Africa,afciv,Cote d'Ivoire,civ,"7,601,763 ",0.000319596
+2015,af,Africa,afcmr,Cameroon,cmr,"11,130,167 ",0.000467938
+2015,af,Africa,afcod,Democratic Republic of the Congo,cod,"2,027 ",8.52E-08
+2015,af,Africa,afcog,Republic of the Congo,cog,"35,881 ",1.50852E-06
+2015,af,Africa,afcom,Comoros,com,"62,635 ",2.63332E-06
+2015,af,Africa,afcpv,Cape Verde,cpv,"55,872 ",2.34899E-06
+2015,af,Africa,afdza,Algeria,dza,"26,491 ",1.11374E-06
+2015,af,Africa,afegy,Egypt,egy,"75,074,069 ",0.00315629
+2015,af,Africa,afeth,Ethiopia,eth,"3,864 ",1.62E-07
+2015,af,Africa,afgab,Gabon,gab,"57,835 ",2.43152E-06
+2015,af,Africa,afgha,Ghana,gha,"590,384 ",2.48211E-05
+2015,af,Africa,afgin,Guinea,gin,"172,208 ",7.24003E-06
+2015,af,Africa,afgmb,Gambia,gmb,"78,472 ",3.29915E-06
+2015,af,Africa,afken,Kenya,ken,"291,239 ",1.22444E-05
+2015,af,Africa,aflbr,Liberia,lbr,189 ,7.95E-09
+2015,af,Africa,aflby,Libya,lby,86 ,3.62E-09
+2015,af,Africa,aflso,Lesotho,lso,"47,985 ",2.0174E-06
+2015,af,Africa,afmar,Morocco,mar,"1,412,279 ",5.93755E-05
+2015,af,Africa,afmdg,Madagascar,mdg,"108,927 ",4.57955E-06
+2015,af,Africa,afmli,Mali,mli,"19,923 ",8.38E-07
+2015,af,Africa,afmoz,Mozambique,moz,"726,962 ",3.05632E-05
+2015,af,Africa,afmrt,Mauritania,mrt,"15,239 ",6.41E-07
+2015,af,Africa,afmus,Mauritius,mus,"647,294 ",2.72138E-05
+2015,af,Africa,afmwi,Malawi,mwi,"116,855 ",4.91286E-06
+2015,af,Africa,afnam,Namibia,nam,"2,420,496 ",0.000101763
+2015,af,Africa,afner,Niger,ner,"19,841,408 ",0.000834179
+2015,af,Africa,afnga,Nigeria,nga,"388,616 ",1.63383E-05
+2015,af,Africa,afrwa,Rwanda,rwa,"12,771,924 ",0.000536962
+2015,af,Africa,afsen,Senegal,sen,"38,187,243 ",0.001605481
+2015,af,Africa,afsle,Sierra Leone,sle,"23,512 ",9.88E-07
+2015,af,Africa,afssd,South Sudan,ssd,"16,621 ",6.99E-07
+2015,af,Africa,afswz,Eswatini,swz,"12,976 ",5.46E-07
+2015,af,Africa,afsyc,Seychelles,syc,"12,553 ",5.28E-07
+2015,af,Africa,aftcd,Chad,tcd,"51,104 ",2.14853E-06
+2015,af,Africa,aftgo,Togo,tgo,"388,103 ",1.63168E-05
+2015,af,Africa,aftun,Tunisia,tun,"5,415,887 ",0.000227697
+2015,af,Africa,aftza,Tanzania,tza,"10,340,150 ",0.000434724
+2015,af,Africa,afuga,Uganda,uga,"23,756,524 ",0.00099878
+2015,af,Africa,afzaf,South Africa,zaf,"73,178,881 ",0.003076611
+2015,af,Africa,afzmb,Zambia,zmb,"267,925 ",1.12642E-05
+2015,af,Africa,afzwe,Zimbabwe,zwe,"257,445 ",1.08236E-05
+2015,as,Asia,asafg,Afghanistan,afg,"143,246 ",6.0224E-06
+2015,as,Asia,asare,United Arab Emirates,are,"375,778,870 ",0.015798623
+2015,as,Asia,asarm,Armenia,arm,502 ,2.11E-08
+2015,as,Asia,asaze,Azerbaijan,aze,"94,679 ",3.98053E-06
+2015,as,Asia,asbgd,Bangladesh,bgd,"17,859,569 ",0.000750858
+2015,as,Asia,asbhr,Bahrain,bhr,"964,282 ",4.05407E-05
+2015,as,Asia,asbrn,Brunei,brn,"2,650 ",1.11E-07
+2015,as,Asia,asbtn,Bhutan,btn,"32,923 ",1.38416E-06
+2015,as,Asia,aschn,China,chn,"314,268,259 ",0.013212573
+2015,as,Asia,ascyp,Cyprus,cyp,"137,839 ",5.79507E-06
+2015,as,Asia,asgeo,Georgia,geo,"535,891 ",2.25301E-05
+2015,as,Asia,ashkg,Hong Kong,hkg,"24,609,554 ",0.001034643
+2015,as,Asia,asidn,Indonesia,idn,"2,904,515 ",0.000122113
+2015,as,Asia,asind,India,ind,"7,014,592,654 ",0.294909897
+2015,as,Asia,asirn,Iran,irn,"1,372,113 ",5.76868E-05
+2015,as,Asia,asirq,Iraq,irq,"4,616 ",1.94E-07
+2015,as,Asia,asisr,Israel,isr,"34,764,968 ",0.001461601
+2015,as,Asia,asjor,Jordan,jor,"489,415 ",2.05762E-05
+2015,as,Asia,asjpn,Japan,jpn,"41,473,840 ",0.001743657
+2015,as,Asia,askaz,Kazakhstan,kaz,"31,002,822 ",0.001303431
+2015,as,Asia,askgz,Kyrgyzstan,kgz,"36,000 ",1.51352E-06
+2015,as,Asia,askhm,Cambodia,khm,"335,491,807 ",0.014104861
+2015,as,Asia,askor,South Korea,kor,"4,777,454 ",0.000200855
+2015,as,Asia,askwt,Kuwait,kwt,"1,772,311 ",7.45121E-05
+2015,as,Asia,aslao,Laos,lao,"42,907,915 ",0.001803949
+2015,as,Asia,aslbn,Lebanon,lbn,"9,307,568 ",0.000391312
+2015,as,Asia,aslka,Sri Lanka,lka,"10,683,053 ",0.000449141
+2015,as,Asia,asmac,Macau,mac,"27,406 ",1.15221E-06
+2015,as,Asia,asmmr,Burma,mmr,"188,236,592 ",0.007913907
+2015,as,Asia,asmng,Mongolia,mng,"12,819 ",5.39E-07
+2015,as,Asia,asmys,Malaysia,mys,"24,593,688 ",0.001033976
+2015,as,Asia,asnpl,Nepal,npl,"285,781 ",1.20149E-05
+2015,as,Asia,asomn,Oman,omn,"2,690,536 ",0.000113116
+2015,as,Asia,aspak,Pakistan,pak,"2,071,903,665 ",0.087107681
+2015,as,Asia,asphl,Philippines,phl,"2,017,478 ",8.48195E-05
+2015,as,Asia,asprk,North Korea,prk,"40,875 ",1.71848E-06
+2015,as,Asia,aspse,Palestine,pse,"1,425,867 ",5.99468E-05
+2015,as,Asia,asqat,Qatar,qat,"356,164 ",1.4974E-05
+2015,as,Asia,assau,Saudi Arabia,sau,"10,591,525 ",0.000445293
+2015,as,Asia,assgp,Singapore,sgp,"85,984,472 ",0.003614988
+2015,as,Asia,assyr,Syria,syr,"3,248 ",1.37E-07
+2015,as,Asia,astha,Thailand,tha,"4,710,188,481 ",0.198027351
+2015,as,Asia,astjk,Tajikistan,tjk,"4,509,451 ",0.000189588
+2015,as,Asia,astkm,Turkmenistan,tkm,"221,554 ",9.31465E-06
+2015,as,Asia,astur,Turkey,tur,"145,086,047 ",0.006099757
+2015,as,Asia,asuzb,Uzbekistan,uzb,"30,649 ",1.28856E-06
+2015,as,Asia,asvnm,Vietnam,vnm,"2,577,959,425 ",0.108383449
+2015,as,Asia,asxxb,Chinese Taipei,,"43,097,702 ",0.001811928
+2015,as,Asia,asyem,Yemen,yem,"224,232 ",9.42724E-06
+2015,eu,Europe,eualb,Albania,alb,"33,983 ",1.42872E-06
+2015,eu,Europe,euand,Andorra,and,"119,101 ",5.00728E-06
+2015,eu,Europe,euaut,Austria,aut,"6,125,994 ",0.000257551
+2015,eu,Europe,eubel,Belgium,bel,"183,943,254 ",0.007733405
+2015,eu,Europe,eubgr,Bulgaria,bgr,"23,871,093 ",0.001003597
+2015,eu,Europe,eubih,Bosnia and Herzegovina,bih,"207,041 ",8.70449E-06
+2015,eu,Europe,eublr,Belarus,blr,"120,000 ",5.04508E-06
+2015,eu,Europe,euche,Switzerland,che,"5,255,644 ",0.00022096
+2015,eu,Europe,eucze,Czechia,cze,"14,669,531 ",0.000616741
+2015,eu,Europe,eudeu,Germany,deu,"91,188,424 ",0.003833775
+2015,eu,Europe,eudnk,Denmark,dnk,"8,613,879 ",0.000362148
+2015,eu,Europe,euesp,Spain,esp,"189,349,668 ",0.007960703
+2015,eu,Europe,euest,Estonia,est,"221,832 ",9.32634E-06
+2015,eu,Europe,eufin,Finland,fin,"795,150 ",3.343E-05
+2015,eu,Europe,eufra,France,fra,"70,778,387 ",0.002975689
+2015,eu,Europe,eugbr,United Kingdom,gbr,"60,940,542 ",0.002562083
+2015,eu,Europe,eugrc,Greece,grc,"53,859,083 ",0.002264362
+2015,eu,Europe,euhrv,Croatia,hrv,"297,847 ",1.25222E-05
+2015,eu,Europe,euhun,Hungary,hun,"3,236,997 ",0.000136091
+2015,eu,Europe,euirl,Ireland,irl,"1,102,860 ",4.63668E-05
+2015,eu,Europe,euita,Italy,ita,"601,234,687 ",0.025277314
+2015,eu,Europe,eultu,Lithuania,ltu,"2,939,720 ",0.000123593
+2015,eu,Europe,eulux,Luxembourg,lux,"153,745 ",6.4638E-06
+2015,eu,Europe,eulva,Latvia,lva,"1,533,677 ",6.44794E-05
+2015,eu,Europe,eumda,Moldova,mda,"1,295 ",5.44E-08
+2015,eu,Europe,eumkd,North Macedonia,mkd,"2,521,181 ",0.000105996
+2015,eu,Europe,eumlt,Malta,mlt,"103,559 ",4.35386E-06
+2015,eu,Europe,eumne,Montenegro,mne,"22,203 ",9.33E-07
+2015,eu,Europe,eunld,Netherlands,nld,"179,058,100 ",0.007528022
+2015,eu,Europe,eunor,Norway,nor,"407,693 ",1.71404E-05
+2015,eu,Europe,eupol,Poland,pol,"24,405,718 ",0.001026074
+2015,eu,Europe,euprt,Portugal,prt,"36,711,990 ",0.001543458
+2015,eu,Europe,eurou,Romania,rou,"10,469,885 ",0.000440178
+2015,eu,Europe,eurus,Russia,rus,"104,550,074 ",0.00439553
+2015,eu,Europe,eusrb,Serbia,srb,"358,476 ",1.50712E-05
+2015,eu,Europe,eusvk,Slovakia,svk,"3,399,546 ",0.000142925
+2015,eu,Europe,eusvn,Slovenia,svn,"3,909,926 ",0.000164382
+2015,eu,Europe,euswe,Sweden,swe,"2,101,580 ",8.83553E-05
+2015,eu,Europe,euukr,Ukraine,ukr,"956,078 ",4.01958E-05
+2015,na,North America,naatg,Antigua and Barbuda,atg,"10,773,341 ",0.000452936
+2015,na,North America,nabhs,Bahamas,bhs,"27,407 ",1.15225E-06
+2015,na,North America,nablz,Belize,blz,"237,875 ",1.00008E-05
+2015,na,North America,nabmu,Bermuda,bmu,"13,751 ",5.78E-07
+2015,na,North America,nabrb,Barbados,brb,"2,660 ",1.12E-07
+2015,na,North America,nacan,Canada,can,"7,008,636 ",0.000294659
+2015,na,North America,nacri,Costa Rica,cri,"2,265,703 ",9.52555E-05
+2015,na,North America,nacuw,Curaçao,cuw,"45,744 ",1.92318E-06
+2015,na,North America,nadma,Dominica,dma,"2,101 ",8.83E-08
+2015,na,North America,nadom,Dominican Republic,dom,"8,107,300 ",0.00034085
+2015,na,North America,nagtm,Guatemala,gtm,"475,353 ",1.9985E-05
+2015,na,North America,nahnd,Honduras,hnd,"1,605,294 ",6.74903E-05
+2015,na,North America,nahti,Haiti,hti,"122,437 ",5.14754E-06
+2015,na,North America,najam,Jamaica,jam,"6,988 ",2.94E-07
+2015,na,North America,nakna,Saint Kitts and Nevis,kna,"80,105 ",3.3678E-06
+2015,na,North America,namaf,Saint Martin,maf,546 ,2.30E-08
+2015,na,North America,namex,Mexico,mex,"1,489,193 ",6.26092E-05
+2015,na,North America,nanic,Nicaragua,nic,"4,268,164 ",0.000179444
+2015,na,North America,napan,Panama,pan,"172,385 ",7.24747E-06
+2015,na,North America,naslv,El Salvador,slv,"22,992,240 ",0.000966648
+2015,na,North America,natca,Turks and Caicos Islands,tca,"2,365,069 ",9.9433E-05
+2015,na,North America,natto,Trinidad and Tobago,tto,"637,898 ",2.68187E-05
+2015,na,North America,nausa,United States,usa,"2,048,388,341 ",0.086119041
+2015,na,North America,navct,Saint Vincent and the Grenadines,vct,"3,333,564 ",0.000140151
+2015,na,North America,navgb,British Virgin Islands,vgb,"105,161 ",4.42121E-06
+2015,oc,Oceania,ocaus,Australia,aus,"233,982,906 ",0.009837189
+2015,oc,Oceania,ocfji,Fiji,fji,"1,205,933 ",5.07002E-05
+2015,oc,Oceania,ocgum,Guam,gum,771 ,3.24E-08
+2015,oc,Oceania,ocmhl,Marshall Islands,mhl,"22,999 ",9.67E-07
+2015,oc,Oceania,ocncl,New Caledonia,ncl,"58,744 ",2.46974E-06
+2015,oc,Oceania,ocnzl,New Zealand,nzl,"335,750 ",1.41157E-05
+2015,oc,Oceania,ocplw,Palau,plw,"127,985 ",5.38079E-06
+2015,oc,Oceania,ocpng,Papua New Guinea,png,76 ,3.20E-09
+2015,oc,Oceania,ocpyf,French Polynesia,pyf,302 ,1.27E-08
+2015,oc,Oceania,ocslb,Solomon Islands,slb,"20,336 ",8.55E-07
+2015,sa,South America,saarg,Argentina,arg,"156,682,522 ",0.0065873
+2015,sa,South America,sabol,Bolivia,bol,"160,129 ",6.7322E-06
+2015,sa,South America,sabra,Brazil,bra,"359,583,811 ",0.015117745
+2015,sa,South America,sachl,Chile,chl,"2,853,257 ",0.000119958
+2015,sa,South America,sacol,Colombia,col,"159,289 ",6.69688E-06
+2015,sa,South America,saecu,Ecuador,ecu,"1,049,324 ",4.4116E-05
+2015,sa,South America,saguy,Guyana,guy,"258,282,241 ",0.01085879
+2015,sa,South America,saper,Peru,per,"124,930 ",5.25235E-06
+2015,sa,South America,sapry,Paraguay,pry,"131,324,909 ",0.005521207
+2015,sa,South America,sasur,Suriname,sur,"26,868,940 ",0.001129633
+2015,sa,South America,saury,Uruguay,ury,"364,022,371 ",0.015304353
+2015,sa,South America,saven,Venezuela,ven,"245,304 ",1.03132E-05
+2014,af,Africa,afago,Angola,ago,37 ,1.38E-09
+2014,af,Africa,afbdi,Burundi,bdi,977 ,3.63E-08
+2014,af,Africa,afben,Benin,ben,"11,127,111 ",0.000413783
+2014,af,Africa,afbfa,Burkina Faso,bfa,"43,042 ",1.6006E-06
+2014,af,Africa,afbwa,Botswana,bwa,"485,663 ",1.80603E-05
+2014,af,Africa,afcaf,Central African Republic,caf,"112,272 ",4.17505E-06
+2014,af,Africa,afciv,Cote d'Ivoire,civ,"22,701,948 ",0.000844216
+2014,af,Africa,afcmr,Cameroon,cmr,"3,791,366 ",0.000140989
+2014,af,Africa,afcod,Democratic Republic of the Congo,cod,"486,262 ",1.80826E-05
+2014,af,Africa,afcog,Republic of the Congo,cog,"387,946 ",1.44265E-05
+2014,af,Africa,afdza,Algeria,dza,"2,892 ",1.08E-07
+2014,af,Africa,afegy,Egypt,egy,"49,295,211 ",0.001833137
+2014,af,Africa,afeth,Ethiopia,eth,"15,537 ",5.78E-07
+2014,af,Africa,afgab,Gabon,gab,"94,683 ",3.52097E-06
+2014,af,Africa,afgha,Ghana,gha,"245,491 ",9.12905E-06
+2014,af,Africa,afgin,Guinea,gin,"42,900 ",1.59532E-06
+2014,af,Africa,afgmb,Gambia,gmb,"200,932 ",7.47204E-06
+2014,af,Africa,afken,Kenya,ken,"204,833 ",7.61711E-06
+2014,af,Africa,aflbr,Liberia,lbr,"2,160 ",8.03E-08
+2014,af,Africa,aflby,Libya,lby,"5,297 ",1.97E-07
+2014,af,Africa,aflso,Lesotho,lso,"49,734 ",1.84945E-06
+2014,af,Africa,afmar,Morocco,mar,"1,068,636 ",3.97393E-05
+2014,af,Africa,afmdg,Madagascar,mdg,"95,167 ",3.53897E-06
+2014,af,Africa,afmli,Mali,mli,931 ,3.46E-08
+2014,af,Africa,afmoz,Mozambique,moz,"2,392,440 ",8.89675E-05
+2014,af,Africa,afmrt,Mauritania,mrt,"32,639 ",1.21374E-06
+2014,af,Africa,afmus,Mauritius,mus,"5,565,031 ",0.000206946
+2014,af,Africa,afmwi,Malawi,mwi,"490,672 ",1.82466E-05
+2014,af,Africa,afnam,Namibia,nam,"87,036 ",3.2366E-06
+2014,af,Africa,afner,Niger,ner,"23,550,374 ",0.000875766
+2014,af,Africa,afnga,Nigeria,nga,"1,372,942 ",5.10555E-05
+2014,af,Africa,afrwa,Rwanda,rwa,"14,896,610 ",0.000553959
+2014,af,Africa,afsen,Senegal,sen,"41,519,239 ",0.001543973
+2014,af,Africa,afshn,Saint Helena,shn,"2,305 ",8.57E-08
+2014,af,Africa,afsle,Sierra Leone,sle,"10,518 ",3.91E-07
+2014,af,Africa,afssd,South Sudan,ssd,923 ,3.43E-08
+2014,af,Africa,afstp,Sao Tome and Principe,stp,"198,633 ",7.38655E-06
+2014,af,Africa,afswz,Eswatini,swz,"106,437 ",3.95806E-06
+2014,af,Africa,aftgo,Togo,tgo,"4,039,285 ",0.000150209
+2014,af,Africa,aftun,Tunisia,tun,"49,759 ",1.85038E-06
+2014,af,Africa,aftza,Tanzania,tza,"24,938,287 ",0.000927378
+2014,af,Africa,afuga,Uganda,uga,"28,688,372 ",0.001066832
+2014,af,Africa,afzaf,South Africa,zaf,"68,548,779 ",0.002549118
+2014,af,Africa,afzmb,Zambia,zmb,"270,619 ",1.00635E-05
+2014,af,Africa,afzwe,Zimbabwe,zwe,"361,383 ",1.34387E-05
+2014,as,Asia,asafg,Afghanistan,afg,"108,017 ",4.01682E-06
+2014,as,Asia,asare,United Arab Emirates,are,"162,487,365 ",0.006042405
+2014,as,Asia,asaze,Azerbaijan,aze,"19,060 ",7.09E-07
+2014,as,Asia,asbgd,Bangladesh,bgd,"4,707,625 ",0.000175062
+2014,as,Asia,asbhr,Bahrain,bhr,"195,577 ",7.27291E-06
+2014,as,Asia,asbrn,Brunei,brn,"6,924 ",2.57E-07
+2014,as,Asia,asbtn,Bhutan,btn,"52,959 ",1.96938E-06
+2014,as,Asia,aschn,China,chn,"483,201,535 ",0.017968777
+2014,as,Asia,ascyp,Cyprus,cyp,"391,013 ",1.45406E-05
+2014,as,Asia,asgeo,Georgia,geo,"142,704 ",5.30672E-06
+2014,as,Asia,ashkg,Hong Kong,hkg,"12,736,258 ",0.000473622
+2014,as,Asia,asidn,Indonesia,idn,"4,995,094 ",0.000185752
+2014,as,Asia,asind,India,ind,"8,056,112,312 ",0.299582006
+2014,as,Asia,asirn,Iran,irn,"786,283 ",2.92394E-05
+2014,as,Asia,asirq,Iraq,irq,"4,785 ",1.78E-07
+2014,as,Asia,asisr,Israel,isr,"35,803,819 ",0.001331434
+2014,as,Asia,asjor,Jordan,jor,"1,056,059 ",3.92716E-05
+2014,as,Asia,asjpn,Japan,jpn,"31,178,538 ",0.001159434
+2014,as,Asia,askaz,Kazakhstan,kaz,"21,370,927 ",0.000794719
+2014,as,Asia,askgz,Kyrgyzstan,kgz,"73,403 ",2.72963E-06
+2014,as,Asia,askhm,Cambodia,khm,"287,611,581 ",0.010695389
+2014,as,Asia,askor,South Korea,kor,"4,446,488 ",0.000165351
+2014,as,Asia,askwt,Kuwait,kwt,"6,979,421 ",0.000259543
+2014,as,Asia,aslao,Laos,lao,"15,735,111 ",0.00058514
+2014,as,Asia,aslbn,Lebanon,lbn,"1,082,136 ",4.02413E-05
+2014,as,Asia,aslka,Sri Lanka,lka,"21,828,997 ",0.000811753
+2014,as,Asia,asmac,Macau,mac,"277,432 ",1.03168E-05
+2014,as,Asia,asmmr,Burma,mmr,"318,619,717 ",0.011848486
+2014,as,Asia,asmng,Mongolia,mng,15 ,5.58E-10
+2014,as,Asia,asmys,Malaysia,mys,"21,536,690 ",0.000800883
+2014,as,Asia,asnpl,Nepal,npl,"35,510 ",1.32051E-06
+2014,as,Asia,asomn,Oman,omn,"5,236,649 ",0.000194735
+2014,as,Asia,aspak,Pakistan,pak,"2,365,780,087 ",0.087976075
+2014,as,Asia,asphl,Philippines,phl,"2,935,560 ",0.000109164
+2014,as,Asia,asprk,North Korea,prk,"47,405 ",1.76285E-06
+2014,as,Asia,aspse,Palestine,pse,"1,092,425 ",4.06239E-05
+2014,as,Asia,asqat,Qatar,qat,"7,169 ",2.67E-07
+2014,as,Asia,assau,Saudi Arabia,sau,"9,883,688 ",0.000367544
+2014,as,Asia,assgp,Singapore,sgp,"127,170,190 ",0.004729068
+2014,as,Asia,assyr,Syria,syr,"1,588 ",5.91E-08
+2014,as,Asia,astha,Thailand,tha,"5,450,120,702 ",0.202673204
+2014,as,Asia,astjk,Tajikistan,tjk,"4,069,764 ",0.000151342
+2014,as,Asia,astur,Turkey,tur,"183,523,243 ",0.006824664
+2014,as,Asia,asuzb,Uzbekistan,uzb,"10,464 ",3.89E-07
+2014,as,Asia,asvnm,Vietnam,vnm,"2,743,822,526 ",0.102034309
+2014,as,Asia,asxxb,Chinese Taipei,,"9,368,048 ",0.000348369
+2014,as,Asia,asyem,Yemen,yem,"1,358,307 ",5.05113E-05
+2014,eu,Europe,euand,Andorra,and,150 ,5.58E-09
+2014,eu,Europe,euaut,Austria,aut,"6,948,979 ",0.000258411
+2014,eu,Europe,eubel,Belgium,bel,"225,152,742 ",0.008372737
+2014,eu,Europe,eubgr,Bulgaria,bgr,"29,855,573 ",0.001110237
+2014,eu,Europe,eubih,Bosnia and Herzegovina,bih,"12,494 ",4.65E-07
+2014,eu,Europe,eublr,Belarus,blr,"444,962 ",1.65468E-05
+2014,eu,Europe,euche,Switzerland,che,"11,243,734 ",0.00041812
+2014,eu,Europe,eucze,Czechia,cze,"17,461,795 ",0.00064935
+2014,eu,Europe,eudeu,Germany,deu,"87,739,024 ",0.003262744
+2014,eu,Europe,eudnk,Denmark,dnk,"10,494,772 ",0.000390268
+2014,eu,Europe,euesp,Spain,esp,"209,663,638 ",0.007796745
+2014,eu,Europe,euest,Estonia,est,"322,785 ",1.20034E-05
+2014,eu,Europe,eufin,Finland,fin,"633,724 ",2.35662E-05
+2014,eu,Europe,eufra,France,fra,"73,520,386 ",0.002733997
+2014,eu,Europe,eugbr,United Kingdom,gbr,"81,265,018 ",0.003021996
+2014,eu,Europe,eugib,Gibraltar,gib,1 ,3.72E-11
+2014,eu,Europe,eugrc,Greece,grc,"69,448,661 ",0.002582582
+2014,eu,Europe,euhrv,Croatia,hrv,"85,367 ",3.17454E-06
+2014,eu,Europe,euhun,Hungary,hun,"2,902,976 ",0.000107953
+2014,eu,Europe,euirl,Ireland,irl,"3,408,918 ",0.000126767
+2014,eu,Europe,euisl,Iceland,isl,"1,190,280 ",4.42628E-05
+2014,eu,Europe,euita,Italy,ita,"701,599,108 ",0.02609031
+2014,eu,Europe,eultu,Lithuania,ltu,"3,548,014 ",0.00013194
+2014,eu,Europe,eulux,Luxembourg,lux,"158,200 ",5.88297E-06
+2014,eu,Europe,eulva,Latvia,lva,"1,846,559 ",6.86678E-05
+2014,eu,Europe,eumda,Moldova,mda,838 ,3.12E-08
+2014,eu,Europe,eumkd,North Macedonia,mkd,"2,266,443 ",8.4282E-05
+2014,eu,Europe,eumlt,Malta,mlt,"1,306,334 ",4.85785E-05
+2014,eu,Europe,eumne,Montenegro,mne,"2,898 ",1.08E-07
+2014,eu,Europe,eunld,Netherlands,nld,"204,276,511 ",0.007596414
+2014,eu,Europe,eunor,Norway,nor,"768,709 ",2.85859E-05
+2014,eu,Europe,eupol,Poland,pol,"20,052,345 ",0.000745685
+2014,eu,Europe,euprt,Portugal,prt,"45,324,217 ",0.001685468
+2014,eu,Europe,eurou,Romania,rou,"14,635,346 ",0.000544243
+2014,eu,Europe,eurus,Russia,rus,"124,680,067 ",0.004636468
+2014,eu,Europe,eusrb,Serbia,srb,"462,071 ",1.7183E-05
+2014,eu,Europe,eusvk,Slovakia,svk,"2,162,211 ",8.0406E-05
+2014,eu,Europe,eusvn,Slovenia,svn,"2,404,823 ",8.9428E-05
+2014,eu,Europe,euswe,Sweden,swe,"2,571,067 ",9.56101E-05
+2014,eu,Europe,euukr,Ukraine,ukr,"17,104,939 ",0.00063608
+2014,na,North America,naatg,Antigua and Barbuda,atg,"17,373,154 ",0.000646054
+2014,na,North America,nabhs,Bahamas,bhs,"183,582 ",6.82685E-06
+2014,na,North America,nablz,Belize,blz,"43,837 ",1.63016E-06
+2014,na,North America,nabmu,Bermuda,bmu,251 ,9.33E-09
+2014,na,North America,nabrb,Barbados,brb,"2,185 ",8.13E-08
+2014,na,North America,nacan,Canada,can,"12,786,834 ",0.000475503
+2014,na,North America,nacri,Costa Rica,cri,"2,257,561 ",8.39517E-05
+2014,na,North America,nacuw,Curaçao,cuw,"23,834 ",8.86E-07
+2014,na,North America,nadma,Dominica,dma,43 ,1.60E-09
+2014,na,North America,nadom,Dominican Republic,dom,"15,280,299 ",0.000568227
+2014,na,North America,nagrd,Grenada,grd,"20,907 ",7.77E-07
+2014,na,North America,nagrl,Greenland,grl,869 ,3.23E-08
+2014,na,North America,nagtm,Guatemala,gtm,"116,811 ",4.34384E-06
+2014,na,North America,nahnd,Honduras,hnd,"369,849 ",1.37535E-05
+2014,na,North America,nahti,Haiti,hti,"29,377 ",1.09244E-06
+2014,na,North America,najam,Jamaica,jam,"15,160 ",5.64E-07
+2014,na,North America,nakna,Saint Kitts and Nevis,kna,"44,287 ",1.6469E-06
+2014,na,North America,namaf,Saint Martin,maf,"1,634 ",6.08E-08
+2014,na,North America,namex,Mexico,mex,"1,578,405 ",5.8696E-05
+2014,na,North America,nanic,Nicaragua,nic,"8,617,633 ",0.000320463
+2014,na,North America,napan,Panama,pan,"3,329,216 ",0.000123803
+2014,na,North America,naslv,El Salvador,slv,"7,712,023 ",0.000286786
+2014,na,North America,natca,Turks and Caicos Islands,tca,"283,312 ",1.05355E-05
+2014,na,North America,natto,Trinidad and Tobago,tto,"562,492 ",2.09173E-05
+2014,na,North America,nausa,United States,usa,"2,104,535,895 ",0.078261209
+2014,na,North America,navct,Saint Vincent and the Grenadines,vct,"3,623,506 ",0.000134747
+2014,na,North America,navgb,British Virgin Islands,vgb,"890,013 ",3.30968E-05
+2014,oc,Oceania,ocasm,American Samoa,asm,541 ,2.01E-08
+2014,oc,Oceania,ocaus,Australia,aus,"270,670,319 ",0.010065396
+2014,oc,Oceania,occok,Cook Islands,cok,103 ,3.83E-09
+2014,oc,Oceania,ocfji,Fiji,fji,"617,676 ",2.29695E-05
+2014,oc,Oceania,ocgum,Guam,gum,"4,355 ",1.62E-07
+2014,oc,Oceania,ocmhl,Marshall Islands,mhl,"142,584 ",5.30226E-06
+2014,oc,Oceania,ocncl,New Caledonia,ncl,"5,323 ",1.98E-07
+2014,oc,Oceania,ocnfk,Norfolk Island,nfk,224 ,8.33E-09
+2014,oc,Oceania,ocnzl,New Zealand,nzl,"1,779,375 ",6.61695E-05
+2014,oc,Oceania,ocplw,Palau,plw,10 ,3.72E-10
+2014,oc,Oceania,ocpng,Papua New Guinea,png,"161,137 ",5.99219E-06
+2014,oc,Oceania,ocslb,Solomon Islands,slb,"152,601 ",5.67476E-06
+2014,oc,Oceania,ocvut,Vanuatu,vut,"135,790 ",5.04961E-06
+2014,oc,Oceania,ocwsm,Samoa,wsm,"16,452 ",6.12E-07
+2014,sa,South America,saarg,Argentina,arg,"278,063,459 ",0.010340324
+2014,sa,South America,sabol,Bolivia,bol,"136,987 ",5.09412E-06
+2014,sa,South America,sabra,Brazil,bra,"413,507,018 ",0.015377053
+2014,sa,South America,sachl,Chile,chl,"7,020,691 ",0.000261078
+2014,sa,South America,sacol,Colombia,col,"260,279 ",9.67897E-06
+2014,sa,South America,saecu,Ecuador,ecu,"11,012,989 ",0.000409539
+2014,sa,South America,saguy,Guyana,guy,"276,720,725 ",0.010290392
+2014,sa,South America,saper,Peru,per,"79,243 ",2.9468E-06
+2014,sa,South America,sapry,Paraguay,pry,"178,624,047 ",0.006642478
+2014,sa,South America,sasur,Suriname,sur,"67,005,889 ",0.002491743
+2014,sa,South America,saury,Uruguay,ury,"522,224,154 ",0.019419908
+2014,sa,South America,saven,Venezuela,ven,"589,430 ",2.19191E-05
+2013,af,Africa,afago,Angola,ago,500 ,1.90E-08
+2013,af,Africa,afbdi,Burundi,bdi,"16,441 ",6.26E-07
+2013,af,Africa,afben,Benin,ben,"10,119,561 ",0.000385529
+2013,af,Africa,afbfa,Burkina Faso,bfa,"2,247,336 ",8.56176E-05
+2013,af,Africa,afbwa,Botswana,bwa,"10,598,901 ",0.00040379
+2013,af,Africa,afciv,Cote d'Ivoire,civ,"16,090,684 ",0.000613013
+2013,af,Africa,afcmr,Cameroon,cmr,"1,995,057 ",7.60064E-05
+2013,af,Africa,afcod,Democratic Republic of the Congo,cod,"104,144 ",3.96761E-06
+2013,af,Africa,afcog,Republic of the Congo,cog,"339,460 ",1.29325E-05
+2013,af,Africa,afcom,Comoros,com,"17,519 ",6.67E-07
+2013,af,Africa,afcpv,Cape Verde,cpv,"3,385 ",1.29E-07
+2013,af,Africa,afdji,Djibouti,dji,14 ,5.33E-10
+2013,af,Africa,afdza,Algeria,dza,"69,817 ",2.65984E-06
+2013,af,Africa,afegy,Egypt,egy,"203,750,186 ",0.007762345
+2013,af,Africa,afeth,Ethiopia,eth,"13,787 ",5.25E-07
+2013,af,Africa,afgab,Gabon,gab,"149,896 ",5.71064E-06
+2013,af,Africa,afgha,Ghana,gha,"728,542 ",2.77555E-05
+2013,af,Africa,afgin,Guinea,gin,"36,789 ",1.40156E-06
+2013,af,Africa,afgmb,Gambia,gmb,"28,689 ",1.09298E-06
+2013,af,Africa,afgnb,Guinea-Bissau,gnb,43 ,1.64E-09
+2013,af,Africa,afgnq,Equatorial Guinea,gnq,39 ,1.49E-09
+2013,af,Africa,afken,Kenya,ken,"2,094,516 ",7.97955E-05
+2013,af,Africa,aflbr,Liberia,lbr,"3,361,070 ",0.000128048
+2013,af,Africa,aflby,Libya,lby,"33,032 ",1.25843E-06
+2013,af,Africa,aflso,Lesotho,lso,"32,632 ",1.24319E-06
+2013,af,Africa,afmar,Morocco,mar,"452,820 ",1.72512E-05
+2013,af,Africa,afmdg,Madagascar,mdg,"91,421 ",3.4829E-06
+2013,af,Africa,afmli,Mali,mli,"205,661 ",7.83514E-06
+2013,af,Africa,afmoz,Mozambique,moz,"2,594,863 ",9.88574E-05
+2013,af,Africa,afmrt,Mauritania,mrt,"183,747 ",7.00028E-06
+2013,af,Africa,afmus,Mauritius,mus,"3,826,094 ",0.000145764
+2013,af,Africa,afmwi,Malawi,mwi,"1,673,549 ",6.37578E-05
+2013,af,Africa,afmyt,Mayotte,myt,64 ,2.44E-09
+2013,af,Africa,afnam,Namibia,nam,"150,602 ",5.73754E-06
+2013,af,Africa,afner,Niger,ner,"22,738,889 ",0.000866292
+2013,af,Africa,afnga,Nigeria,nga,"3,244,782 ",0.000123618
+2013,af,Africa,afrwa,Rwanda,rwa,"12,343,430 ",0.000470252
+2013,af,Africa,afsdn,Sudan,sdn,"44,134 ",1.68139E-06
+2013,af,Africa,afsen,Senegal,sen,"37,316,834 ",0.001421673
+2013,af,Africa,afsle,Sierra Leone,sle,372 ,1.42E-08
+2013,af,Africa,afswz,Eswatini,swz,"224,571 ",8.55556E-06
+2013,af,Africa,afsyc,Seychelles,syc,"24,758 ",9.43E-07
+2013,af,Africa,aftcd,Chad,tcd,"22,591 ",8.61E-07
+2013,af,Africa,aftgo,Togo,tgo,"42,029 ",1.60119E-06
+2013,af,Africa,aftun,Tunisia,tun,"9,072,055 ",0.000345621
+2013,af,Africa,aftza,Tanzania,tza,"26,360,811 ",0.001004277
+2013,af,Africa,afuga,Uganda,uga,"35,469,590 ",0.001351298
+2013,af,Africa,afzaf,South Africa,zaf,"75,975,687 ",0.002894473
+2013,af,Africa,afzmb,Zambia,zmb,"132,784 ",5.05872E-06
+2013,af,Africa,afzwe,Zimbabwe,zwe,"493,690 ",1.88083E-05
+2013,as,Asia,asafg,Afghanistan,afg,"198,493 ",7.56206E-06
+2013,as,Asia,asare,United Arab Emirates,are,"191,593,219 ",0.007299197
+2013,as,Asia,asaze,Azerbaijan,aze,"33,981 ",1.29459E-06
+2013,as,Asia,asbgd,Bangladesh,bgd,"4,167,501 ",0.000158771
+2013,as,Asia,asbhr,Bahrain,bhr,"563,522 ",2.14687E-05
+2013,as,Asia,asbrn,Brunei,brn,199 ,7.58E-09
+2013,as,Asia,asbtn,Bhutan,btn,"147,652 ",5.62515E-06
+2013,as,Asia,aschn,China,chn,"633,308,514 ",0.024127385
+2013,as,Asia,ascyp,Cyprus,cyp,"2,929,372 ",0.000111601
+2013,as,Asia,asgeo,Georgia,geo,"240,892 ",9.17735E-06
+2013,as,Asia,ashkg,Hong Kong,hkg,"18,173,366 ",0.000692357
+2013,as,Asia,asidn,Indonesia,idn,"12,181,782 ",0.000464094
+2013,as,Asia,asind,India,ind,"8,181,214,832 ",0.311682724
+2013,as,Asia,asiot,British Indian Ocean Territory,iot,"36,801 ",1.40202E-06
+2013,as,Asia,asirn,Iran,irn,"1,351,963 ",5.15062E-05
+2013,as,Asia,asirq,Iraq,irq,"273,801 ",1.04311E-05
+2013,as,Asia,asisr,Israel,isr,"36,142,675 ",0.001376941
+2013,as,Asia,asjor,Jordan,jor,"952,698 ",3.62953E-05
+2013,as,Asia,asjpn,Japan,jpn,"36,084,003 ",0.001374705
+2013,as,Asia,askaz,Kazakhstan,kaz,"20,894,922 ",0.000796041
+2013,as,Asia,askgz,Kyrgyzstan,kgz,"189,651 ",7.2252E-06
+2013,as,Asia,askhm,Cambodia,khm,"284,226,238 ",0.010828271
+2013,as,Asia,askor,South Korea,kor,"4,178,287 ",0.000159182
+2013,as,Asia,askwt,Kuwait,kwt,"5,857,201 ",0.000223144
+2013,as,Asia,aslao,Laos,lao,"17,247,641 ",0.00065709
+2013,as,Asia,aslbn,Lebanon,lbn,"5,069,247 ",0.000193125
+2013,as,Asia,aslka,Sri Lanka,lka,"8,409,112 ",0.000320365
+2013,as,Asia,asmac,Macau,mac,"350,840 ",1.33661E-05
+2013,as,Asia,asmmr,Burma,mmr,"262,905,313 ",0.010016
+2013,as,Asia,asmng,Mongolia,mng,"55,163 ",2.10156E-06
+2013,as,Asia,asmys,Malaysia,mys,"8,031,417 ",0.000305976
+2013,as,Asia,asnpl,Nepal,npl,"36,683 ",1.39753E-06
+2013,as,Asia,asomn,Oman,omn,"15,490,079 ",0.000590131
+2013,as,Asia,aspak,Pakistan,pak,"2,152,465,557 ",0.082003265
+2013,as,Asia,asphl,Philippines,phl,"4,702,225 ",0.000179142
+2013,as,Asia,asprk,North Korea,prk,"4,621 ",1.76E-07
+2013,as,Asia,aspse,Palestine,pse,"1,445,120 ",5.50553E-05
+2013,as,Asia,asqat,Qatar,qat,"8,738 ",3.33E-07
+2013,as,Asia,assau,Saudi Arabia,sau,"11,837,489 ",0.000450977
+2013,as,Asia,assgp,Singapore,sgp,"101,546,709 ",0.003868662
+2013,as,Asia,assyr,Syria,syr,952 ,3.63E-08
+2013,as,Asia,astha,Thailand,tha,"4,500,093,666 ",0.171441709
+2013,as,Asia,astjk,Tajikistan,tjk,"863,364 ",3.28919E-05
+2013,as,Asia,astkm,Turkmenistan,tkm,"133,113 ",5.07125E-06
+2013,as,Asia,astls,Timor-Leste,tls,"32,175 ",1.22578E-06
+2013,as,Asia,astur,Turkey,tur,"94,629,442 ",0.003605132
+2013,as,Asia,asvnm,Vietnam,vnm,"2,773,968,260 ",0.10568088
+2013,as,Asia,asxxb,Chinese Taipei,,"7,442,156 ",0.000283527
+2013,as,Asia,asyem,Yemen,yem,"821,548 ",3.12988E-05
+2013,eu,Europe,eualb,Albania,alb,"74,812 ",2.85014E-06
+2013,eu,Europe,euand,Andorra,and,"100,084 ",3.81294E-06
+2013,eu,Europe,euaut,Austria,aut,"6,428,840 ",0.000244922
+2013,eu,Europe,eubel,Belgium,bel,"196,199,881 ",0.007474698
+2013,eu,Europe,eubgr,Bulgaria,bgr,"25,205,908 ",0.000960279
+2013,eu,Europe,eubih,Bosnia and Herzegovina,bih,"33,518 ",1.27695E-06
+2013,eu,Europe,eublr,Belarus,blr,"974,628 ",3.71308E-05
+2013,eu,Europe,euche,Switzerland,che,"18,374,214 ",0.000700009
+2013,eu,Europe,eucze,Czechia,cze,"21,920,141 ",0.0008351
+2013,eu,Europe,eudeu,Germany,deu,"80,724,102 ",0.003075376
+2013,eu,Europe,eudnk,Denmark,dnk,"10,676,371 ",0.000406742
+2013,eu,Europe,euesp,Spain,esp,"212,561,063 ",0.008098016
+2013,eu,Europe,euest,Estonia,est,"603,854 ",2.30052E-05
+2013,eu,Europe,eufin,Finland,fin,"729,882 ",2.78066E-05
+2013,eu,Europe,eufra,France,fra,"75,628,283 ",0.002881238
+2013,eu,Europe,eugbr,United Kingdom,gbr,"57,081,519 ",0.002174655
+2013,eu,Europe,eugib,Gibraltar,gib,"309,089 ",1.17755E-05
+2013,eu,Europe,eugrc,Greece,grc,"62,563,297 ",0.002383497
+2013,eu,Europe,euhrv,Croatia,hrv,"381,289 ",1.45261E-05
+2013,eu,Europe,euhun,Hungary,hun,"3,107,045 ",0.00011837
+2013,eu,Europe,euirl,Ireland,irl,"3,517,322 ",0.000134001
+2013,eu,Europe,euisl,Iceland,isl,"2,868,392 ",0.000109278
+2013,eu,Europe,euita,Italy,ita,"668,714,045 ",0.025476243
+2013,eu,Europe,eultu,Lithuania,ltu,"4,198,747 ",0.000159961
+2013,eu,Europe,eulux,Luxembourg,lux,"198,935 ",7.5789E-06
+2013,eu,Europe,eulva,Latvia,lva,"1,707,180 ",6.50391E-05
+2013,eu,Europe,eumda,Moldova,mda,705 ,2.69E-08
+2013,eu,Europe,eumkd,North Macedonia,mkd,"5,532,359 ",0.000210768
+2013,eu,Europe,eumlt,Malta,mlt,"22,832 ",8.70E-07
+2013,eu,Europe,eumne,Montenegro,mne,"38,787 ",1.47768E-06
+2013,eu,Europe,eunld,Netherlands,nld,"179,845,311 ",0.006851632
+2013,eu,Europe,eunor,Norway,nor,"748,932 ",2.85323E-05
+2013,eu,Europe,eupol,Poland,pol,"19,526,553 ",0.00074391
+2013,eu,Europe,euprt,Portugal,prt,"23,283,212 ",0.000887029
+2013,eu,Europe,eurou,Romania,rou,"15,484,871 ",0.000589933
+2013,eu,Europe,eurus,Russia,rus,"92,793,529 ",0.003535189
+2013,eu,Europe,eusrb,Serbia,srb,"965,821 ",3.67952E-05
+2013,eu,Europe,eusvk,Slovakia,svk,"4,197,304 ",0.000159906
+2013,eu,Europe,eusvn,Slovenia,svn,"2,042,252 ",7.78044E-05
+2013,eu,Europe,euswe,Sweden,swe,"2,336,352 ",8.90089E-05
+2013,eu,Europe,euukr,Ukraine,ukr,"12,266,915 ",0.000467337
+2013,na,North America,naabw,Aruba,abw,"1,362 ",5.19E-08
+2013,na,North America,naatg,Antigua and Barbuda,atg,"5,736,659 ",0.000218552
+2013,na,North America,nabhs,Bahamas,bhs,"1,170,146 ",4.45795E-05
+2013,na,North America,nablz,Belize,blz,969 ,3.69E-08
+2013,na,North America,nabmu,Bermuda,bmu,"26,255 ",1.00025E-06
+2013,na,North America,nabrb,Barbados,brb,"33,693 ",1.28361E-06
+2013,na,North America,nacan,Canada,can,"6,270,242 ",0.00023888
+2013,na,North America,nacri,Costa Rica,cri,"1,677,014 ",6.38898E-05
+2013,na,North America,nacuw,Curaçao,cuw,"76,845 ",2.92759E-06
+2013,na,North America,nadma,Dominica,dma,595 ,2.27E-08
+2013,na,North America,nadom,Dominican Republic,dom,"5,349,150 ",0.000203789
+2013,na,North America,nagtm,Guatemala,gtm,"599,814 ",2.28513E-05
+2013,na,North America,nahnd,Honduras,hnd,"1,794,056 ",6.83488E-05
+2013,na,North America,nahti,Haiti,hti,"1,040 ",3.96E-08
+2013,na,North America,najam,Jamaica,jam,"384,531 ",1.46496E-05
+2013,na,North America,nakna,Saint Kitts and Nevis,kna,121 ,4.61E-09
+2013,na,North America,namaf,Saint Martin,maf,9 ,3.43E-10
+2013,na,North America,namex,Mexico,mex,"1,850,823 ",7.05115E-05
+2013,na,North America,nanic,Nicaragua,nic,"8,156,655 ",0.000310747
+2013,na,North America,napan,Panama,pan,"346,122 ",1.31863E-05
+2013,na,North America,naslv,El Salvador,slv,"11,198,254 ",0.000426624
+2013,na,North America,natca,Turks and Caicos Islands,tca,"2,980,300 ",0.000113542
+2013,na,North America,natto,Trinidad and Tobago,tto,"296,070 ",1.12795E-05
+2013,na,North America,nausa,United States,usa,"2,303,870,356 ",0.087771389
+2013,na,North America,navct,Saint Vincent and the Grenadines,vct,"4,020,902 ",0.000153186
+2013,na,North America,navgb,British Virgin Islands,vgb,"429,912 ",1.63785E-05
+2013,oc,Oceania,ocasm,American Samoa,asm,"3,252 ",1.24E-07
+2013,oc,Oceania,ocaus,Australia,aus,"253,732,364 ",0.009666534
+2013,oc,Oceania,ocfji,Fiji,fji,"729,322 ",2.77852E-05
+2013,oc,Oceania,ocfsm,Micronesia,fsm,"24,753 ",9.43E-07
+2013,oc,Oceania,ocgum,Guam,gum,"363,107 ",1.38334E-05
+2013,oc,Oceania,ockir,Kiribati,kir,51 ,1.94E-09
+2013,oc,Oceania,ocmhl,Marshall Islands,mhl,"45,077 ",1.71731E-06
+2013,oc,Oceania,ocmnp,Northern Mariana Islands,mnp,92 ,3.50E-09
+2013,oc,Oceania,ocncl,New Caledonia,ncl,"7,644 ",2.91E-07
+2013,oc,Oceania,ocnzl,New Zealand,nzl,"521,533 ",1.9869E-05
+2013,oc,Oceania,ocpcn,Pitcairn Islands,pcn,"95,469 ",3.63712E-06
+2013,oc,Oceania,ocpng,Papua New Guinea,png,"2,995 ",1.14E-07
+2013,oc,Oceania,ocslb,Solomon Islands,slb,"101,619 ",3.87142E-06
+2013,oc,Oceania,octon,Tonga,ton,37 ,1.41E-09
+2013,oc,Oceania,ocvut,Vanuatu,vut,"16,935,356 ",0.000645192
+2013,oc,Oceania,ocwsm,Samoa,wsm,"58,888 ",2.24348E-06
+2013,sa,South America,saarg,Argentina,arg,"302,153,035 ",0.011511234
+2013,sa,South America,sabol,Bolivia,bol,"1,305,527 ",4.97371E-05
+2013,sa,South America,sabra,Brazil,bra,"440,324,515 ",0.016775204
+2013,sa,South America,sachl,Chile,chl,"22,666 ",8.64E-07
+2013,sa,South America,sacol,Colombia,col,"49,414 ",1.88254E-06
+2013,sa,South America,saecu,Ecuador,ecu,"33,347,457 ",0.00127045
+2013,sa,South America,saguy,Guyana,guy,"377,451,768 ",0.014379918
+2013,sa,South America,saper,Peru,per,"22,215,216 ",0.000846341
+2013,sa,South America,sapry,Paraguay,pry,"166,273,952 ",0.006334599
+2013,sa,South America,sasur,Suriname,sur,"57,332,762 ",0.002184227
+2013,sa,South America,saury,Uruguay,ury,"518,145,721 ",0.019739986
+2013,sa,South America,saven,Venezuela,ven,"1,112 ",4.24E-08
+2012,af,Africa,afago,Angola,ago,298 ,1.18E-08
+2012,af,Africa,afben,Benin,ben,"4,083,585 ",0.000161753
+2012,af,Africa,afbfa,Burkina Faso,bfa,"31,231 ",1.23708E-06
+2012,af,Africa,afbwa,Botswana,bwa,"683,478 ",2.70729E-05
+2012,af,Africa,afciv,Cote d'Ivoire,civ,"17,379,136 ",0.000688397
+2012,af,Africa,afcmr,Cameroon,cmr,"417,128 ",1.65227E-05
+2012,af,Africa,afcod,Democratic Republic of the Congo,cod,"7,663 ",3.04E-07
+2012,af,Africa,afcog,Republic of the Congo,cog,"1,927,838 ",7.63627E-05
+2012,af,Africa,afcpv,Cape Verde,cpv,"2,181,536 ",8.64118E-05
+2012,af,Africa,afdza,Algeria,dza,"28,263 ",1.11951E-06
+2012,af,Africa,afegy,Egypt,egy,"81,095,246 ",0.003212225
+2012,af,Africa,afeth,Ethiopia,eth,"16,453 ",6.52E-07
+2012,af,Africa,afgab,Gabon,gab,"1,961 ",7.77E-08
+2012,af,Africa,afgha,Ghana,gha,"1,057,664 ",4.18946E-05
+2012,af,Africa,afgin,Guinea,gin,728 ,2.88E-08
+2012,af,Africa,afgmb,Gambia,gmb,"275,211 ",1.09013E-05
+2012,af,Africa,afken,Kenya,ken,"4,092,742 ",0.000162116
+2012,af,Africa,aflbr,Liberia,lbr,326 ,1.29E-08
+2012,af,Africa,aflby,Libya,lby,"226,541 ",8.97341E-06
+2012,af,Africa,aflso,Lesotho,lso,"36,450 ",1.4438E-06
+2012,af,Africa,afmar,Morocco,mar,"490,443 ",1.94267E-05
+2012,af,Africa,afmdg,Madagascar,mdg,"812,911 ",3.21998E-05
+2012,af,Africa,afmli,Mali,mli,"104,028 ",4.1206E-06
+2012,af,Africa,afmoz,Mozambique,moz,"12,267,732 ",0.000485931
+2012,af,Africa,afmrt,Mauritania,mrt,"27,515 ",1.08988E-06
+2012,af,Africa,afmus,Mauritius,mus,"5,160,866 ",0.000204425
+2012,af,Africa,afmwi,Malawi,mwi,"792,365 ",3.1386E-05
+2012,af,Africa,afmyt,Mayotte,myt,"8,620 ",3.41E-07
+2012,af,Africa,afnam,Namibia,nam,"183,212 ",7.25712E-06
+2012,af,Africa,afner,Niger,ner,"30,776,193 ",0.001219061
+2012,af,Africa,afnga,Nigeria,nga,"5,060 ",2.00E-07
+2012,af,Africa,afrwa,Rwanda,rwa,"242,942 ",9.62306E-06
+2012,af,Africa,afsdn,Sudan,sdn,"109,160 ",4.32388E-06
+2012,af,Africa,afsen,Senegal,sen,"42,376,948 ",0.001678573
+2012,af,Africa,afsle,Sierra Leone,sle,14 ,5.55E-10
+2012,af,Africa,afswz,Eswatini,swz,"1,398,171 ",5.53823E-05
+2012,af,Africa,aftgo,Togo,tgo,"6,083,037 ",0.000240952
+2012,af,Africa,aftun,Tunisia,tun,"36,667 ",1.4524E-06
+2012,af,Africa,aftza,Tanzania,tza,"8,404,238 ",0.000332896
+2012,af,Africa,afuga,Uganda,uga,"39,885,149 ",0.001579872
+2012,af,Africa,afzaf,South Africa,zaf,"76,022,813 ",0.003011304
+2012,af,Africa,afzmb,Zambia,zmb,"598,659 ",2.37132E-05
+2012,af,Africa,afzwe,Zimbabwe,zwe,"327,881 ",1.29875E-05
+2012,as,Asia,asafg,Afghanistan,afg,"40,477 ",1.60332E-06
+2012,as,Asia,asare,United Arab Emirates,are,"293,087,154 ",0.011609336
+2012,as,Asia,asaze,Azerbaijan,aze,"24,495 ",9.70E-07
+2012,as,Asia,asbgd,Bangladesh,bgd,"3,373,732 ",0.000133635
+2012,as,Asia,asbhr,Bahrain,bhr,"666,321 ",2.63933E-05
+2012,as,Asia,asbrn,Brunei,brn,"2,193 ",8.69E-08
+2012,as,Asia,asbtn,Bhutan,btn,"118,680 ",4.70098E-06
+2012,as,Asia,aschn,China,chn,"533,595,708 ",0.021136007
+2012,as,Asia,ascyp,Cyprus,cyp,"3,552,904 ",0.000140732
+2012,as,Asia,asgeo,Georgia,geo,"233,163 ",9.23571E-06
+2012,as,Asia,ashkg,Hong Kong,hkg,"27,142,109 ",0.001075113
+2012,as,Asia,asidn,Indonesia,idn,"3,826,342 ",0.000151563
+2012,as,Asia,asind,India,ind,"6,433,804,997 ",0.254846399
+2012,as,Asia,asirn,Iran,irn,"247,563 ",9.8061E-06
+2012,as,Asia,asirq,Iraq,irq,377 ,1.49E-08
+2012,as,Asia,asisr,Israel,isr,"31,115,839 ",0.001232515
+2012,as,Asia,asjor,Jordan,jor,"3,248,483 ",0.000128674
+2012,as,Asia,asjpn,Japan,jpn,"63,312,401 ",0.002507837
+2012,as,Asia,askaz,Kazakhstan,kaz,"16,270,696 ",0.000644491
+2012,as,Asia,askgz,Kyrgyzstan,kgz,"306,770 ",1.21513E-05
+2012,as,Asia,askhm,Cambodia,khm,"165,399,545 ",0.006551563
+2012,as,Asia,askor,South Korea,kor,"4,888,773 ",0.000193647
+2012,as,Asia,askwt,Kuwait,kwt,"307,003 ",1.21606E-05
+2012,as,Asia,aslao,Laos,lao,"15,838,783 ",0.000627383
+2012,as,Asia,aslbn,Lebanon,lbn,"1,193,391 ",4.72708E-05
+2012,as,Asia,aslka,Sri Lanka,lka,"13,320,131 ",0.000527617
+2012,as,Asia,asmac,Macau,mac,"196,922 ",7.80018E-06
+2012,as,Asia,asmdv,Maldives,mdv,"11,315 ",4.48E-07
+2012,as,Asia,asmmr,Burma,mmr,"465,153,421 ",0.018424972
+2012,as,Asia,asmys,Malaysia,mys,"1,688,257 ",6.68727E-05
+2012,as,Asia,asnpl,Nepal,npl,"167,874 ",6.64958E-06
+2012,as,Asia,asomn,Oman,omn,"3,842,693 ",0.000152211
+2012,as,Asia,aspak,Pakistan,pak,"2,038,200,976 ",0.080734212
+2012,as,Asia,asphl,Philippines,phl,"2,658,402 ",0.000105301
+2012,as,Asia,asprk,North Korea,prk,"44,832 ",1.77582E-06
+2012,as,Asia,aspse,Palestine,pse,"860,448 ",3.40828E-05
+2012,as,Asia,asqat,Qatar,qat,"52,780 ",2.09064E-06
+2012,as,Asia,assau,Saudi Arabia,sau,"11,004,702 ",0.000435902
+2012,as,Asia,assgp,Singapore,sgp,"94,124,939 ",0.003728338
+2012,as,Asia,assyr,Syria,syr,"69,641 ",2.75852E-06
+2012,as,Asia,astha,Thailand,tha,"4,685,788,998 ",0.185606566
+2012,as,Asia,astjk,Tajikistan,tjk,"274,772 ",1.08839E-05
+2012,as,Asia,astkm,Turkmenistan,tkm,"18,816 ",7.45E-07
+2012,as,Asia,astls,Timor-Leste,tls,"16,497 ",6.53E-07
+2012,as,Asia,astur,Turkey,tur,"73,322,936 ",0.00290436
+2012,as,Asia,asuzb,Uzbekistan,uzb,"10,066 ",3.99E-07
+2012,as,Asia,asvnm,Vietnam,vnm,"3,519,680,711 ",0.139416403
+2012,as,Asia,asxxb,Chinese Taipei,,"9,493,604 ",0.000376047
+2012,as,Asia,asyem,Yemen,yem,"2,101,411 ",8.3238E-05
+2012,eu,Europe,eualb,Albania,alb,"16,884 ",6.69E-07
+2012,eu,Europe,euand,Andorra,and,"666,421 ",2.63973E-05
+2012,eu,Europe,euaut,Austria,aut,"5,311,871 ",0.000210406
+2012,eu,Europe,eubel,Belgium,bel,"158,515,394 ",0.006278878
+2012,eu,Europe,eubgr,Bulgaria,bgr,"24,291,077 ",0.000962182
+2012,eu,Europe,eubih,Bosnia and Herzegovina,bih,"76,053 ",3.0125E-06
+2012,eu,Europe,eublr,Belarus,blr,"4,656,761 ",0.000184457
+2012,eu,Europe,euche,Switzerland,che,"24,977,390 ",0.000989368
+2012,eu,Europe,eucze,Czechia,cze,"17,446,353 ",0.000691059
+2012,eu,Europe,eudeu,Germany,deu,"87,887,876 ",0.003481285
+2012,eu,Europe,eudnk,Denmark,dnk,"9,017,379 ",0.000357183
+2012,eu,Europe,euesp,Spain,esp,"231,584,334 ",0.009173177
+2012,eu,Europe,euest,Estonia,est,"502,434 ",1.99017E-05
+2012,eu,Europe,eufin,Finland,fin,"438,342 ",1.7363E-05
+2012,eu,Europe,eufra,France,fra,"59,529,962 ",0.002358013
+2012,eu,Europe,eugbr,United Kingdom,gbr,"42,027,561 ",0.001664734
+2012,eu,Europe,eugrc,Greece,grc,"73,137,088 ",0.002896999
+2012,eu,Europe,euhrv,Croatia,hrv,"181,384 ",7.18472E-06
+2012,eu,Europe,euhun,Hungary,hun,"3,424,116 ",0.000135631
+2012,eu,Europe,euirl,Ireland,irl,"2,327,551 ",9.21955E-05
+2012,eu,Europe,euisl,Iceland,isl,"5,216 ",2.07E-07
+2012,eu,Europe,euita,Italy,ita,"629,499,930 ",0.024934823
+2012,eu,Europe,eultu,Lithuania,ltu,"3,379,746 ",0.000133874
+2012,eu,Europe,eulux,Luxembourg,lux,"139,826 ",5.53858E-06
+2012,eu,Europe,eulva,Latvia,lva,"1,338,202 ",5.30069E-05
+2012,eu,Europe,eumkd,North Macedonia,mkd,"7,260,831 ",0.000287605
+2012,eu,Europe,eumlt,Malta,mlt,"128,926 ",5.10683E-06
+2012,eu,Europe,eumne,Montenegro,mne,"3,009 ",1.19E-07
+2012,eu,Europe,eunld,Netherlands,nld,"164,109,677 ",0.006500471
+2012,eu,Europe,eunor,Norway,nor,"962,635 ",3.81305E-05
+2012,eu,Europe,eupol,Poland,pol,"16,085,703 ",0.000637163
+2012,eu,Europe,euprt,Portugal,prt,"15,888,716 ",0.00062936
+2012,eu,Europe,eurou,Romania,rou,"16,893,330 ",0.000669154
+2012,eu,Europe,eurus,Russia,rus,"173,328,234 ",0.006865622
+2012,eu,Europe,eusrb,Serbia,srb,"1,259,716 ",4.9898E-05
+2012,eu,Europe,eusvk,Slovakia,svk,"6,113,547 ",0.000242161
+2012,eu,Europe,eusvn,Slovenia,svn,"2,104,078 ",8.33436E-05
+2012,eu,Europe,euswe,Sweden,swe,"3,381,604 ",0.000133947
+2012,eu,Europe,euukr,Ukraine,ukr,"12,779,484 ",0.000506202
+2012,na,North America,naabw,Aruba,abw,"5,817 ",2.30E-07
+2012,na,North America,naatg,Antigua and Barbuda,atg,"2,646,546 ",0.000104831
+2012,na,North America,nabhs,Bahamas,bhs,"325,285 ",1.28847E-05
+2012,na,North America,nablz,Belize,blz,"4,685,012 ",0.000185576
+2012,na,North America,nabmu,Bermuda,bmu,"88,527 ",3.5066E-06
+2012,na,North America,nabrb,Barbados,brb,"54,611 ",2.16317E-06
+2012,na,North America,nacan,Canada,can,"6,062,350 ",0.000240133
+2012,na,North America,nacri,Costa Rica,cri,"1,348,061 ",5.33974E-05
+2012,na,North America,nacuw,Curaçao,cuw,"2,312 ",9.16E-08
+2012,na,North America,nadma,Dominica,dma,52 ,2.06E-09
+2012,na,North America,nadom,Dominican Republic,dom,"26,300,476 ",0.001041776
+2012,na,North America,nagrd,Grenada,grd,"4,508 ",1.79E-07
+2012,na,North America,nagtm,Guatemala,gtm,"1,486,790 ",5.88925E-05
+2012,na,North America,nahnd,Honduras,hnd,"2,842,066 ",0.000112576
+2012,na,North America,nahti,Haiti,hti,66 ,2.61E-09
+2012,na,North America,najam,Jamaica,jam,58 ,2.30E-09
+2012,na,North America,nakna,Saint Kitts and Nevis,kna,128 ,5.07E-09
+2012,na,North America,namex,Mexico,mex,"1,395,972 ",5.52952E-05
+2012,na,North America,nanic,Nicaragua,nic,"12,729,216 ",0.000504211
+2012,na,North America,napan,Panama,pan,"218,100 ",8.63906E-06
+2012,na,North America,naslv,El Salvador,slv,"9,210,935 ",0.00036485
+2012,na,North America,natca,Turks and Caicos Islands,tca,"3,870,644 ",0.000153318
+2012,na,North America,natto,Trinidad and Tobago,tto,"385,436 ",1.52673E-05
+2012,na,North America,nausa,United States,usa,"2,092,422,845 ",0.082881969
+2012,na,North America,navct,Saint Vincent and the Grenadines,vct,"4,724,895 ",0.000187156
+2012,na,North America,navgb,British Virgin Islands,vgb,"629,578 ",2.49379E-05
+2012,oc,Oceania,ocasm,American Samoa,asm,"109,100 ",4.32151E-06
+2012,oc,Oceania,ocaus,Australia,aus,"344,449,302 ",0.013643818
+2012,oc,Oceania,ocfji,Fiji,fji,"938,128 ",3.71597E-05
+2012,oc,Oceania,ocgum,Guam,gum,"441,957 ",1.75061E-05
+2012,oc,Oceania,ocmnp,Northern Mariana Islands,mnp,137 ,5.43E-09
+2012,oc,Oceania,ocncl,New Caledonia,ncl,"205,651 ",8.14594E-06
+2012,oc,Oceania,ocnzl,New Zealand,nzl,"2,307,368 ",9.13961E-05
+2012,oc,Oceania,ocpng,Papua New Guinea,png,"2,075 ",8.22E-08
+2012,oc,Oceania,ocslb,Solomon Islands,slb,"50,628 ",2.0054E-06
+2012,oc,Oceania,ocvut,Vanuatu,vut,"143,776 ",5.69504E-06
+2012,oc,Oceania,ocwsm,Samoa,wsm,"1,318 ",5.22E-08
+2012,sa,South America,saarg,Argentina,arg,"307,184,439 ",0.012167737
+2012,sa,South America,sabol,Bolivia,bol,"1,874,922 ",7.42666E-05
+2012,sa,South America,sabra,Brazil,bra,"640,357,534 ",0.025364899
+2012,sa,South America,sachl,Chile,chl,"67,205 ",2.66203E-06
+2012,sa,South America,sacol,Colombia,col,"89,045 ",3.52712E-06
+2012,sa,South America,saecu,Ecuador,ecu,"10,922,564 ",0.000432649
+2012,sa,South America,saguy,Guyana,guy,"318,651,065 ",0.012621936
+2012,sa,South America,saper,Peru,per,"22,188,135 ",0.000878884
+2012,sa,South America,sapry,Paraguay,pry,"118,427,813 ",0.004690988
+2012,sa,South America,sasur,Suriname,sur,"73,975,238 ",0.002930198
+2012,sa,South America,saury,Uruguay,ury,"567,945,280 ",0.022496611
+2012,sa,South America,saven,Venezuela,ven,"2,108 ",8.35E-08
+2011,af,Africa,afago,Angola,ago,329 ,1.34E-08
+2011,af,Africa,afbdi,Burundi,bdi,"14,877 ",6.07E-07
+2011,af,Africa,afben,Benin,ben,"9,396,672 ",0.000383347
+2011,af,Africa,afbfa,Burkina Faso,bfa,"214,463 ",8.74925E-06
+2011,af,Africa,afbwa,Botswana,bwa,"950,044 ",3.87581E-05
+2011,af,Africa,afcaf,Central African Republic,caf,204 ,8.32E-09
+2011,af,Africa,afciv,Cote d'Ivoire,civ,"15,078,879 ",0.000615159
+2011,af,Africa,afcmr,Cameroon,cmr,"724,723 ",2.95659E-05
+2011,af,Africa,afcod,Democratic Republic of the Congo,cod,"71,860 ",2.93161E-06
+2011,af,Africa,afcog,Republic of the Congo,cog,"720,053 ",2.93753E-05
+2011,af,Africa,afcpv,Cape Verde,cpv,"6,141,699 ",0.000250557
+2011,af,Africa,afdza,Algeria,dza,"17,306 ",7.06E-07
+2011,af,Africa,afegy,Egypt,egy,"32,388,160 ",0.00132131
+2011,af,Africa,afeth,Ethiopia,eth,185 ,7.55E-09
+2011,af,Africa,afgab,Gabon,gab,"23,534 ",9.60E-07
+2011,af,Africa,afgha,Ghana,gha,"665,469 ",2.71485E-05
+2011,af,Africa,afgin,Guinea,gin,438 ,1.79E-08
+2011,af,Africa,afgmb,Gambia,gmb,"266,347 ",1.08659E-05
+2011,af,Africa,afgnb,Guinea-Bissau,gnb,17 ,6.94E-10
+2011,af,Africa,afken,Kenya,ken,"2,692,868 ",0.000109858
+2011,af,Africa,aflby,Libya,lby,"457,415 ",1.86607E-05
+2011,af,Africa,aflso,Lesotho,lso,"29,868 ",1.2185E-06
+2011,af,Africa,afmar,Morocco,mar,"1,859,118 ",7.58447E-05
+2011,af,Africa,afmdg,Madagascar,mdg,"44,116 ",1.79976E-06
+2011,af,Africa,afmli,Mali,mli,"6,363,785 ",0.000259618
+2011,af,Africa,afmoz,Mozambique,moz,"19,223,038 ",0.000784225
+2011,af,Africa,afmrt,Mauritania,mrt,"57,148 ",2.33142E-06
+2011,af,Africa,afmus,Mauritius,mus,"909,167 ",3.70905E-05
+2011,af,Africa,afmwi,Malawi,mwi,"779,974 ",3.18199E-05
+2011,af,Africa,afnam,Namibia,nam,"251,771 ",1.02713E-05
+2011,af,Africa,afner,Niger,ner,"4,774,208 ",0.000194769
+2011,af,Africa,afnga,Nigeria,nga,"2,410,980 ",9.83586E-05
+2011,af,Africa,afrwa,Rwanda,rwa,"120,652 ",4.92213E-06
+2011,af,Africa,afsdn,Sudan,sdn,"14,322 ",5.84E-07
+2011,af,Africa,afsen,Senegal,sen,"52,559,446 ",0.00214422
+2011,af,Africa,afswz,Eswatini,swz,"112,647 ",4.59556E-06
+2011,af,Africa,afsyc,Seychelles,syc,"25,800 ",1.05254E-06
+2011,af,Africa,aftgo,Togo,tgo,"1,241,976 ",5.06678E-05
+2011,af,Africa,aftun,Tunisia,tun,"10,739,421 ",0.000438126
+2011,af,Africa,aftza,Tanzania,tza,"20,018,129 ",0.000816661
+2011,af,Africa,afuga,Uganda,uga,"18,540,514 ",0.000756381
+2011,af,Africa,afzaf,South Africa,zaf,"71,056,316 ",0.00289882
+2011,af,Africa,afzmb,Zambia,zmb,"50,719 ",2.06914E-06
+2011,af,Africa,afzwe,Zimbabwe,zwe,"124,054 ",5.06092E-06
+2011,as,Asia,asare,United Arab Emirates,are,"345,423,042 ",0.01409191
+2011,as,Asia,asarm,Armenia,arm,529 ,2.16E-08
+2011,as,Asia,asaze,Azerbaijan,aze,"26,877 ",1.09648E-06
+2011,as,Asia,asbgd,Bangladesh,bgd,"935,543 ",3.81665E-05
+2011,as,Asia,asbhr,Bahrain,bhr,"354,348 ",1.4456E-05
+2011,as,Asia,asbrn,Brunei,brn,"2,061,776 ",8.41124E-05
+2011,as,Asia,asbtn,Bhutan,btn,"218,867 ",8.92892E-06
+2011,as,Asia,ascck,Cocos (Keeling) Islands,cck,"223,890 ",9.13384E-06
+2011,as,Asia,aschn,China,chn,"507,117,643 ",0.020688418
+2011,as,Asia,ascyp,Cyprus,cyp,"84,603 ",3.45147E-06
+2011,as,Asia,asgeo,Georgia,geo,"213,652 ",8.71617E-06
+2011,as,Asia,ashkg,Hong Kong,hkg,"13,107,433 ",0.000534732
+2011,as,Asia,asidn,Indonesia,idn,"1,311,153 ",5.34899E-05
+2011,as,Asia,asind,India,ind,"4,088,099,523 ",0.166778481
+2011,as,Asia,asiot,British Indian Ocean Territory,iot,142 ,5.79E-09
+2011,as,Asia,asirn,Iran,irn,"174,732 ",7.12838E-06
+2011,as,Asia,asirq,Iraq,irq,34 ,1.39E-09
+2011,as,Asia,asisr,Israel,isr,"32,725,328 ",0.001335065
+2011,as,Asia,asjor,Jordan,jor,"863,327 ",3.52204E-05
+2011,as,Asia,asjpn,Japan,jpn,"47,235,088 ",0.001927007
+2011,as,Asia,askaz,Kazakhstan,kaz,"33,985,475 ",0.001386475
+2011,as,Asia,askgz,Kyrgyzstan,kgz,"378,812 ",1.5454E-05
+2011,as,Asia,askhm,Cambodia,khm,"122,691,269 ",0.005005324
+2011,as,Asia,askor,South Korea,kor,"7,590,903 ",0.000309679
+2011,as,Asia,askwt,Kuwait,kwt,"5,619,334 ",0.000229247
+2011,as,Asia,aslao,Laos,lao,"4,379,291 ",0.000178658
+2011,as,Asia,aslbn,Lebanon,lbn,"1,197,164 ",4.88396E-05
+2011,as,Asia,aslka,Sri Lanka,lka,"5,877,202 ",0.000239767
+2011,as,Asia,asmac,Macau,mac,"129,665 ",5.28983E-06
+2011,as,Asia,asmmr,Burma,mmr,"291,463,161 ",0.011890558
+2011,as,Asia,asmys,Malaysia,mys,"2,229,242 ",9.09444E-05
+2011,as,Asia,asnpl,Nepal,npl,"87,694 ",3.57757E-06
+2011,as,Asia,asomn,Oman,omn,"5,574,717 ",0.000227427
+2011,as,Asia,aspak,Pakistan,pak,"2,195,552,550 ",0.089569962
+2011,as,Asia,asphl,Philippines,phl,"2,952,217 ",0.000120439
+2011,as,Asia,asprk,North Korea,prk,"12,887 ",5.26E-07
+2011,as,Asia,aspse,Palestine,pse,"1,095,769 ",4.47031E-05
+2011,as,Asia,asqat,Qatar,qat,"2,709 ",1.11E-07
+2011,as,Asia,assau,Saudi Arabia,sau,"11,622,885 ",0.000474168
+2011,as,Asia,assgp,Singapore,sgp,"77,307,233 ",0.003153833
+2011,as,Asia,assyr,Syria,syr,"2,473 ",1.01E-07
+2011,as,Asia,astha,Thailand,tha,"6,585,708,187 ",0.268671152
+2011,as,Asia,astjk,Tajikistan,tjk,"2,157,245 ",8.80072E-05
+2011,as,Asia,astkm,Turkmenistan,tkm,"33,260 ",1.35688E-06
+2011,as,Asia,astls,Timor-Leste,tls,"19,893 ",8.12E-07
+2011,as,Asia,astur,Turkey,tur,"78,559,397 ",0.003204916
+2011,as,Asia,asuzb,Uzbekistan,uzb,"53,671 ",2.18957E-06
+2011,as,Asia,asvnm,Vietnam,vnm,"3,413,834,667 ",0.13927111
+2011,as,Asia,asxxb,Chinese Taipei,,"5,317,300 ",0.000216925
+2011,as,Asia,asyem,Yemen,yem,"1,018,582 ",4.15542E-05
+2011,eu,Europe,eualb,Albania,alb,"26,405 ",1.07722E-06
+2011,eu,Europe,euand,Andorra,and,93 ,3.79E-09
+2011,eu,Europe,euaut,Austria,aut,"8,649,536 ",0.000352867
+2011,eu,Europe,eubel,Belgium,bel,"173,616,752 ",0.007082885
+2011,eu,Europe,eubgr,Bulgaria,bgr,"23,225,191 ",0.000947497
+2011,eu,Europe,eubih,Bosnia and Herzegovina,bih,"70,591 ",2.87984E-06
+2011,eu,Europe,eublr,Belarus,blr,"373,572 ",1.52403E-05
+2011,eu,Europe,euche,Switzerland,che,"10,288,442 ",0.000419728
+2011,eu,Europe,eucze,Czechia,cze,"14,987,798 ",0.000611444
+2011,eu,Europe,eudeu,Germany,deu,"108,670,231 ",0.004433321
+2011,eu,Europe,eudnk,Denmark,dnk,"8,848,391 ",0.00036098
+2011,eu,Europe,euesp,Spain,esp,"203,962,260 ",0.008320863
+2011,eu,Europe,euest,Estonia,est,"497,550 ",2.02981E-05
+2011,eu,Europe,eufin,Finland,fin,"255,355 ",1.04175E-05
+2011,eu,Europe,eufra,France,fra,"85,491,856 ",0.003487734
+2011,eu,Europe,eugbr,United Kingdom,gbr,"46,136,315 ",0.001882181
+2011,eu,Europe,eugrc,Greece,grc,"83,161,628 ",0.003392669
+2011,eu,Europe,euhrv,Croatia,hrv,"513,553 ",2.0951E-05
+2011,eu,Europe,euhun,Hungary,hun,"5,827,865 ",0.000237754
+2011,eu,Europe,euirl,Ireland,irl,"2,367,716 ",9.65936E-05
+2011,eu,Europe,euisl,Iceland,isl,"15,421 ",6.29E-07
+2011,eu,Europe,euita,Italy,ita,"700,729,982 ",0.028587044
+2011,eu,Europe,eultu,Lithuania,ltu,"4,391,812 ",0.000179169
+2011,eu,Europe,eulux,Luxembourg,lux,"635,748 ",2.5936E-05
+2011,eu,Europe,eulva,Latvia,lva,"1,240,904 ",5.0624E-05
+2011,eu,Europe,eumda,Moldova,mda,"24,646 ",1.00546E-06
+2011,eu,Europe,eumkd,North Macedonia,mkd,"8,323,043 ",0.000339548
+2011,eu,Europe,eumlt,Malta,mlt,"81,013 ",3.30501E-06
+2011,eu,Europe,eumne,Montenegro,mne,"3,947 ",1.61E-07
+2011,eu,Europe,eunld,Netherlands,nld,"167,214,781 ",0.006821709
+2011,eu,Europe,eunor,Norway,nor,"988,366 ",4.03215E-05
+2011,eu,Europe,eupol,Poland,pol,"13,997,637 ",0.000571049
+2011,eu,Europe,euprt,Portugal,prt,"17,562,456 ",0.00071648
+2011,eu,Europe,eurou,Romania,rou,"30,680,226 ",0.001251633
+2011,eu,Europe,eurus,Russia,rus,"103,956,479 ",0.004241018
+2011,eu,Europe,eusrb,Serbia,srb,"637,482 ",2.60068E-05
+2011,eu,Europe,eusvk,Slovakia,svk,"21,763,748 ",0.000887876
+2011,eu,Europe,eusvn,Slovenia,svn,"2,097,129 ",8.55547E-05
+2011,eu,Europe,euswe,Sweden,swe,"1,612,245 ",6.57733E-05
+2011,eu,Europe,euukr,Ukraine,ukr,"2,054,586 ",8.38191E-05
+2011,na,North America,naatg,Antigua and Barbuda,atg,634 ,2.59E-08
+2011,na,North America,nabhs,Bahamas,bhs,"3,262 ",1.33E-07
+2011,na,North America,nablz,Belize,blz,"240,335 ",9.80473E-06
+2011,na,North America,nabrb,Barbados,brb,"16,568 ",6.76E-07
+2011,na,North America,nacan,Canada,can,"5,853,069 ",0.000238782
+2011,na,North America,nacri,Costa Rica,cri,"1,299,476 ",5.30135E-05
+2011,na,North America,nacuw,Curaçao,cuw,"906,446 ",3.69795E-05
+2011,na,North America,nadma,Dominica,dma,"22,022 ",8.98E-07
+2011,na,North America,nadom,Dominican Republic,dom,"7,038,195 ",0.000287131
+2011,na,North America,nagrd,Grenada,grd,244 ,9.95E-09
+2011,na,North America,nagtm,Guatemala,gtm,"1,175,899 ",4.79721E-05
+2011,na,North America,nahnd,Honduras,hnd,"1,451,809 ",5.92281E-05
+2011,na,North America,nahti,Haiti,hti,"7,034 ",2.87E-07
+2011,na,North America,najam,Jamaica,jam,"4,899 ",2.00E-07
+2011,na,North America,namaf,Saint Martin,maf,"1,994 ",8.13E-08
+2011,na,North America,namex,Mexico,mex,"1,647,414 ",6.72081E-05
+2011,na,North America,namsr,Montserrat,msr,"45,320 ",1.84888E-06
+2011,na,North America,nanic,Nicaragua,nic,"2,935,542 ",0.000119759
+2011,na,North America,napan,Panama,pan,"18,243 ",7.44E-07
+2011,na,North America,naslv,El Salvador,slv,"6,073,224 ",0.000247764
+2011,na,North America,natca,Turks and Caicos Islands,tca,"2,899,787 ",0.0001183
+2011,na,North America,natto,Trinidad and Tobago,tto,"483,377 ",1.97199E-05
+2011,na,North America,nausa,United States,usa,"2,267,333,497 ",0.092498344
+2011,na,North America,navct,Saint Vincent and the Grenadines,vct,"4,885,929 ",0.000199327
+2011,na,North America,navgb,British Virgin Islands,vgb,"321,670 ",1.31229E-05
+2011,oc,Oceania,ocasm,American Samoa,asm,172 ,7.02E-09
+2011,oc,Oceania,ocaus,Australia,aus,"210,582,667 ",0.00859095
+2011,oc,Oceania,ocfji,Fiji,fji,"1,149,163 ",4.68814E-05
+2011,oc,Oceania,ocgum,Guam,gum,"125,599 ",5.12395E-06
+2011,oc,Oceania,ockir,Kiribati,kir,"1,102 ",4.50E-08
+2011,oc,Oceania,ocmnp,Northern Mariana Islands,mnp,"17,111 ",6.98E-07
+2011,oc,Oceania,ocncl,New Caledonia,ncl,"29,495 ",1.20328E-06
+2011,oc,Oceania,ocnzl,New Zealand,nzl,"908,530 ",3.70645E-05
+2011,oc,Oceania,ocpng,Papua New Guinea,png,"501,663 ",2.04659E-05
+2011,oc,Oceania,ocslb,Solomon Islands,slb,"131,418 ",5.36134E-06
+2011,oc,Oceania,octon,Tonga,ton,35 ,1.43E-09
+2011,oc,Oceania,ocvut,Vanuatu,vut,"45,576 ",1.85932E-06
+2011,oc,Oceania,ocwsm,Samoa,wsm,"88,190 ",3.59781E-06
+2011,sa,South America,saarg,Argentina,arg,"363,553,729 ",0.014831571
+2011,sa,South America,sabol,Bolivia,bol,"829,038 ",3.38215E-05
+2011,sa,South America,sabra,Brazil,bra,"686,723,326 ",0.028015627
+2011,sa,South America,sachl,Chile,chl,"260,805 ",1.06398E-05
+2011,sa,South America,sacol,Colombia,col,"328,049 ",1.33831E-05
+2011,sa,South America,saecu,Ecuador,ecu,"29,673,405 ",0.001210559
+2011,sa,South America,saguy,Guyana,guy,"265,725,668 ",0.010840569
+2011,sa,South America,saper,Peru,per,"683,352 ",2.78781E-05
+2011,sa,South America,sapry,Paraguay,pry,"86,156,953 ",0.003514867
+2011,sa,South America,sasur,Suriname,sur,"44,185,688 ",0.001802603
+2011,sa,South America,saury,Uruguay,ury,"483,037,448 ",0.01970604
+2011,sa,South America,saven,Venezuela,ven,362 ,1.48E-08
+2010,af,Africa,afago,Angola,ago,70 ,3.34E-09
+2010,af,Africa,afbdi,Burundi,bdi,"224,300 ",1.07041E-05
+2010,af,Africa,afben,Benin,ben,"91,260,346 ",0.004355152
+2010,af,Africa,afbfa,Burkina Faso,bfa,"601,175 ",2.86894E-05
+2010,af,Africa,afbwa,Botswana,bwa,"2,770,873 ",0.000132232
+2010,af,Africa,afciv,Cote d'Ivoire,civ,"4,476,819 ",0.000213644
+2010,af,Africa,afcmr,Cameroon,cmr,"701,393 ",3.34721E-05
+2010,af,Africa,afcod,Democratic Republic of the Congo,cod,"227,450 ",1.08544E-05
+2010,af,Africa,afcog,Republic of the Congo,cog,"838,382 ",4.00095E-05
+2010,af,Africa,afcpv,Cape Verde,cpv,"6,227 ",2.97E-07
+2010,af,Africa,afdji,Djibouti,dji,"1,676,176 ",7.99909E-05
+2010,af,Africa,afdza,Algeria,dza,"542,572 ",2.58928E-05
+2010,af,Africa,afegy,Egypt,egy,"330,870,439 ",0.015789893
+2010,af,Africa,afeth,Ethiopia,eth,"32,198 ",1.53656E-06
+2010,af,Africa,afgab,Gabon,gab,"21,618 ",1.03166E-06
+2010,af,Africa,afgha,Ghana,gha,"83,008 ",3.96133E-06
+2010,af,Africa,afgin,Guinea,gin,24 ,1.15E-09
+2010,af,Africa,afgmb,Gambia,gmb,"211,956 ",1.0115E-05
+2010,af,Africa,afgnq,Equatorial Guinea,gnq,"3,391 ",1.62E-07
+2010,af,Africa,afken,Kenya,ken,"1,575,296 ",7.51767E-05
+2010,af,Africa,aflbr,Liberia,lbr,"41,484 ",1.97971E-06
+2010,af,Africa,aflby,Libya,lby,"1,485,681 ",7.09001E-05
+2010,af,Africa,aflso,Lesotho,lso,"15,000 ",7.16E-07
+2010,af,Africa,afmar,Morocco,mar,"2,158,732 ",0.00010302
+2010,af,Africa,afmdg,Madagascar,mdg,"56,501 ",2.69636E-06
+2010,af,Africa,afmli,Mali,mli,"1,628,664 ",7.77236E-05
+2010,af,Africa,afmoz,Mozambique,moz,"6,849,348 ",0.000326867
+2010,af,Africa,afmrt,Mauritania,mrt,"13,414 ",6.40E-07
+2010,af,Africa,afmus,Mauritius,mus,"9,943,111 ",0.000474508
+2010,af,Africa,afmwi,Malawi,mwi,"1,012,397 ",4.83139E-05
+2010,af,Africa,afnam,Namibia,nam,"393,507 ",1.87791E-05
+2010,af,Africa,afner,Niger,ner,"6,145,926 ",0.000293298
+2010,af,Africa,afnga,Nigeria,nga,"52,571 ",2.50881E-06
+2010,af,Africa,afrwa,Rwanda,rwa,"110,887 ",5.29178E-06
+2010,af,Africa,afsdn,Sudan,sdn,943 ,4.50E-08
+2010,af,Africa,afsen,Senegal,sen,"21,565,884 ",0.001029173
+2010,af,Africa,afsle,Sierra Leone,sle,"3,609 ",1.72E-07
+2010,af,Africa,afstp,Sao Tome and Principe,stp,"155,827 ",7.43642E-06
+2010,af,Africa,afswz,Eswatini,swz,"6,526,806 ",0.000311474
+2010,af,Africa,afsyc,Seychelles,syc,"709,995 ",3.38826E-05
+2010,af,Africa,aftcd,Chad,tcd,"12,614 ",6.02E-07
+2010,af,Africa,aftgo,Togo,tgo,"6,153,601 ",0.000293664
+2010,af,Africa,aftun,Tunisia,tun,"4,452,367 ",0.000212477
+2010,af,Africa,aftza,Tanzania,tza,"23,314,274 ",0.00111261
+2010,af,Africa,afuga,Uganda,uga,"17,148,883 ",0.000818384
+2010,af,Africa,afzaf,South Africa,zaf,"67,724,058 ",0.003231947
+2010,af,Africa,afzmb,Zambia,zmb,"48,600 ",2.3193E-06
+2010,af,Africa,afzwe,Zimbabwe,zwe,"111,742 ",5.33258E-06
+2010,as,Asia,asafg,Afghanistan,afg,"177,183 ",8.45558E-06
+2010,as,Asia,asare,United Arab Emirates,are,"486,246,272 ",0.023204783
+2010,as,Asia,asarm,Armenia,arm,"14,338 ",6.84E-07
+2010,as,Asia,asaze,Azerbaijan,aze,138 ,6.59E-09
+2010,as,Asia,asbgd,Bangladesh,bgd,"3,353,959 ",0.000160059
+2010,as,Asia,asbhr,Bahrain,bhr,"248,234 ",1.18463E-05
+2010,as,Asia,asbrn,Brunei,brn,"515,763 ",2.46134E-05
+2010,as,Asia,asbtn,Bhutan,btn,"476,744 ",2.27513E-05
+2010,as,Asia,aschn,China,chn,"449,879,381 ",0.021469272
+2010,as,Asia,ascyp,Cyprus,cyp,"1,506,255 ",7.18819E-05
+2010,as,Asia,asgeo,Georgia,geo,38 ,1.81E-09
+2010,as,Asia,ashkg,Hong Kong,hkg,"19,377,485 ",0.000924738
+2010,as,Asia,asidn,Indonesia,idn,"915,451 ",4.36874E-05
+2010,as,Asia,asind,India,ind,"2,583,988,451 ",0.123313831
+2010,as,Asia,asirn,Iran,irn,"494,946 ",2.362E-05
+2010,as,Asia,asirq,Iraq,irq,"39,700 ",1.89457E-06
+2010,as,Asia,asisr,Israel,isr,"30,035,393 ",0.001433358
+2010,as,Asia,asjor,Jordan,jor,"1,350,542 ",6.44509E-05
+2010,as,Asia,asjpn,Japan,jpn,"46,945,009 ",0.002240323
+2010,as,Asia,askaz,Kazakhstan,kaz,"23,517,031 ",0.001122286
+2010,as,Asia,askgz,Kyrgyzstan,kgz,"1,460,049 ",6.96769E-05
+2010,as,Asia,askhm,Cambodia,khm,"40,179,096 ",0.001917438
+2010,as,Asia,askor,South Korea,kor,"7,987,937 ",0.000381203
+2010,as,Asia,askwt,Kuwait,kwt,"9,387,596 ",0.000447998
+2010,as,Asia,aslao,Laos,lao,"6,147,860 ",0.00029339
+2010,as,Asia,aslbn,Lebanon,lbn,"469,982 ",2.24286E-05
+2010,as,Asia,aslka,Sri Lanka,lka,"9,016,472 ",0.000430287
+2010,as,Asia,asmac,Macau,mac,"166,074 ",7.92543E-06
+2010,as,Asia,asmmr,Burma,mmr,"143,793,050 ",0.006862133
+2010,as,Asia,asmys,Malaysia,mys,"6,215,107 ",0.000296599
+2010,as,Asia,asnpl,Nepal,npl,"170,364 ",8.13016E-06
+2010,as,Asia,asomn,Oman,omn,"30,482,606 ",0.0014547
+2010,as,Asia,aspak,Pakistan,pak,"2,381,524,238 ",0.113651776
+2010,as,Asia,asphl,Philippines,phl,"1,012,377 ",4.83129E-05
+2010,as,Asia,asprk,North Korea,prk,"31,087 ",1.48354E-06
+2010,as,Asia,aspse,Palestine,pse,"186,975 ",8.92287E-06
+2010,as,Asia,asqat,Qatar,qat,"9,157 ",4.37E-07
+2010,as,Asia,assau,Saudi Arabia,sau,"7,675,767 ",0.000366305
+2010,as,Asia,assgp,Singapore,sgp,"42,531,929 ",0.002029721
+2010,as,Asia,assyr,Syria,syr,"35,268 ",1.68307E-06
+2010,as,Asia,astha,Thailand,tha,"5,359,940,716 ",0.255788614
+2010,as,Asia,astjk,Tajikistan,tjk,"2,226,086 ",0.000106234
+2010,as,Asia,astkm,Turkmenistan,tkm,"1,631 ",7.78E-08
+2010,as,Asia,astur,Turkey,tur,"57,850,942 ",0.002760779
+2010,as,Asia,asuzb,Uzbekistan,uzb,"5,468 ",2.61E-07
+2010,as,Asia,asvnm,Vietnam,vnm,"3,260,922,638 ",0.155618677
+2010,as,Asia,asxxb,Chinese Taipei,,"3,094,585 ",0.000147681
+2010,as,Asia,asyem,Yemen,yem,"3,974,836 ",0.000189688
+2010,eu,Europe,eualb,Albania,alb,"21,673 ",1.03429E-06
+2010,eu,Europe,euand,Andorra,and,"644,637 ",3.07636E-05
+2010,eu,Europe,euaut,Austria,aut,"6,488,887 ",0.000309665
+2010,eu,Europe,eubel,Belgium,bel,"156,268,474 ",0.007457489
+2010,eu,Europe,eubgr,Bulgaria,bgr,"28,070,864 ",0.001339606
+2010,eu,Europe,eubih,Bosnia and Herzegovina,bih,"98,906 ",4.72002E-06
+2010,eu,Europe,eublr,Belarus,blr,"496,800 ",2.37084E-05
+2010,eu,Europe,euche,Switzerland,che,"25,063,272 ",0.001196077
+2010,eu,Europe,eucze,Czechia,cze,"15,653,148 ",0.000747004
+2010,eu,Europe,eudeu,Germany,deu,"92,977,804 ",0.004437113
+2010,eu,Europe,eudnk,Denmark,dnk,"6,604,884 ",0.0003152
+2010,eu,Europe,euesp,Spain,esp,"206,682,890 ",0.00986338
+2010,eu,Europe,euest,Estonia,est,"371,565 ",1.77319E-05
+2010,eu,Europe,eufin,Finland,fin,"806,136 ",3.84707E-05
+2010,eu,Europe,eufra,France,fra,"81,745,335 ",0.003901074
+2010,eu,Europe,eugbr,United Kingdom,gbr,"50,798,219 ",0.002424207
+2010,eu,Europe,eugib,Gibraltar,gib,"3,105 ",1.48E-07
+2010,eu,Europe,eugrc,Greece,grc,"63,937,902 ",0.003051263
+2010,eu,Europe,euhrv,Croatia,hrv,"278,816 ",1.33057E-05
+2010,eu,Europe,euhun,Hungary,hun,"4,398,836 ",0.000209923
+2010,eu,Europe,euirl,Ireland,irl,"2,920,336 ",0.000139365
+2010,eu,Europe,euisl,Iceland,isl,92 ,4.39E-09
+2010,eu,Europe,euita,Italy,ita,"649,985,143 ",0.031018776
+2010,eu,Europe,eultu,Lithuania,ltu,"3,871,480 ",0.000184756
+2010,eu,Europe,eulux,Luxembourg,lux,"152,385 ",7.27216E-06
+2010,eu,Europe,eulva,Latvia,lva,"1,860,949 ",8.88087E-05
+2010,eu,Europe,eumda,Moldova,mda,"4,939 ",2.36E-07
+2010,eu,Europe,eumkd,North Macedonia,mkd,"3,388,807 ",0.000161722
+2010,eu,Europe,eumlt,Malta,mlt,"53,828 ",2.5688E-06
+2010,eu,Europe,eunld,Netherlands,nld,"124,535,527 ",0.00594312
+2010,eu,Europe,eunor,Norway,nor,"563,544 ",2.68936E-05
+2010,eu,Europe,eupol,Poland,pol,"10,899,354 ",0.000520142
+2010,eu,Europe,euprt,Portugal,prt,"20,916,881 ",0.000998201
+2010,eu,Europe,eurou,Romania,rou,"21,251,940 ",0.001014191
+2010,eu,Europe,eurus,Russia,rus,"92,504,395 ",0.004414521
+2010,eu,Europe,eusrb,Serbia,srb,"650,002 ",3.10196E-05
+2010,eu,Europe,eusvk,Slovakia,svk,"7,649,177 ",0.000365036
+2010,eu,Europe,eusvn,Slovenia,svn,"2,338,227 ",0.000111586
+2010,eu,Europe,euswe,Sweden,swe,"3,846,775 ",0.000183577
+2010,eu,Europe,euukr,Ukraine,ukr,"2,285,324 ",0.000109061
+2010,na,North America,naabw,Aruba,abw,"277,968 ",1.32653E-05
+2010,na,North America,naant,Netherlands Antilles,ant,"7,286 ",3.48E-07
+2010,na,North America,naatg,Antigua and Barbuda,atg,"397,068 ",1.8949E-05
+2010,na,North America,nabhs,Bahamas,bhs,"1,902 ",9.08E-08
+2010,na,North America,nablz,Belize,blz,"66,544 ",3.17563E-06
+2010,na,North America,nabrb,Barbados,brb,"109,450 ",5.2232E-06
+2010,na,North America,nacan,Canada,can,"5,755,548 ",0.000274668
+2010,na,North America,nacri,Costa Rica,cri,"980,534 ",4.67933E-05
+2010,na,North America,nadma,Dominica,dma,"1,852 ",8.84E-08
+2010,na,North America,nadom,Dominican Republic,dom,"18,576,552 ",0.000886515
+2010,na,North America,nagrd,Grenada,grd,"25,772 ",1.2299E-06
+2010,na,North America,nagtm,Guatemala,gtm,"1,748,343 ",8.34349E-05
+2010,na,North America,nahnd,Honduras,hnd,"1,277,156 ",6.09488E-05
+2010,na,North America,nahti,Haiti,hti,28 ,1.34E-09
+2010,na,North America,najam,Jamaica,jam,"1,240 ",5.92E-08
+2010,na,North America,nakna,Saint Kitts and Nevis,kna,"47,423 ",2.26313E-06
+2010,na,North America,nalca,Saint Lucia,lca,"416,238 ",1.98638E-05
+2010,na,North America,namex,Mexico,mex,"3,532,413 ",0.000168575
+2010,na,North America,nanic,Nicaragua,nic,"6,637,876 ",0.000316775
+2010,na,North America,napan,Panama,pan,"1,996,431 ",9.52742E-05
+2010,na,North America,naslv,El Salvador,slv,"1,777,239 ",8.48139E-05
+2010,na,North America,natca,Turks and Caicos Islands,tca,"17,358 ",8.28E-07
+2010,na,North America,natto,Trinidad and Tobago,tto,"615,795 ",2.93871E-05
+2010,na,North America,nausa,United States,usa,"2,390,926,790 ",0.114100488
+2010,na,North America,navct,Saint Vincent and the Grenadines,vct,"4,130,716 ",0.000197127
+2010,na,North America,navgb,British Virgin Islands,vgb,"335,080 ",1.59908E-05
+2010,oc,Oceania,ocasm,American Samoa,asm,"2,391 ",1.14E-07
+2010,oc,Oceania,ocaus,Australia,aus,"46,633,560 ",0.00222546
+2010,oc,Oceania,ocfji,Fiji,fji,"955,605 ",4.56037E-05
+2010,oc,Oceania,ocgum,Guam,gum,"53,288 ",2.54303E-06
+2010,oc,Oceania,ocmhl,Marshall Islands,mhl,"22,051 ",1.05232E-06
+2010,oc,Oceania,ocncl,New Caledonia,ncl,"7,556 ",3.61E-07
+2010,oc,Oceania,ocnzl,New Zealand,nzl,"948,632 ",4.52709E-05
+2010,oc,Oceania,ocpcn,Pitcairn Islands,pcn,"8,440 ",4.03E-07
+2010,oc,Oceania,ocpng,Papua New Guinea,png,"222,859 ",1.06353E-05
+2010,oc,Oceania,ocpyf,French Polynesia,pyf,561 ,2.68E-08
+2010,oc,Oceania,octkl,Tokelau,tkl,"1,624,734 ",7.7536E-05
+2010,oc,Oceania,ocwsm,Samoa,wsm,54 ,2.58E-09
+2010,sa,South America,saarg,Argentina,arg,"240,553,867 ",0.01147978
+2010,sa,South America,sabol,Bolivia,bol,"2,590,450 ",0.000123622
+2010,sa,South America,sabra,Brazil,bra,"175,162,024 ",0.008359132
+2010,sa,South America,sachl,Chile,chl,"1,088,081 ",5.19257E-05
+2010,sa,South America,sacol,Colombia,col,"251,856 ",1.20191E-05
+2010,sa,South America,saecu,Ecuador,ecu,"12,897,831 ",0.000615514
+2010,sa,South America,saguy,Guyana,guy,"188,626,729 ",0.009001698
+2010,sa,South America,saper,Peru,per,"1,459,588 ",6.96549E-05
+2010,sa,South America,sapry,Paraguay,pry,"64,439,301 ",0.003075191
+2010,sa,South America,sasur,Suriname,sur,"53,267,258 ",0.002542035
+2010,sa,South America,saury,Uruguay,ury,"390,979,195 ",0.01865842
+2010,sa,South America,saven,Venezuela,ven,"2,481,057 ",0.000118402
